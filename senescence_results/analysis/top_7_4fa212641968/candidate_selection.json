@@ -1,0 +1,17 @@
+{
+  "K_candidates": 7,
+  "program_ids": [
+    179,
+    163,
+    122,
+    196,
+    188,
+    60,
+    124
+  ],
+  "reason": "Selected from the score curve before molecular interpretation: the mean score decline is 0.0666 per rank over ranks 1-7 and 0.00687 over ranks 7-13. Seven is a practical elbow for focused interpretation, not a significance threshold.",
+  "boundary_score": 0.3161022966996841,
+  "fit_sha256": "df26b86c5bbf2e3733231bce8575b1cf3320968abfed1b3c89893a0c4008afa0",
+  "selection_fingerprint": "4fa212641968",
+  "selection_rule": "highest positive normalized scores; exact ties use ascending program ID"
+}

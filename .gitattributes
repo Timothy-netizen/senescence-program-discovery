@@ -1,0 +1,2 @@
+# Preserve exact source and frozen-input bytes across operating systems.
+* -text

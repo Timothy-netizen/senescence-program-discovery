@@ -1,0 +1,33 @@
+# Environments and execution caches
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+
+# Large data, generated checkpoints and downloads
+*.h5
+*.h5ad
+*.npz
+*.npy
+*.pt
+*.pth
+*.partial
+*.part
+*.tmp
+checkpoints/
+_atlas_downloads/
+_atlas_work/
+senescence_results/references/raw/
+
+# Regenerated figures and enrichment caches
+*.pdf
+*.png
+senescence_results/thesis_figures/
+**/enrichment_cache/
+
+# Thesis materials are submitted separately
+*.tex
+*.bib

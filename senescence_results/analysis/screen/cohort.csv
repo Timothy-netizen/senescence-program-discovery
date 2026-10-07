@@ -1,0 +1,5 @@
+stage,cells,young_mice,aged_mice,classes
+Complete atlas,1162565,64,44,25
+Exclude 10xV3.1 and wt/wt,1076794,64,38,25
+Exclude 08 CNU-MGE GABA,1074807,64,38,24
+At least 50 cells per measurement,1061512,57,38,24

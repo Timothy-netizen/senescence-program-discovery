@@ -1,0 +1,58 @@
+{
+  "fit_sha256": "df26b86c5bbf2e3733231bce8575b1cf3320968abfed1b3c89893a0c4008afa0",
+  "fit_run_id": "efeb151d0e1d449d9247d92ad5bf7dde",
+  "program_ids": "one-based dictionary row",
+  "python": "3.13.3",
+  "software": {
+    "numpy": "2.2.4",
+    "scipy": "1.16.1",
+    "pandas": "3.0.3",
+    "h5py": "3.16.0",
+    "matplotlib": "3.10.6",
+    "threadpoolctl": "3.6.0",
+    "gseapy": "1.3.1"
+  },
+  "tail_fraction": 0.15,
+  "minimum_cells": 50,
+  "identity_threshold": 0.5,
+  "reference": "equal measurements within mouse-class; equal mice within age-class; equal ages",
+  "regression_weights": "1 / measurements per mouse-class",
+  "reference_levels": {
+    "donor_sex": "F",
+    "region_of_interest_label": "HPF - ENT",
+    "enrichment_population": "Calcein-positive, Hoechst-positive",
+    "donor_genotype": "Ai14(RCL-tdT)/wt"
+  },
+  "cohort": [
+    {
+      "stage": "Complete atlas",
+      "cells": 1162565,
+      "young_mice": 64,
+      "aged_mice": 44,
+      "classes": 25
+    },
+    {
+      "stage": "Exclude 10xV3.1 and wt/wt",
+      "cells": 1076794,
+      "young_mice": 64,
+      "aged_mice": 38,
+      "classes": 25
+    },
+    {
+      "stage": "Exclude 08 CNU-MGE GABA",
+      "cells": 1074807,
+      "young_mice": 64,
+      "aged_mice": 38,
+      "classes": 24
+    },
+    {
+      "stage": "At least 50 cells per measurement",
+      "cells": 1061512,
+      "young_mice": 57,
+      "aged_mice": 38,
+      "classes": 24
+    }
+  ],
+  "design_rank": 70,
+  "inactive_programs": []
+}

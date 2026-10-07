@@ -1,0 +1,63 @@
+{
+  "fingerprint": "4d30dd92b767960941d4c3aeb6ec0f081ee29a003b5564aae125b70ac8c500fc",
+  "reference_sha256": {
+    "atlas_gene_identifiers.tsv": "883783110bda105a393b29c190ba17efa802149f997d2b951bb27013acea0e9e",
+    "reactome_mouse_ensembl.gmt": "978ba9964277d3e46195669e28af0e56463cdbbe8dc8f4db4457c44ebebe2136",
+    "senmayo_mouse_ensembl.gmt": "da3734c6b14ddb0eb3f7a382654424a1bdbd256ad401f4838595d9ecf2994841",
+    "senmayo_mouse_identifier_mapping.tsv": "e5fe0e056a6d049cdca683aa618c7261812a5cbe2562d96196eba0cfed6af8ff",
+    "reactome_mouse_pathway_relations.tsv": "9893d5ca31f12911dbb404adbd6b3390c933a722b56bc87698460dc884924e6d",
+    "reactome_mouse_pathways.tsv": "3ed414504f92dd0226d09df3eacd0f55f774ee8ebe2346f0ac9e5705b68388ed"
+  },
+  "parameters": {
+    "method": "multilevel",
+    "sample_size": 101,
+    "eps": 1e-10,
+    "permutation_num": 1000,
+    "weight": 1,
+    "seed": 2026,
+    "min_size": 15,
+    "max_size": 500,
+    "threads": 1,
+    "ascending": null,
+    "no_plot": true,
+    "outdir": null,
+    "verbose": false,
+    "organism": "mouse"
+  },
+  "gseapy_version": "1.3.1",
+  "program_ids": [
+    179,
+    163,
+    122,
+    196,
+    188,
+    60,
+    124
+  ],
+  "gene_universe_size": 22671,
+  "excluded_genes": 367,
+  "BH_families": {
+    "reactome_raw": {
+      "planned": 6664,
+      "estimated": 6634,
+      "unavailable": 30
+    },
+    "reactome_specificity": {
+      "planned": 6664,
+      "estimated": 6608,
+      "unavailable": 56
+    },
+    "senmayo_raw": {
+      "planned": 7,
+      "estimated": 7,
+      "unavailable": 0
+    },
+    "senmayo_specificity": {
+      "planned": 7,
+      "estimated": 7,
+      "unavailable": 0
+    }
+  },
+  "SenMayo_results_displayed": false,
+  "interpretations_are_human_judgments": true
+}

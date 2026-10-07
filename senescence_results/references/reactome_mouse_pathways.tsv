@@ -1,0 +1,1846 @@
+pathway_id	pathway_name	ensembl_gene_count	evidence_codes	reactome_url
+R-MMU-1059683	Interleukin-6 signaling	9	IEA	https://reactome.org/content/detail/R-MMU-1059683
+R-MMU-109581	Apoptosis	103	IEA	https://reactome.org/content/detail/R-MMU-109581
+R-MMU-109582	Hemostasis	630	IEA	https://reactome.org/content/detail/R-MMU-109582
+R-MMU-109606	Intrinsic Pathway for Apoptosis	39	IEA	https://reactome.org/content/detail/R-MMU-109606
+R-MMU-109703	PKB-mediated events	0		https://reactome.org/content/detail/R-MMU-109703
+R-MMU-109704	PI3K Cascade	39	IEA	https://reactome.org/content/detail/R-MMU-109704
+R-MMU-110056	MAPK3 (ERK1) activation	9	IEA	https://reactome.org/content/detail/R-MMU-110056
+R-MMU-110312	Translesion synthesis by REV1	17	IEA	https://reactome.org/content/detail/R-MMU-110312
+R-MMU-110313	Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template	38	IEA	https://reactome.org/content/detail/R-MMU-110313
+R-MMU-110314	Recognition of DNA damage by PCNA-containing replication complex	30	IEA	https://reactome.org/content/detail/R-MMU-110314
+R-MMU-110320	Translesion Synthesis by POLH	20	IEA	https://reactome.org/content/detail/R-MMU-110320
+R-MMU-110328	Recognition and association of DNA glycosylase with site containing an affected pyrimidine	1	IEA	https://reactome.org/content/detail/R-MMU-110328
+R-MMU-110329	Cleavage of the damaged pyrimidine 	8	IEA	https://reactome.org/content/detail/R-MMU-110329
+R-MMU-110330	Recognition and association of DNA glycosylase with site containing an affected purine	61	IEA	https://reactome.org/content/detail/R-MMU-110330
+R-MMU-110331	Cleavage of the damaged purine	63	IEA	https://reactome.org/content/detail/R-MMU-110331
+R-MMU-110357	Displacement of DNA glycosylase by APEX1	9	IEA	https://reactome.org/content/detail/R-MMU-110357
+R-MMU-110362	POLB-Dependent Long Patch Base Excision Repair	8	IEA	https://reactome.org/content/detail/R-MMU-110362
+R-MMU-110373	Resolution of AP sites via the multiple-nucleotide patch replacement pathway	24	IEA	https://reactome.org/content/detail/R-MMU-110373
+R-MMU-110381	Resolution of AP sites via the single-nucleotide replacement pathway	4	IEA	https://reactome.org/content/detail/R-MMU-110381
+R-MMU-111367	SLBP independent Processing of Histone Pre-mRNAs	10	IEA	https://reactome.org/content/detail/R-MMU-111367
+R-MMU-111446	Activation of BIM and translocation to mitochondria 	3	IEA	https://reactome.org/content/detail/R-MMU-111446
+R-MMU-111447	Activation of BAD and translocation to mitochondria 	12	IEA	https://reactome.org/content/detail/R-MMU-111447
+R-MMU-111448	Activation of NOXA and translocation to mitochondria	1	IEA	https://reactome.org/content/detail/R-MMU-111448
+R-MMU-111452	Activation and oligomerization of BAK protein	2	IEA	https://reactome.org/content/detail/R-MMU-111452
+R-MMU-111453	BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members	7	IEA	https://reactome.org/content/detail/R-MMU-111453
+R-MMU-111457	Release of apoptotic factors from the mitochondria	8	IEA	https://reactome.org/content/detail/R-MMU-111457
+R-MMU-111458	Formation of apoptosome	10	IEA	https://reactome.org/content/detail/R-MMU-111458
+R-MMU-111459	Activation of caspases through apoptosome-mediated cleavage	7	IEA	https://reactome.org/content/detail/R-MMU-111459
+R-MMU-111461	Cytochrome c-mediated apoptotic response	12	IEA	https://reactome.org/content/detail/R-MMU-111461
+R-MMU-111463	SMAC (DIABLO) binds to IAPs 	3	IEA	https://reactome.org/content/detail/R-MMU-111463
+R-MMU-111464	SMAC(DIABLO)-mediated dissociation of IAP:caspase complexes 	3	IEA	https://reactome.org/content/detail/R-MMU-111464
+R-MMU-111465	Apoptotic cleavage of cellular proteins	37	IEA	https://reactome.org/content/detail/R-MMU-111465
+R-MMU-111469	SMAC, XIAP-regulated apoptotic response	5	IEA	https://reactome.org/content/detail/R-MMU-111469
+R-MMU-111471	Apoptotic factor-mediated response	17	IEA	https://reactome.org/content/detail/R-MMU-111471
+R-MMU-111885	Opioid Signalling	71	IEA	https://reactome.org/content/detail/R-MMU-111885
+R-MMU-111931	PKA-mediated phosphorylation of CREB	17	IEA	https://reactome.org/content/detail/R-MMU-111931
+R-MMU-111932	CaMK IV-mediated phosphorylation of CREB	5	IEA	https://reactome.org/content/detail/R-MMU-111932
+R-MMU-111933	Calmodulin induced events	25	IEA	https://reactome.org/content/detail/R-MMU-111933
+R-MMU-111957	Cam-PDE 1 activation	6	IEA	https://reactome.org/content/detail/R-MMU-111957
+R-MMU-111995	phospho-PLA2 pathway	2	IEA	https://reactome.org/content/detail/R-MMU-111995
+R-MMU-111996	Ca-dependent events	27	IEA	https://reactome.org/content/detail/R-MMU-111996
+R-MMU-111997	CaM pathway	25	IEA	https://reactome.org/content/detail/R-MMU-111997
+R-MMU-112040	G-protein mediated events	39	IEA	https://reactome.org/content/detail/R-MMU-112040
+R-MMU-112043	PLC beta mediated events	34	IEA	https://reactome.org/content/detail/R-MMU-112043
+R-MMU-112303	Electric Transmission Across Gap Junctions	5	IEA	https://reactome.org/content/detail/R-MMU-112303
+R-MMU-112307	Transmission across Electrical Synapses 	5	IEA	https://reactome.org/content/detail/R-MMU-112307
+R-MMU-112308	Presynaptic depolarization and calcium channel opening	11	IEA	https://reactome.org/content/detail/R-MMU-112308
+R-MMU-112310	Neurotransmitter release cycle	51	IEA	https://reactome.org/content/detail/R-MMU-112310
+R-MMU-112311	Neurotransmitter clearance	8	IEA	https://reactome.org/content/detail/R-MMU-112311
+R-MMU-112313	Neurotransmitter uptake and metabolism In glial cells	4	IEA	https://reactome.org/content/detail/R-MMU-112313
+R-MMU-112314	Neurotransmitter receptors and postsynaptic signal transmission	142	IEA	https://reactome.org/content/detail/R-MMU-112314
+R-MMU-112315	Transmission across Chemical Synapses	209	IEA	https://reactome.org/content/detail/R-MMU-112315
+R-MMU-112316	Neuronal System	332	IEA	https://reactome.org/content/detail/R-MMU-112316
+R-MMU-112382	Formation of RNA Pol II elongation complex 	53	IEA	https://reactome.org/content/detail/R-MMU-112382
+R-MMU-112399	IRS-mediated signalling	40	IEA	https://reactome.org/content/detail/R-MMU-112399
+R-MMU-112409	RAF-independent MAPK1/3 activation	22	IEA	https://reactome.org/content/detail/R-MMU-112409
+R-MMU-112411	MAPK1 (ERK2) activation	8	IEA	https://reactome.org/content/detail/R-MMU-112411
+R-MMU-112412	SOS-mediated signalling	3	IEA	https://reactome.org/content/detail/R-MMU-112412
+R-MMU-113418	Formation of the Early Elongation Complex	32	IEA	https://reactome.org/content/detail/R-MMU-113418
+R-MMU-113501	Inhibition of replication initiation of damaged DNA by RB1/E2F1	10	IEA	https://reactome.org/content/detail/R-MMU-113501
+R-MMU-113510	E2F mediated regulation of DNA replication	10	IEA	https://reactome.org/content/detail/R-MMU-113510
+R-MMU-114294	Activation, translocation and oligomerization of BAX	2	IEA	https://reactome.org/content/detail/R-MMU-114294
+R-MMU-114452	Activation of BH3-only proteins	18	IEA	https://reactome.org/content/detail/R-MMU-114452
+R-MMU-114508	Effects of PIP2 hydrolysis	25	IEA	https://reactome.org/content/detail/R-MMU-114508
+R-MMU-114516	Disinhibition of SNARE formation	4	IEA	https://reactome.org/content/detail/R-MMU-114516
+R-MMU-114604	GPVI-mediated activation cascade	33	IEA	https://reactome.org/content/detail/R-MMU-114604
+R-MMU-114608	Platelet degranulation 	122	IEA	https://reactome.org/content/detail/R-MMU-114608
+R-MMU-1168372	Downstream signaling events of B Cell Receptor (BCR)	65	IEA	https://reactome.org/content/detail/R-MMU-1168372
+R-MMU-1169091	Activation of NF-kappaB in B cells	52	IEA	https://reactome.org/content/detail/R-MMU-1169091
+R-MMU-1169092	Activation of RAS in B cells	4	IEA	https://reactome.org/content/detail/R-MMU-1169092
+R-MMU-1169408	ISG15 antiviral mechanism	27	IEA	https://reactome.org/content/detail/R-MMU-1169408
+R-MMU-1169410	Antimicrobial mechanism of IFN-stimulated genes	96	IEA	https://reactome.org/content/detail/R-MMU-1169410
+R-MMU-1170546	Prolactin receptor signaling	9	IEA	https://reactome.org/content/detail/R-MMU-1170546
+R-MMU-1181150	Signaling by NODAL	6	IEA	https://reactome.org/content/detail/R-MMU-1181150
+R-MMU-1187000	Fertilization	25	IEA	https://reactome.org/content/detail/R-MMU-1187000
+R-MMU-1222556	ROS and RNS production in phagocytes	36	IEA	https://reactome.org/content/detail/R-MMU-1222556
+R-MMU-1227986	Signaling by ERBB2	45	IEA	https://reactome.org/content/detail/R-MMU-1227986
+R-MMU-1234158	Regulation of gene expression by Hypoxia-inducible Factor	6	IEA	https://reactome.org/content/detail/R-MMU-1234158
+R-MMU-1234174	Cellular response to hypoxia	57	IEA	https://reactome.org/content/detail/R-MMU-1234174
+R-MMU-1234176	Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha	53	IEA	https://reactome.org/content/detail/R-MMU-1234176
+R-MMU-1236394	Signaling by ERBB4	34	IEA	https://reactome.org/content/detail/R-MMU-1236394
+R-MMU-1236973	Cross-presentation of particulate exogenous antigens (phagosomes)	7	IEA	https://reactome.org/content/detail/R-MMU-1236973
+R-MMU-1236974	ER-Phagosome pathway	36	IEA	https://reactome.org/content/detail/R-MMU-1236974
+R-MMU-1236975	Antigen processing-Cross presentation	68	IEA	https://reactome.org/content/detail/R-MMU-1236975
+R-MMU-1236977	Endosomal/Vacuolar pathway	17	IEA	https://reactome.org/content/detail/R-MMU-1236977
+R-MMU-1236978	Cross-presentation of soluble exogenous antigens (endosomes)	40	IEA	https://reactome.org/content/detail/R-MMU-1236978
+R-MMU-1237044	Erythrocytes take up carbon dioxide and release oxygen	13	IEA	https://reactome.org/content/detail/R-MMU-1237044
+R-MMU-1237112	Methionine salvage pathway	4	IEA	https://reactome.org/content/detail/R-MMU-1237112
+R-MMU-1247673	Erythrocytes take up oxygen and release carbon dioxide	9	IEA	https://reactome.org/content/detail/R-MMU-1247673
+R-MMU-1250196	SHC1 events in ERBB2 signaling	14	IEA	https://reactome.org/content/detail/R-MMU-1250196
+R-MMU-1250342	PI3K events in ERBB4 signaling	8	IEA	https://reactome.org/content/detail/R-MMU-1250342
+R-MMU-1250347	SHC1 events in ERBB4 signaling	11	IEA	https://reactome.org/content/detail/R-MMU-1250347
+R-MMU-1251985	Nuclear signaling by ERBB4	11	IEA	https://reactome.org/content/detail/R-MMU-1251985
+R-MMU-1253288	Downregulation of ERBB4 signaling	10	IEA	https://reactome.org/content/detail/R-MMU-1253288
+R-MMU-1257604	PIP3 activates AKT signaling	231	IEA	https://reactome.org/content/detail/R-MMU-1257604
+R-MMU-1266695	Interleukin-7 signaling	25	IEA	https://reactome.org/content/detail/R-MMU-1266695
+R-MMU-1266738	Developmental Biology	537	IEA	https://reactome.org/content/detail/R-MMU-1266738
+R-MMU-1268020	Mitochondrial protein import	10	IEA	https://reactome.org/content/detail/R-MMU-1268020
+R-MMU-1280215	Cytokine Signaling in Immune system	470	IEA	https://reactome.org/content/detail/R-MMU-1280215
+R-MMU-1280218	Adaptive Immune System	885	IEA	https://reactome.org/content/detail/R-MMU-1280218
+R-MMU-1295596	Spry regulation of FGF signaling	17	IEA	https://reactome.org/content/detail/R-MMU-1295596
+R-MMU-1296025	ATP sensitive Potassium channels	4	IEA	https://reactome.org/content/detail/R-MMU-1296025
+R-MMU-1296041	Activation of G protein gated Potassium channels	29	IEA	https://reactome.org/content/detail/R-MMU-1296041
+R-MMU-1296052	Ca2+ activated K+ channels	6	IEA	https://reactome.org/content/detail/R-MMU-1296052
+R-MMU-1296053	Classical Kir channels	4	IEA	https://reactome.org/content/detail/R-MMU-1296053
+R-MMU-1296059	G protein gated Potassium channels	29	IEA	https://reactome.org/content/detail/R-MMU-1296059
+R-MMU-1296061	HCN channels	4	IEA	https://reactome.org/content/detail/R-MMU-1296061
+R-MMU-1296065	Inwardly rectifying K+ channels	35	IEA	https://reactome.org/content/detail/R-MMU-1296065
+R-MMU-1296067	Potassium transport channels	3	IEA	https://reactome.org/content/detail/R-MMU-1296067
+R-MMU-1296071	Potassium Channels	97	IEA	https://reactome.org/content/detail/R-MMU-1296071
+R-MMU-1296072	Voltage gated Potassium channels	41	IEA	https://reactome.org/content/detail/R-MMU-1296072
+R-MMU-1296346	Tandem pore domain potassium channels	11	IEA	https://reactome.org/content/detail/R-MMU-1296346
+R-MMU-1299287	Tandem pore domain halothane-inhibited K+ channel (THIK)	1	IEA	https://reactome.org/content/detail/R-MMU-1299287
+R-MMU-1299308	Tandem of pore domain in a weak inwardly rectifying K+ channels (TWIK)	3	IEA	https://reactome.org/content/detail/R-MMU-1299308
+R-MMU-1299316	TWIK-releated acid-sensitive K+ channel (TASK)	2	IEA	https://reactome.org/content/detail/R-MMU-1299316
+R-MMU-1299344	TWIK-related spinal cord K+ channel (TRESK)	1	IEA	https://reactome.org/content/detail/R-MMU-1299344
+R-MMU-1299361	TWIK-related alkaline pH activated K+ channel (TALK)	1	IEA	https://reactome.org/content/detail/R-MMU-1299361
+R-MMU-1299503	TWIK related potassium channel (TREK)	3	IEA	https://reactome.org/content/detail/R-MMU-1299503
+R-MMU-1300642	Sperm Motility And Taxes	9	IEA	https://reactome.org/content/detail/R-MMU-1300642
+R-MMU-1300645	Acrosome Reaction and Sperm:Oocyte Membrane Binding	6	IEA	https://reactome.org/content/detail/R-MMU-1300645
+R-MMU-1306955	GRB7 events in ERBB2 signaling	4	IEA	https://reactome.org/content/detail/R-MMU-1306955
+R-MMU-1307965	betaKlotho-mediated ligand binding	3	IEA	https://reactome.org/content/detail/R-MMU-1307965
+R-MMU-1358803	Downregulation of ERBB2:ERBB3 signaling	13	IEA	https://reactome.org/content/detail/R-MMU-1358803
+R-MMU-1362409	Mitochondrial iron-sulfur cluster biogenesis	12	IEA	https://reactome.org/content/detail/R-MMU-1362409
+R-MMU-1369007	Mitochondrial ABC transporters	3	IEA	https://reactome.org/content/detail/R-MMU-1369007
+R-MMU-1369062	ABC transporters in lipid homeostasis	17	IEA	https://reactome.org/content/detail/R-MMU-1369062
+R-MMU-139853	Elevation of cytosolic Ca2+ levels	13	IEA	https://reactome.org/content/detail/R-MMU-139853
+R-MMU-139910	Activation of BMF and translocation to mitochondria	3	IEA	https://reactome.org/content/detail/R-MMU-139910
+R-MMU-140179	Amine Oxidase reactions	4	IEA	https://reactome.org/content/detail/R-MMU-140179
+R-MMU-140180	COX reactions	1	IEA	https://reactome.org/content/detail/R-MMU-140180
+R-MMU-140342	Apoptosis induced DNA fragmentation	12	IEA	https://reactome.org/content/detail/R-MMU-140342
+R-MMU-140534	Caspase activation via Death Receptors in the presence of ligand	15	IEA	https://reactome.org/content/detail/R-MMU-140534
+R-MMU-141333	Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB	2	IEA	https://reactome.org/content/detail/R-MMU-141333
+R-MMU-141334	PAOs oxidise polyamines to amines	2	IEA	https://reactome.org/content/detail/R-MMU-141334
+R-MMU-141405	Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components	21	IEA	https://reactome.org/content/detail/R-MMU-141405
+R-MMU-141424	Amplification of signal from the kinetochores	93	IEA	https://reactome.org/content/detail/R-MMU-141424
+R-MMU-141430	Inactivation of APC/C via direct inhibition of the APC/C complex	21	IEA	https://reactome.org/content/detail/R-MMU-141430
+R-MMU-141444	Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal	93	IEA	https://reactome.org/content/detail/R-MMU-141444
+R-MMU-1428517	Aerobic respiration and respiratory electron transport	240	IEA	https://reactome.org/content/detail/R-MMU-1428517
+R-MMU-1430728	Metabolism	1844	IEA	https://reactome.org/content/detail/R-MMU-1430728
+R-MMU-1433557	Signaling by SCF-KIT	36	IEA	https://reactome.org/content/detail/R-MMU-1433557
+R-MMU-1433559	Regulation of KIT signaling	13	IEA	https://reactome.org/content/detail/R-MMU-1433559
+R-MMU-1442490	Collagen degradation	48	IEA	https://reactome.org/content/detail/R-MMU-1442490
+R-MMU-1461957	Beta defensins	18	IEA	https://reactome.org/content/detail/R-MMU-1461957
+R-MMU-1461973	Defensins	56	IEA	https://reactome.org/content/detail/R-MMU-1461973
+R-MMU-1462054	Alpha-defensins	38	IEA	https://reactome.org/content/detail/R-MMU-1462054
+R-MMU-1474151	Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation	10	IEA	https://reactome.org/content/detail/R-MMU-1474151
+R-MMU-1474165	Reproduction	29	IEA	https://reactome.org/content/detail/R-MMU-1474165
+R-MMU-1474228	Degradation of the extracellular matrix	109	IEA	https://reactome.org/content/detail/R-MMU-1474228
+R-MMU-1474244	Extracellular matrix organization	263	IEA	https://reactome.org/content/detail/R-MMU-1474244
+R-MMU-1474290	Collagen formation	75	IEA	https://reactome.org/content/detail/R-MMU-1474290
+R-MMU-1475029	Reversible hydration of carbon dioxide	12	IEA	https://reactome.org/content/detail/R-MMU-1475029
+R-MMU-1480926	O2/CO2 exchange in erythrocytes	13	IEA	https://reactome.org/content/detail/R-MMU-1480926
+R-MMU-1482788	Acyl chain remodelling of PC	27	IEA	https://reactome.org/content/detail/R-MMU-1482788
+R-MMU-1482798	Acyl chain remodeling of CL	5	IEA	https://reactome.org/content/detail/R-MMU-1482798
+R-MMU-1482801	Acyl chain remodelling of PS	22	IEA	https://reactome.org/content/detail/R-MMU-1482801
+R-MMU-1482839	Acyl chain remodelling of PE	27	IEA	https://reactome.org/content/detail/R-MMU-1482839
+R-MMU-1482883	Acyl chain remodeling of DAG and TAG	7	IEA	https://reactome.org/content/detail/R-MMU-1482883
+R-MMU-1482922	Acyl chain remodelling of PI	17	IEA	https://reactome.org/content/detail/R-MMU-1482922
+R-MMU-1482925	Acyl chain remodelling of PG	18	IEA	https://reactome.org/content/detail/R-MMU-1482925
+R-MMU-1483076	Synthesis of CL	1	IEA	https://reactome.org/content/detail/R-MMU-1483076
+R-MMU-1483101	Synthesis of PS	2	IEA	https://reactome.org/content/detail/R-MMU-1483101
+R-MMU-1483115	Hydrolysis of LPC	8	IEA	https://reactome.org/content/detail/R-MMU-1483115
+R-MMU-1483148	Synthesis of PG	1	IEA	https://reactome.org/content/detail/R-MMU-1483148
+R-MMU-1483152	Hydrolysis of LPE	1	IEA	https://reactome.org/content/detail/R-MMU-1483152
+R-MMU-1483166	Synthesis of PA	38	IEA	https://reactome.org/content/detail/R-MMU-1483166
+R-MMU-1483191	Synthesis of PC	25	IEA	https://reactome.org/content/detail/R-MMU-1483191
+R-MMU-1483196	PI and PC transport between ER and Golgi membranes	1	IEA	https://reactome.org/content/detail/R-MMU-1483196
+R-MMU-1483206	Glycerophospholipid biosynthesis	117	IEA	https://reactome.org/content/detail/R-MMU-1483206
+R-MMU-1483213	Synthesis of PE	11	IEA	https://reactome.org/content/detail/R-MMU-1483213
+R-MMU-1483226	Synthesis of PI	5	IEA	https://reactome.org/content/detail/R-MMU-1483226
+R-MMU-1483248	Synthesis of PIPs at the ER membrane	5	IEA	https://reactome.org/content/detail/R-MMU-1483248
+R-MMU-1483249	Inositol phosphate metabolism	78	IEA	https://reactome.org/content/detail/R-MMU-1483249
+R-MMU-1483255	PI Metabolism	76	IEA	https://reactome.org/content/detail/R-MMU-1483255
+R-MMU-1483257	Phospholipid metabolism	192	IEA	https://reactome.org/content/detail/R-MMU-1483257
+R-MMU-1489509	DAG and IP3 signaling	26	IEA	https://reactome.org/content/detail/R-MMU-1489509
+R-MMU-1500620	Meiosis	4	IEA	https://reactome.org/content/detail/R-MMU-1500620
+R-MMU-1500931	Cell-Cell communication	273	IEA	https://reactome.org/content/detail/R-MMU-1500931
+R-MMU-1502540	Signaling by Activin	15	IEA	https://reactome.org/content/detail/R-MMU-1502540
+R-MMU-1538133	G0 and Early G1	17	IEA	https://reactome.org/content/detail/R-MMU-1538133
+R-MMU-156580	Phase II - Conjugation of compounds	98	IEA	https://reactome.org/content/detail/R-MMU-156580
+R-MMU-156581	Methylation	15	IEA	https://reactome.org/content/detail/R-MMU-156581
+R-MMU-156582	Acetylation	3	IEA	https://reactome.org/content/detail/R-MMU-156582
+R-MMU-156584	Cytosolic sulfonation of small molecules	14	IEA	https://reactome.org/content/detail/R-MMU-156584
+R-MMU-156587	Amino Acid conjugation	6	IEA	https://reactome.org/content/detail/R-MMU-156587
+R-MMU-156588	Glucuronidation	24	IEA	https://reactome.org/content/detail/R-MMU-156588
+R-MMU-156590	Glutathione conjugation	37	IEA	https://reactome.org/content/detail/R-MMU-156590
+R-MMU-1566948	Elastic fibre formation	39	IEA	https://reactome.org/content/detail/R-MMU-1566948
+R-MMU-1566977	Fibronectin matrix formation	14	IEA	https://reactome.org/content/detail/R-MMU-1566977
+R-MMU-156711	Polo-like kinase mediated events	5	IEA	https://reactome.org/content/detail/R-MMU-156711
+R-MMU-156827	L13a-mediated translational silencing of Ceruloplasmin expression	113	IEA	https://reactome.org/content/detail/R-MMU-156827
+R-MMU-156842	Eukaryotic Translation Elongation	5	IEA	https://reactome.org/content/detail/R-MMU-156842
+R-MMU-156902	Peptide chain elongation	1	IEA	https://reactome.org/content/detail/R-MMU-156902
+R-MMU-157118	Signaling by NOTCH	40	IEA	https://reactome.org/content/detail/R-MMU-157118
+R-MMU-157579	Telomere Maintenance	105	IEA	https://reactome.org/content/detail/R-MMU-157579
+R-MMU-157858	Gap junction trafficking and regulation	44	IEA	https://reactome.org/content/detail/R-MMU-157858
+R-MMU-15869	Metabolism of nucleotides	98	IEA	https://reactome.org/content/detail/R-MMU-15869
+R-MMU-1592230	Mitochondrial biogenesis	31	IEA	https://reactome.org/content/detail/R-MMU-1592230
+R-MMU-159227	Transport of the SLBP independent Mature mRNA	35	IEA	https://reactome.org/content/detail/R-MMU-159227
+R-MMU-159230	Transport of the SLBP Dependant Mature mRNA	36	IEA	https://reactome.org/content/detail/R-MMU-159230
+R-MMU-159231	Transport of Mature mRNA Derived from an Intronless Transcript	42	IEA	https://reactome.org/content/detail/R-MMU-159231
+R-MMU-159234	Transport of Mature mRNAs Derived from Intronless Transcripts	43	IEA	https://reactome.org/content/detail/R-MMU-159234
+R-MMU-159236	Transport of Mature mRNA derived from an Intron-Containing Transcript	72	IEA	https://reactome.org/content/detail/R-MMU-159236
+R-MMU-1592389	Activation of Matrix Metalloproteinases	36	IEA	https://reactome.org/content/detail/R-MMU-1592389
+R-MMU-159418	Recycling of bile acids and salts	17	IEA	https://reactome.org/content/detail/R-MMU-159418
+R-MMU-159424	Conjugation of carboxylic acids	6	IEA	https://reactome.org/content/detail/R-MMU-159424
+R-MMU-159740	Gamma-carboxylation of protein precursors	9	IEA	https://reactome.org/content/detail/R-MMU-159740
+R-MMU-159763	Transport of gamma-carboxylated protein precursors from the endoplasmic reticulum to the Golgi apparatus	9	IEA	https://reactome.org/content/detail/R-MMU-159763
+R-MMU-159782	Removal of aminoterminal propeptides from gamma-carboxylated proteins	10	IEA	https://reactome.org/content/detail/R-MMU-159782
+R-MMU-159854	Gamma-carboxylation, transport, and amino-terminal cleavage of proteins	11	IEA	https://reactome.org/content/detail/R-MMU-159854
+R-MMU-1606322	ZBP1(DAI) mediated induction of type I IFNs	13	IEA	https://reactome.org/content/detail/R-MMU-1606322
+R-MMU-1606341	IRF3 mediated activation of type 1 IFN	1	IEA	https://reactome.org/content/detail/R-MMU-1606341
+R-MMU-1614517	Sulfide oxidation to sulfate	5	IEA	https://reactome.org/content/detail/R-MMU-1614517
+R-MMU-1614558	Degradation of cysteine and homocysteine	13	IEA	https://reactome.org/content/detail/R-MMU-1614558
+R-MMU-1614603	Cysteine formation from homocysteine	2	IEA	https://reactome.org/content/detail/R-MMU-1614603
+R-MMU-1614635	Sulfur amino acid metabolism	26	IEA	https://reactome.org/content/detail/R-MMU-1614635
+R-MMU-162582	Signal Transduction	2230	IEA	https://reactome.org/content/detail/R-MMU-162582
+R-MMU-162658	Golgi Cisternae Pericentriolar Stack Reorganization	10	IEA	https://reactome.org/content/detail/R-MMU-162658
+R-MMU-162699	Synthesis of dolichyl-phosphate mannose	4	IEA	https://reactome.org/content/detail/R-MMU-162699
+R-MMU-162710	Synthesis of glycosylphosphatidylinositol (GPI)	17	IEA	https://reactome.org/content/detail/R-MMU-162710
+R-MMU-162791	Attachment of GPI anchor to uPAR	7	IEA	https://reactome.org/content/detail/R-MMU-162791
+R-MMU-1630316	Glycosaminoglycan metabolism	133	IEA	https://reactome.org/content/detail/R-MMU-1630316
+R-MMU-163125	Post-translational modification: synthesis of GPI-anchored proteins	90	IEA	https://reactome.org/content/detail/R-MMU-163125
+R-MMU-163210	Formation of ATP by chemiosmotic coupling	20	IEA	https://reactome.org/content/detail/R-MMU-163210
+R-MMU-163282	Mitochondrial transcription initiation	3	IEA	https://reactome.org/content/detail/R-MMU-163282
+R-MMU-1632852	Macroautophagy	129	IEA	https://reactome.org/content/detail/R-MMU-1632852
+R-MMU-163359	Glucagon signaling in metabolic regulation	7	IEA	https://reactome.org/content/detail/R-MMU-163359
+R-MMU-163560	Triglyceride catabolism	11	IEA	https://reactome.org/content/detail/R-MMU-163560
+R-MMU-163615	PKA activation	17	IEA	https://reactome.org/content/detail/R-MMU-163615
+R-MMU-163680	AMPK inhibits chREBP transcriptional activation activity	6	IEA	https://reactome.org/content/detail/R-MMU-163680
+R-MMU-163685	Integration of energy metabolism	72	IEA	https://reactome.org/content/detail/R-MMU-163685
+R-MMU-163754	Insulin effects increased synthesis of Xylulose-5-Phosphate	2	IEA	https://reactome.org/content/detail/R-MMU-163754
+R-MMU-1638074	Keratan sulfate/keratin metabolism	37	IEA	https://reactome.org/content/detail/R-MMU-1638074
+R-MMU-1638091	Heparan sulfate/heparin (HS-GAG) metabolism	39	IEA	https://reactome.org/content/detail/R-MMU-1638091
+R-MMU-163841	Gamma carboxylation, hypusinylation, hydroxylation, and arylsulfatase activation	56	IEA	https://reactome.org/content/detail/R-MMU-163841
+R-MMU-1640170	Cell Cycle	612	IEA	https://reactome.org/content/detail/R-MMU-1640170
+R-MMU-164378	PKA activation in glucagon signalling	5	IEA	https://reactome.org/content/detail/R-MMU-164378
+R-MMU-1650814	Collagen biosynthesis and modifying enzymes	61	IEA	https://reactome.org/content/detail/R-MMU-1650814
+R-MMU-165158	Activation of AKT2	4	IEA	https://reactome.org/content/detail/R-MMU-165158
+R-MMU-165159	MTOR signalling	43	IEA	https://reactome.org/content/detail/R-MMU-165159
+R-MMU-165160	PDE3B signalling	0		https://reactome.org/content/detail/R-MMU-165160
+R-MMU-165181	Inhibition of TSC complex formation by AKT (PKB)	5	IEA	https://reactome.org/content/detail/R-MMU-165181
+R-MMU-1655829	Regulation of cholesterol biosynthesis by SREBP (SREBF)	7	IEA	https://reactome.org/content/detail/R-MMU-1655829
+R-MMU-166016	Toll Like Receptor 4 (TLR4) Cascade	119	IEA	https://reactome.org/content/detail/R-MMU-166016
+R-MMU-166020	Transfer of LPS from LBP carrier to CD14	2	IEA	https://reactome.org/content/detail/R-MMU-166020
+R-MMU-1660499	Synthesis of PIPs at the plasma membrane	50	IEA	https://reactome.org/content/detail/R-MMU-1660499
+R-MMU-1660514	Synthesis of PIPs at the Golgi membrane	17	IEA	https://reactome.org/content/detail/R-MMU-1660514
+R-MMU-1660516	Synthesis of PIPs at the early endosome membrane	15	IEA	https://reactome.org/content/detail/R-MMU-1660516
+R-MMU-1660517	Synthesis of PIPs at the late endosome membrane	10	IEA	https://reactome.org/content/detail/R-MMU-1660517
+R-MMU-166058	MyD88:MAL(TIRAP) cascade initiated on plasma membrane	85	IEA	https://reactome.org/content/detail/R-MMU-166058
+R-MMU-1660661	Sphingolipid de novo biosynthesis	27	IEA	https://reactome.org/content/detail/R-MMU-1660661
+R-MMU-1660662	Glycosphingolipid metabolism	53	IEA	https://reactome.org/content/detail/R-MMU-1660662
+R-MMU-166166	MyD88-independent TLR4 cascade 	102	IEA	https://reactome.org/content/detail/R-MMU-166166
+R-MMU-166187	Mitochondrial Uncoupling	7	IEA	https://reactome.org/content/detail/R-MMU-166187
+R-MMU-166208	mTORC1-mediated signalling	23	IEA	https://reactome.org/content/detail/R-MMU-166208
+R-MMU-1663150	The activation of arylsulfatases	9	IEA	https://reactome.org/content/detail/R-MMU-1663150
+R-MMU-166520	Signaling by NTRKs	75	IEA	https://reactome.org/content/detail/R-MMU-166520
+R-MMU-166658	Complement cascade	153	IEA	https://reactome.org/content/detail/R-MMU-166658
+R-MMU-166662	Lectin pathway of complement activation	7	IEA	https://reactome.org/content/detail/R-MMU-166662
+R-MMU-166663	Initial triggering of complement	126	IEA	https://reactome.org/content/detail/R-MMU-166663
+R-MMU-166665	Terminal pathway of complement	8	IEA	https://reactome.org/content/detail/R-MMU-166665
+R-MMU-166786	Creation of C4 and C2 activators	119	IEA	https://reactome.org/content/detail/R-MMU-166786
+R-MMU-167044	Signalling to RAS	12	IEA	https://reactome.org/content/detail/R-MMU-167044
+R-MMU-167060	NGF processing	4	IEA	https://reactome.org/content/detail/R-MMU-167060
+R-MMU-167826	The fatty acid cycling model	5	IEA	https://reactome.org/content/detail/R-MMU-167826
+R-MMU-1679131	Trafficking and processing of endosomal TLR	11	IEA	https://reactome.org/content/detail/R-MMU-1679131
+R-MMU-168138	Toll Like Receptor 9 (TLR9) Cascade	98	IEA	https://reactome.org/content/detail/R-MMU-168138
+R-MMU-168142	Toll Like Receptor 10 (TLR10) Cascade	84	IEA	https://reactome.org/content/detail/R-MMU-168142
+R-MMU-168164	Toll Like Receptor 3 (TLR3) Cascade	82	IEA	https://reactome.org/content/detail/R-MMU-168164
+R-MMU-168176	Toll Like Receptor 5 (TLR5) Cascade	84	IEA	https://reactome.org/content/detail/R-MMU-168176
+R-MMU-168179	Toll Like Receptor TLR1:TLR2 Cascade	85	IEA	https://reactome.org/content/detail/R-MMU-168179
+R-MMU-168181	Toll Like Receptor 7/8 (TLR7/8) Cascade	94	IEA	https://reactome.org/content/detail/R-MMU-168181
+R-MMU-168188	Toll Like Receptor TLR6:TLR2 Cascade	85	IEA	https://reactome.org/content/detail/R-MMU-168188
+R-MMU-168249	Innate Immune System	1050	IEA	https://reactome.org/content/detail/R-MMU-168249
+R-MMU-168256	Immune System	1888	IEA	https://reactome.org/content/detail/R-MMU-168256
+R-MMU-168638	NOD1/2 Signaling Pathway	32	IEA	https://reactome.org/content/detail/R-MMU-168638
+R-MMU-168643	Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways	46	IEA	https://reactome.org/content/detail/R-MMU-168643
+R-MMU-168898	Toll-like Receptor Cascades	150	IEA	https://reactome.org/content/detail/R-MMU-168898
+R-MMU-168928	DDX58/IFIH1-mediated induction of interferon-alpha/beta	34	IEA	https://reactome.org/content/detail/R-MMU-168928
+R-MMU-169893	Prolonged ERK activation events	14	IEA	https://reactome.org/content/detail/R-MMU-169893
+R-MMU-169911	Regulation of Apoptosis	2	IEA	https://reactome.org/content/detail/R-MMU-169911
+R-MMU-170660	Adenylate cyclase activating pathway	10	IEA	https://reactome.org/content/detail/R-MMU-170660
+R-MMU-170670	Adenylate cyclase inhibitory pathway	14	IEA	https://reactome.org/content/detail/R-MMU-170670
+R-MMU-170822	Regulation of Glucokinase by Glucokinase Regulatory Protein	32	IEA	https://reactome.org/content/detail/R-MMU-170822
+R-MMU-170834	Signaling by TGF-beta Receptor Complex	74	IEA	https://reactome.org/content/detail/R-MMU-170834
+R-MMU-170968	Frs2-mediated activation	12	IEA	https://reactome.org/content/detail/R-MMU-170968
+R-MMU-170984	ARMS-mediated activation	5	IEA	https://reactome.org/content/detail/R-MMU-170984
+R-MMU-171007	p38MAPK events	7	IEA	https://reactome.org/content/detail/R-MMU-171007
+R-MMU-171319	Telomere Extension By Telomerase	20	IEA	https://reactome.org/content/detail/R-MMU-171319
+R-MMU-173599	Formation of the active cofactor, UDP-glucuronate	4	IEA	https://reactome.org/content/detail/R-MMU-173599
+R-MMU-173623	Classical antibody-mediated complement activation	112	IEA	https://reactome.org/content/detail/R-MMU-173623
+R-MMU-173736	Alternative complement activation	5	IEA	https://reactome.org/content/detail/R-MMU-173736
+R-MMU-174048	APC/C:Cdc20 mediated degradation of Cyclin B	25	IEA	https://reactome.org/content/detail/R-MMU-174048
+R-MMU-174084	Autodegradation of Cdh1 by Cdh1:APC/C	54	IEA	https://reactome.org/content/detail/R-MMU-174084
+R-MMU-174113	SCF-beta-TrCP mediated degradation of Emi1	10	IEA	https://reactome.org/content/detail/R-MMU-174113
+R-MMU-174143	APC/C-mediated degradation of cell cycle proteins	74	IEA	https://reactome.org/content/detail/R-MMU-174143
+R-MMU-174154	APC/C:Cdc20 mediated degradation of Securin	55	IEA	https://reactome.org/content/detail/R-MMU-174154
+R-MMU-174178	APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1	61	IEA	https://reactome.org/content/detail/R-MMU-174178
+R-MMU-174184	Cdc20:Phospho-APC/C mediated degradation of Cyclin A	60	IEA	https://reactome.org/content/detail/R-MMU-174184
+R-MMU-174362	Transport and metabolism of PAPS	7	IEA	https://reactome.org/content/detail/R-MMU-174362
+R-MMU-174403	Glutathione synthesis and recycling	12	IEA	https://reactome.org/content/detail/R-MMU-174403
+R-MMU-174411	Polymerase switching on the C-strand of the telomere	24	IEA	https://reactome.org/content/detail/R-MMU-174411
+R-MMU-174414	Processive synthesis on the C-strand of the telomere	17	IEA	https://reactome.org/content/detail/R-MMU-174414
+R-MMU-174417	Telomere C-strand (Lagging Strand) Synthesis	32	IEA	https://reactome.org/content/detail/R-MMU-174417
+R-MMU-174430	Telomere C-strand synthesis initiation	12	IEA	https://reactome.org/content/detail/R-MMU-174430
+R-MMU-174437	Removal of the Flap Intermediate from the C-strand	15	IEA	https://reactome.org/content/detail/R-MMU-174437
+R-MMU-174577	Activation of C3 and C5	6	IEA	https://reactome.org/content/detail/R-MMU-174577
+R-MMU-174824	Plasma lipoprotein assembly, remodeling, and clearance	65	IEA	https://reactome.org/content/detail/R-MMU-174824
+R-MMU-176187	Activation of ATR in response to replication stress	36	IEA	https://reactome.org/content/detail/R-MMU-176187
+R-MMU-176407	Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase	20	IEA	https://reactome.org/content/detail/R-MMU-176407
+R-MMU-176408	Regulation of APC/C activators between G1/S and early anaphase	36	IEA	https://reactome.org/content/detail/R-MMU-176408
+R-MMU-176409	APC/C:Cdc20 mediated degradation of mitotic proteins	63	IEA	https://reactome.org/content/detail/R-MMU-176409
+R-MMU-176412	Phosphorylation of the APC/C	20	IEA	https://reactome.org/content/detail/R-MMU-176412
+R-MMU-176417	Phosphorylation of Emi1	6	IEA	https://reactome.org/content/detail/R-MMU-176417
+R-MMU-176814	Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins	64	IEA	https://reactome.org/content/detail/R-MMU-176814
+R-MMU-176974	Unwinding of DNA	4	IEA	https://reactome.org/content/detail/R-MMU-176974
+R-MMU-177128	Conjugation of salicylate with glycine	5	IEA	https://reactome.org/content/detail/R-MMU-177128
+R-MMU-177135	Conjugation of benzoate with glycine	4	IEA	https://reactome.org/content/detail/R-MMU-177135
+R-MMU-177162	Conjugation of phenylacetate with glutamine	2	IEA	https://reactome.org/content/detail/R-MMU-177162
+R-MMU-177504	Retrograde neurotrophin signalling	11	IEA	https://reactome.org/content/detail/R-MMU-177504
+R-MMU-177929	Signaling by EGFR	50	IEA	https://reactome.org/content/detail/R-MMU-177929
+R-MMU-1793185	Chondroitin sulfate/dermatan sulfate metabolism	36	IEA	https://reactome.org/content/detail/R-MMU-1793185
+R-MMU-179409	APC-Cdc20 mediated degradation of Nek2A	27	IEA	https://reactome.org/content/detail/R-MMU-179409
+R-MMU-179419	APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint	61	IEA	https://reactome.org/content/detail/R-MMU-179419
+R-MMU-179812	GRB2 events in EGFR signaling	12	IEA	https://reactome.org/content/detail/R-MMU-179812
+R-MMU-1799339	SRP-dependent cotranslational protein targeting to membrane	95	IEA	https://reactome.org/content/detail/R-MMU-1799339
+R-MMU-180024	DARPP-32 events	17	IEA	https://reactome.org/content/detail/R-MMU-180024
+R-MMU-180292	GAB1 signalosome	17	IEA	https://reactome.org/content/detail/R-MMU-180292
+R-MMU-180336	SHC1 events in EGFR signaling	13	IEA	https://reactome.org/content/detail/R-MMU-180336
+R-MMU-180786	Extension of Telomeres	47	IEA	https://reactome.org/content/detail/R-MMU-180786
+R-MMU-1810476	RIP-mediated NFkB activation via ZBP1	12	IEA	https://reactome.org/content/detail/R-MMU-1810476
+R-MMU-181429	Serotonin Neurotransmitter Release Cycle	18	IEA	https://reactome.org/content/detail/R-MMU-181429
+R-MMU-181430	Norepinephrine Neurotransmitter Release Cycle	18	IEA	https://reactome.org/content/detail/R-MMU-181430
+R-MMU-181431	Acetylcholine binding and downstream events	14	IEA	https://reactome.org/content/detail/R-MMU-181431
+R-MMU-181438	Toll Like Receptor 2 (TLR2) Cascade	85	IEA	https://reactome.org/content/detail/R-MMU-181438
+R-MMU-182971	EGFR downregulation	32	IEA	https://reactome.org/content/detail/R-MMU-182971
+R-MMU-1834941	STING mediated induction of host immune responses	7	IEA	https://reactome.org/content/detail/R-MMU-1834941
+R-MMU-1834949	Cytosolic sensors of pathogen-associated DNA 	33	IEA	https://reactome.org/content/detail/R-MMU-1834949
+R-MMU-1852241	Organelle biogenesis and maintenance	236	IEA	https://reactome.org/content/detail/R-MMU-1852241
+R-MMU-1855167	Synthesis of pyrophosphates in the cytosol	10	IEA	https://reactome.org/content/detail/R-MMU-1855167
+R-MMU-1855170	IPs transport between nucleus and cytosol	30	IEA	https://reactome.org/content/detail/R-MMU-1855170
+R-MMU-1855183	Synthesis of IP2, IP, and Ins in the cytosol	12	IEA	https://reactome.org/content/detail/R-MMU-1855183
+R-MMU-1855191	Synthesis of IPs in the nucleus	4	IEA	https://reactome.org/content/detail/R-MMU-1855191
+R-MMU-1855196	IP3 and IP4 transport between cytosol and nucleus	30	IEA	https://reactome.org/content/detail/R-MMU-1855196
+R-MMU-1855204	Synthesis of IP3 and IP4 in the cytosol	28	IEA	https://reactome.org/content/detail/R-MMU-1855204
+R-MMU-1855229	IP6 and IP7 transport between cytosol and nucleus	30	IEA	https://reactome.org/content/detail/R-MMU-1855229
+R-MMU-1855231	Synthesis of IPs in the ER lumen	1	IEA	https://reactome.org/content/detail/R-MMU-1855231
+R-MMU-186712	Regulation of beta-cell development	4	IEA	https://reactome.org/content/detail/R-MMU-186712
+R-MMU-186763	Downstream signal transduction	27	IEA	https://reactome.org/content/detail/R-MMU-186763
+R-MMU-186797	Signaling by PDGF	53	IEA	https://reactome.org/content/detail/R-MMU-186797
+R-MMU-187015	Activation of TRKA receptors	2	IEA	https://reactome.org/content/detail/R-MMU-187015
+R-MMU-187037	Signaling by NTRK1 (TRKA)	63	IEA	https://reactome.org/content/detail/R-MMU-187037
+R-MMU-187042	TRKA activation by NGF	2	IEA	https://reactome.org/content/detail/R-MMU-187042
+R-MMU-187577	SCF(Skp2)-mediated degradation of p27/p21	50	IEA	https://reactome.org/content/detail/R-MMU-187577
+R-MMU-187687	Signalling to ERKs	26	IEA	https://reactome.org/content/detail/R-MMU-187687
+R-MMU-189085	Digestion of dietary carbohydrate	10	IEA	https://reactome.org/content/detail/R-MMU-189085
+R-MMU-189200	Cellular hexose transport	19	IEA	https://reactome.org/content/detail/R-MMU-189200
+R-MMU-189445	Metabolism of porphyrins	26	IEA	https://reactome.org/content/detail/R-MMU-189445
+R-MMU-189451	Heme biosynthesis	13	IEA	https://reactome.org/content/detail/R-MMU-189451
+R-MMU-189483	Heme degradation	14	IEA	https://reactome.org/content/detail/R-MMU-189483
+R-MMU-190236	Signaling by FGFR	77	IEA	https://reactome.org/content/detail/R-MMU-190236
+R-MMU-190239	FGFR3 ligand binding and activation	13	IEA	https://reactome.org/content/detail/R-MMU-190239
+R-MMU-190241	FGFR2 ligand binding and activation	18	IEA	https://reactome.org/content/detail/R-MMU-190241
+R-MMU-190242	FGFR1 ligand binding and activation	17	IEA	https://reactome.org/content/detail/R-MMU-190242
+R-MMU-190322	FGFR4 ligand binding and activation	14	IEA	https://reactome.org/content/detail/R-MMU-190322
+R-MMU-190370	FGFR1b ligand binding and activation	8	IEA	https://reactome.org/content/detail/R-MMU-190370
+R-MMU-190371	FGFR3b ligand binding and activation	7	IEA	https://reactome.org/content/detail/R-MMU-190371
+R-MMU-190372	FGFR3c ligand binding and activation	13	IEA	https://reactome.org/content/detail/R-MMU-190372
+R-MMU-190373	FGFR1c ligand binding and activation	13	IEA	https://reactome.org/content/detail/R-MMU-190373
+R-MMU-190374	FGFR1c and Klotho ligand binding and activation	3	IEA	https://reactome.org/content/detail/R-MMU-190374
+R-MMU-190375	FGFR2c ligand binding and activation	12	IEA	https://reactome.org/content/detail/R-MMU-190375
+R-MMU-190377	FGFR2b ligand binding and activation	8	IEA	https://reactome.org/content/detail/R-MMU-190377
+R-MMU-190704	Oligomerization of connexins into connexons	1	IEA	https://reactome.org/content/detail/R-MMU-190704
+R-MMU-190828	Gap junction trafficking	42	IEA	https://reactome.org/content/detail/R-MMU-190828
+R-MMU-190840	Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane	16	IEA	https://reactome.org/content/detail/R-MMU-190840
+R-MMU-190861	Gap junction assembly	32	IEA	https://reactome.org/content/detail/R-MMU-190861
+R-MMU-190872	Transport of connexons to the plasma membrane	17	IEA	https://reactome.org/content/detail/R-MMU-190872
+R-MMU-190873	Gap junction degradation	11	IEA	https://reactome.org/content/detail/R-MMU-190873
+R-MMU-1912408	Pre-NOTCH Transcription and Translation	2	IEA	https://reactome.org/content/detail/R-MMU-1912408
+R-MMU-1912420	Pre-NOTCH Processing in Golgi	5	IEA	https://reactome.org/content/detail/R-MMU-1912420
+R-MMU-1912422	Pre-NOTCH Expression and Processing	7	IEA	https://reactome.org/content/detail/R-MMU-1912422
+R-MMU-191273	Cholesterol biosynthesis	28	IEA	https://reactome.org/content/detail/R-MMU-191273
+R-MMU-191650	Regulation of gap junction activity	3	IEA	https://reactome.org/content/detail/R-MMU-191650
+R-MMU-191859	snRNP Assembly	50	IEA	https://reactome.org/content/detail/R-MMU-191859
+R-MMU-192105	Synthesis of bile acids and bile salts	39	IEA	https://reactome.org/content/detail/R-MMU-192105
+R-MMU-192456	Digestion of dietary lipid	6	IEA	https://reactome.org/content/detail/R-MMU-192456
+R-MMU-193048	Androgen biosynthesis	17	IEA	https://reactome.org/content/detail/R-MMU-193048
+R-MMU-193144	Estrogen biosynthesis	8	IEA	https://reactome.org/content/detail/R-MMU-193144
+R-MMU-193368	Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol	28	IEA	https://reactome.org/content/detail/R-MMU-193368
+R-MMU-193634	Axonal growth inhibition (RHOA activation)	8	IEA	https://reactome.org/content/detail/R-MMU-193634
+R-MMU-193639	p75NTR signals via NF-kB	17	IEA	https://reactome.org/content/detail/R-MMU-193639
+R-MMU-193648	NRAGE signals death through JNK	52	IEA	https://reactome.org/content/detail/R-MMU-193648
+R-MMU-193692	Regulated proteolysis of p75NTR	10	IEA	https://reactome.org/content/detail/R-MMU-193692
+R-MMU-193697	p75NTR regulates axonogenesis	9	IEA	https://reactome.org/content/detail/R-MMU-193697
+R-MMU-193704	p75 NTR receptor-mediated signalling	86	IEA	https://reactome.org/content/detail/R-MMU-193704
+R-MMU-193775	Synthesis of bile acids and bile salts via 24-hydroxycholesterol	18	IEA	https://reactome.org/content/detail/R-MMU-193775
+R-MMU-193807	Synthesis of bile acids and bile salts via 27-hydroxycholesterol	19	IEA	https://reactome.org/content/detail/R-MMU-193807
+R-MMU-193993	Mineralocorticoid biosynthesis	12	IEA	https://reactome.org/content/detail/R-MMU-193993
+R-MMU-194002	Glucocorticoid biosynthesis	16	IEA	https://reactome.org/content/detail/R-MMU-194002
+R-MMU-194068	Bile acid and bile salt metabolism	49	IEA	https://reactome.org/content/detail/R-MMU-194068
+R-MMU-194138	Signaling by VEGF	101	IEA	https://reactome.org/content/detail/R-MMU-194138
+R-MMU-194306	Neuropilin interactions with VEGF and VEGFR	4	IEA	https://reactome.org/content/detail/R-MMU-194306
+R-MMU-194313	VEGF ligand-receptor interactions	8	IEA	https://reactome.org/content/detail/R-MMU-194313
+R-MMU-194315	Signaling by Rho GTPases	596	IEA	https://reactome.org/content/detail/R-MMU-194315
+R-MMU-194441	Metabolism of non-coding RNA	50	IEA	https://reactome.org/content/detail/R-MMU-194441
+R-MMU-195253	Degradation of beta-catenin by the destruction complex	67	IEA	https://reactome.org/content/detail/R-MMU-195253
+R-MMU-195258	RHO GTPase Effectors	243	IEA	https://reactome.org/content/detail/R-MMU-195258
+R-MMU-195399	VEGF binds to VEGFR leading to receptor dimerization	8	IEA	https://reactome.org/content/detail/R-MMU-195399
+R-MMU-195721	Signaling by WNT	223	IEA	https://reactome.org/content/detail/R-MMU-195721
+R-MMU-196025	Formation of annular gap junctions	10	IEA	https://reactome.org/content/detail/R-MMU-196025
+R-MMU-196071	Metabolism of steroid hormones	44	IEA	https://reactome.org/content/detail/R-MMU-196071
+R-MMU-196108	Pregnenolone biosynthesis	12	IEA	https://reactome.org/content/detail/R-MMU-196108
+R-MMU-196299	Beta-catenin phosphorylation cascade	17	IEA	https://reactome.org/content/detail/R-MMU-196299
+R-MMU-1963640	GRB2 events in ERBB2 signaling	11	IEA	https://reactome.org/content/detail/R-MMU-1963640
+R-MMU-1963642	PI3K events in ERBB2 signaling	14	IEA	https://reactome.org/content/detail/R-MMU-1963642
+R-MMU-196741	Cobalamin (Cbl, vitamin B12) transport and metabolism	15	IEA	https://reactome.org/content/detail/R-MMU-196741
+R-MMU-196757	Metabolism of folate and pterines	16	IEA	https://reactome.org/content/detail/R-MMU-196757
+R-MMU-196780	Biotin transport and metabolism	11	IEA	https://reactome.org/content/detail/R-MMU-196780
+R-MMU-196783	Coenzyme A biosynthesis	7	IEA	https://reactome.org/content/detail/R-MMU-196783
+R-MMU-196791	Vitamin D (calciferol) metabolism	8	IEA	https://reactome.org/content/detail/R-MMU-196791
+R-MMU-196807	Nicotinate metabolism	22	IEA	https://reactome.org/content/detail/R-MMU-196807
+R-MMU-196819	Vitamin B1 (thiamin) metabolism	5	IEA	https://reactome.org/content/detail/R-MMU-196819
+R-MMU-196836	Vitamin C (ascorbate) metabolism	8	IEA	https://reactome.org/content/detail/R-MMU-196836
+R-MMU-196843	Vitamin B2 (riboflavin) metabolism	6	IEA	https://reactome.org/content/detail/R-MMU-196843
+R-MMU-196849	Metabolism of water-soluble vitamins and cofactors	104	IEA	https://reactome.org/content/detail/R-MMU-196849
+R-MMU-196854	Metabolism of vitamins and cofactors	179	IEA	https://reactome.org/content/detail/R-MMU-196854
+R-MMU-1971475	Glycosaminoglycan-protein linkage region biosynthesis	27	IEA	https://reactome.org/content/detail/R-MMU-1971475
+R-MMU-1980143	Signaling by NOTCH1	19	IEA	https://reactome.org/content/detail/R-MMU-1980143
+R-MMU-198203	PI3K/AKT activation	8	IEA	https://reactome.org/content/detail/R-MMU-198203
+R-MMU-198323	AKT phosphorylates targets in the cytosol	11	IEA	https://reactome.org/content/detail/R-MMU-198323
+R-MMU-198693	AKT phosphorylates targets in the nucleus	10	IEA	https://reactome.org/content/detail/R-MMU-198693
+R-MMU-198725	Nuclear Events (kinase and transcription factor activation)	27	IEA	https://reactome.org/content/detail/R-MMU-198725
+R-MMU-198753	ERK/MAPK targets	19	IEA	https://reactome.org/content/detail/R-MMU-198753
+R-MMU-198765	Signalling to ERK5	1	IEA	https://reactome.org/content/detail/R-MMU-198765
+R-MMU-198933	Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell	197	IEA	https://reactome.org/content/detail/R-MMU-198933
+R-MMU-199220	Vitamin B5 (pantothenate) metabolism	15	IEA	https://reactome.org/content/detail/R-MMU-199220
+R-MMU-199418	Negative regulation of the PI3K/AKT network	116	IEA	https://reactome.org/content/detail/R-MMU-199418
+R-MMU-199920	CREB phosphorylation	7	IEA	https://reactome.org/content/detail/R-MMU-199920
+R-MMU-199977	ER to Golgi Anterograde Transport	146	IEA	https://reactome.org/content/detail/R-MMU-199977
+R-MMU-199991	Membrane Trafficking	559	IEA	https://reactome.org/content/detail/R-MMU-199991
+R-MMU-199992	trans-Golgi Network Vesicle Budding	71	IEA	https://reactome.org/content/detail/R-MMU-199992
+R-MMU-200425	Carnitine shuttle	14	IEA	https://reactome.org/content/detail/R-MMU-200425
+R-MMU-201451	Signaling by BMP	31	IEA	https://reactome.org/content/detail/R-MMU-201451
+R-MMU-201556	Signaling by ALK	17	IEA	https://reactome.org/content/detail/R-MMU-201556
+R-MMU-201681	TCF dependent signaling in response to WNT	143	IEA	https://reactome.org/content/detail/R-MMU-201681
+R-MMU-201688	WNT mediated activation of DVL	8	IEA	https://reactome.org/content/detail/R-MMU-201688
+R-MMU-201722	Formation of the beta-catenin:TCF transactivating complex	24	IEA	https://reactome.org/content/detail/R-MMU-201722
+R-MMU-202040	G-protein activation	23	IEA	https://reactome.org/content/detail/R-MMU-202040
+R-MMU-202131	Metabolism of nitric oxide: NOS3 activation and regulation	16	IEA	https://reactome.org/content/detail/R-MMU-202131
+R-MMU-2022090	Assembly of collagen fibrils and other multimeric structures	45	IEA	https://reactome.org/content/detail/R-MMU-2022090
+R-MMU-2022377	Metabolism of Angiotensinogen to Angiotensins	15	IEA	https://reactome.org/content/detail/R-MMU-2022377
+R-MMU-2022854	Keratan sulfate biosynthesis	29	IEA	https://reactome.org/content/detail/R-MMU-2022854
+R-MMU-2022857	Keratan sulfate degradation	15	IEA	https://reactome.org/content/detail/R-MMU-2022857
+R-MMU-2022870	CS-GAG biosynthesis	20	IEA	https://reactome.org/content/detail/R-MMU-2022870
+R-MMU-2022923	DS-GAG biosynthesis	11	IEA	https://reactome.org/content/detail/R-MMU-2022923
+R-MMU-2022928	HS-GAG biosynthesis	31	IEA	https://reactome.org/content/detail/R-MMU-2022928
+R-MMU-202403	TCR signaling	98	IEA	https://reactome.org/content/detail/R-MMU-202403
+R-MMU-2024096	HS-GAG degradation	19	IEA	https://reactome.org/content/detail/R-MMU-2024096
+R-MMU-2024101	CS/DS degradation	19	IEA	https://reactome.org/content/detail/R-MMU-2024101
+R-MMU-202424	Downstream TCR signaling	80	IEA	https://reactome.org/content/detail/R-MMU-202424
+R-MMU-202427	Phosphorylation of CD3 and TCR zeta chains	19	IEA	https://reactome.org/content/detail/R-MMU-202427
+R-MMU-202430	Translocation of ZAP-70 to Immunological synapse	16	IEA	https://reactome.org/content/detail/R-MMU-202430
+R-MMU-202433	Generation of second messenger molecules	27	IEA	https://reactome.org/content/detail/R-MMU-202433
+R-MMU-2025928	Calcineurin activates NFAT	9	IEA	https://reactome.org/content/detail/R-MMU-2025928
+R-MMU-202670	ERKs are inactivated	13	IEA	https://reactome.org/content/detail/R-MMU-202670
+R-MMU-202733	Cell surface interactions at the vascular wall	197	IEA	https://reactome.org/content/detail/R-MMU-202733
+R-MMU-2028269	Signaling by Hippo	20	IEA	https://reactome.org/content/detail/R-MMU-2028269
+R-MMU-2029480	Fcgamma receptor (FCGR) dependent phagocytosis	180	IEA	https://reactome.org/content/detail/R-MMU-2029480
+R-MMU-2029481	FCGR activation	115	IEA	https://reactome.org/content/detail/R-MMU-2029481
+R-MMU-2029482	Regulation of actin dynamics for phagocytic cup formation	160	IEA	https://reactome.org/content/detail/R-MMU-2029482
+R-MMU-2029485	Role of phospholipids in phagocytosis	123	IEA	https://reactome.org/content/detail/R-MMU-2029485
+R-MMU-2032785	YAP1- and WWTR1 (TAZ)-stimulated gene expression	8	IEA	https://reactome.org/content/detail/R-MMU-2032785
+R-MMU-203615	eNOS activation	13	IEA	https://reactome.org/content/detail/R-MMU-203615
+R-MMU-203641	NOSTRIN mediated eNOS trafficking	4	IEA	https://reactome.org/content/detail/R-MMU-203641
+R-MMU-203754	NOSIP mediated eNOS trafficking	2	IEA	https://reactome.org/content/detail/R-MMU-203754
+R-MMU-203927	MicroRNA (miRNA) biogenesis	6	IEA	https://reactome.org/content/detail/R-MMU-203927
+R-MMU-204005	COPII-mediated vesicle transport	68	IEA	https://reactome.org/content/detail/R-MMU-204005
+R-MMU-204174	Regulation of pyruvate dehydrogenase (PDH) complex	15	IEA	https://reactome.org/content/detail/R-MMU-204174
+R-MMU-2046104	alpha-linolenic (omega3) and linoleic (omega6) acid metabolism	13	IEA	https://reactome.org/content/detail/R-MMU-2046104
+R-MMU-2046105	Linoleic acid (LA) metabolism	8	IEA	https://reactome.org/content/detail/R-MMU-2046105
+R-MMU-2046106	alpha-linolenic acid (ALA) metabolism	13	IEA	https://reactome.org/content/detail/R-MMU-2046106
+R-MMU-204626	Hypusine synthesis from eIF5A-lysine	5	IEA	https://reactome.org/content/detail/R-MMU-204626
+R-MMU-204998	Cell death signalling via NRAGE, NRIF and NADE	71	IEA	https://reactome.org/content/detail/R-MMU-204998
+R-MMU-205017	NFG and proNGF binds to p75NTR	2	IEA	https://reactome.org/content/detail/R-MMU-205017
+R-MMU-205025	NADE modulates death signalling	6	IEA	https://reactome.org/content/detail/R-MMU-205025
+R-MMU-205043	NRIF signals cell death from the nucleus	15	IEA	https://reactome.org/content/detail/R-MMU-205043
+R-MMU-209543	p75NTR recruits signalling complexes	14	IEA	https://reactome.org/content/detail/R-MMU-209543
+R-MMU-209560	NF-kB is activated and signals survival	14	IEA	https://reactome.org/content/detail/R-MMU-209560
+R-MMU-209563	Axonal growth stimulation	4	IEA	https://reactome.org/content/detail/R-MMU-209563
+R-MMU-209776	Metabolism of amine-derived hormones	21	IEA	https://reactome.org/content/detail/R-MMU-209776
+R-MMU-209822	Glycoprotein hormones	9	IEA	https://reactome.org/content/detail/R-MMU-209822
+R-MMU-209905	Catecholamine biosynthesis	4	IEA	https://reactome.org/content/detail/R-MMU-209905
+R-MMU-209931	Serotonin and melatonin biosynthesis	5	IEA	https://reactome.org/content/detail/R-MMU-209931
+R-MMU-209952	Peptide hormone biosynthesis	11	IEA	https://reactome.org/content/detail/R-MMU-209952
+R-MMU-209968	Thyroxine biosynthesis	13	IEA	https://reactome.org/content/detail/R-MMU-209968
+R-MMU-210455	Astrocytic Glutamate-Glutamine Uptake And Metabolism	4	IEA	https://reactome.org/content/detail/R-MMU-210455
+R-MMU-210500	Glutamate Neurotransmitter Release Cycle	24	IEA	https://reactome.org/content/detail/R-MMU-210500
+R-MMU-210745	Regulation of gene expression in beta cells	4	IEA	https://reactome.org/content/detail/R-MMU-210745
+R-MMU-210990	PECAM1 interactions	12	IEA	https://reactome.org/content/detail/R-MMU-210990
+R-MMU-210991	Basigin interactions	24	IEA	https://reactome.org/content/detail/R-MMU-210991
+R-MMU-210993	Tie2 Signaling	17	IEA	https://reactome.org/content/detail/R-MMU-210993
+R-MMU-211000	Gene Silencing by RNA	12	IEA	https://reactome.org/content/detail/R-MMU-211000
+R-MMU-211163	AKT-mediated inactivation of FOXO1A	4	IEA	https://reactome.org/content/detail/R-MMU-211163
+R-MMU-211859	Biological oxidations	214	IEA	https://reactome.org/content/detail/R-MMU-211859
+R-MMU-211897	Cytochrome P450 - arranged by substrate type	75	IEA	https://reactome.org/content/detail/R-MMU-211897
+R-MMU-211916	Vitamins	6	IEA	https://reactome.org/content/detail/R-MMU-211916
+R-MMU-211935	Fatty acids	23	IEA	https://reactome.org/content/detail/R-MMU-211935
+R-MMU-211945	Phase I - Functionalization of compounds	111	IEA	https://reactome.org/content/detail/R-MMU-211945
+R-MMU-211957	Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2	1	IEA	https://reactome.org/content/detail/R-MMU-211957
+R-MMU-211958	Miscellaneous substrates	27	IEA	https://reactome.org/content/detail/R-MMU-211958
+R-MMU-211976	Endogenous sterols	26	IEA	https://reactome.org/content/detail/R-MMU-211976
+R-MMU-211979	Eicosanoids	17	IEA	https://reactome.org/content/detail/R-MMU-211979
+R-MMU-211981	Xenobiotics	29	IEA	https://reactome.org/content/detail/R-MMU-211981
+R-MMU-211994	Sterols are 12-hydroxylated by CYP8B1	1	IEA	https://reactome.org/content/detail/R-MMU-211994
+R-MMU-211999	CYP2E1 reactions	11	IEA	https://reactome.org/content/detail/R-MMU-211999
+R-MMU-212165	Epigenetic regulation of gene expression	215	IEA	https://reactome.org/content/detail/R-MMU-212165
+R-MMU-2122947	NOTCH1 Intracellular Domain Regulates Transcription	9	IEA	https://reactome.org/content/detail/R-MMU-2122947
+R-MMU-2122948	Activated NOTCH1 Transmits Signal to the Nucleus	11	IEA	https://reactome.org/content/detail/R-MMU-2122948
+R-MMU-212300	PRC2 methylates histones and DNA	82	IEA	https://reactome.org/content/detail/R-MMU-212300
+R-MMU-212436	Generic Transcription Pathway	835	IEA	https://reactome.org/content/detail/R-MMU-212436
+R-MMU-212676	Dopamine Neurotransmitter Release Cycle	23	IEA	https://reactome.org/content/detail/R-MMU-212676
+R-MMU-212718	EGFR interacts with phospholipase C-gamma	9	IEA	https://reactome.org/content/detail/R-MMU-212718
+R-MMU-2129379	Molecules associated with elastic fibres	32	IEA	https://reactome.org/content/detail/R-MMU-2129379
+R-MMU-2132295	MHC class II antigen presentation	108	IEA	https://reactome.org/content/detail/R-MMU-2132295
+R-MMU-2142670	Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)	7	IEA	https://reactome.org/content/detail/R-MMU-2142670
+R-MMU-2142688	Synthesis of 5-eicosatetraenoic acids	6	IEA	https://reactome.org/content/detail/R-MMU-2142688
+R-MMU-2142691	Synthesis of Leukotrienes (LT) and Eoxins (EX)	26	IEA	https://reactome.org/content/detail/R-MMU-2142691
+R-MMU-2142696	Synthesis of Hepoxilins (HX) and Trioxilins (TrX)	1	IEA	https://reactome.org/content/detail/R-MMU-2142696
+R-MMU-2142700	Biosynthesis of Lipoxins (LX)	5	IEA	https://reactome.org/content/detail/R-MMU-2142700
+R-MMU-2142712	Synthesis of 12-eicosatetraenoic acid derivatives	7	IEA	https://reactome.org/content/detail/R-MMU-2142712
+R-MMU-2142753	Arachidonate metabolism	67	IEA	https://reactome.org/content/detail/R-MMU-2142753
+R-MMU-2142770	Synthesis of 15-eicosatetraenoic acid derivatives	6	IEA	https://reactome.org/content/detail/R-MMU-2142770
+R-MMU-2142789	Ubiquinol biosynthesis	13	IEA	https://reactome.org/content/detail/R-MMU-2142789
+R-MMU-2142816	Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE)	11	IEA	https://reactome.org/content/detail/R-MMU-2142816
+R-MMU-2142845	Hyaluronan metabolism	20	IEA	https://reactome.org/content/detail/R-MMU-2142845
+R-MMU-2151201	Transcriptional activation of mitochondrial biogenesis	11	IEA	https://reactome.org/content/detail/R-MMU-2151201
+R-MMU-216083	Integrin cell surface interactions	72	IEA	https://reactome.org/content/detail/R-MMU-216083
+R-MMU-2160916	Hyaluronan degradation	16	IEA	https://reactome.org/content/detail/R-MMU-2160916
+R-MMU-2161517	Abacavir transmembrane transport	3	IEA	https://reactome.org/content/detail/R-MMU-2161517
+R-MMU-2161522	Abacavir ADME	6	IEA	https://reactome.org/content/detail/R-MMU-2161522
+R-MMU-2161541	Abacavir metabolism	3	IEA	https://reactome.org/content/detail/R-MMU-2161541
+R-MMU-2162123	Synthesis of Prostaglandins (PG) and Thromboxanes (TX)	20	IEA	https://reactome.org/content/detail/R-MMU-2162123
+R-MMU-2168880	Scavenging of heme from plasma	126	IEA	https://reactome.org/content/detail/R-MMU-2168880
+R-MMU-2172127	DAP12 interactions	36	IEA	https://reactome.org/content/detail/R-MMU-2172127
+R-MMU-217271	FMO oxidises nucleophiles	3	IEA	https://reactome.org/content/detail/R-MMU-217271
+R-MMU-2173782	Binding and Uptake of Ligands by Scavenger Receptors	142	IEA	https://reactome.org/content/detail/R-MMU-2173782
+R-MMU-2173788	Downregulation of TGF-beta receptor signaling	17	IEA	https://reactome.org/content/detail/R-MMU-2173788
+R-MMU-2173789	TGF-beta receptor signaling activates SMADs	38	IEA	https://reactome.org/content/detail/R-MMU-2173789
+R-MMU-2173791	TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)	16	IEA	https://reactome.org/content/detail/R-MMU-2173791
+R-MMU-2173793	Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer	39	IEA	https://reactome.org/content/detail/R-MMU-2173793
+R-MMU-2173795	Downregulation of SMAD2/3:SMAD4 transcriptional activity	24	IEA	https://reactome.org/content/detail/R-MMU-2173795
+R-MMU-2173796	SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription	25	IEA	https://reactome.org/content/detail/R-MMU-2173796
+R-MMU-2179392	EGFR Transactivation by Gastrin	7	IEA	https://reactome.org/content/detail/R-MMU-2179392
+R-MMU-2187335	The retinoid cycle in cones (daylight vision)	6	IEA	https://reactome.org/content/detail/R-MMU-2187335
+R-MMU-2187338	Visual phototransduction	95	IEA	https://reactome.org/content/detail/R-MMU-2187338
+R-MMU-2214320	Anchoring fibril formation	4	IEA	https://reactome.org/content/detail/R-MMU-2214320
+R-MMU-2243919	Crosslinking of collagen fibrils	14	IEA	https://reactome.org/content/detail/R-MMU-2243919
+R-MMU-2262752	Cellular responses to stress	505	IEA	https://reactome.org/content/detail/R-MMU-2262752
+R-MMU-2299718	Condensation of Prophase Chromosomes	79	IEA	https://reactome.org/content/detail/R-MMU-2299718
+R-MMU-2393930	Phosphate bond hydrolysis by NUDT proteins	7	IEA	https://reactome.org/content/detail/R-MMU-2393930
+R-MMU-2395516	Electron transport from NADPH to Ferredoxin	3	IEA	https://reactome.org/content/detail/R-MMU-2395516
+R-MMU-2404192	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)	46	IEA	https://reactome.org/content/detail/R-MMU-2404192
+R-MMU-2408508	Metabolism of ingested SeMet, Sec, MeSec into H2Se	2	IEA	https://reactome.org/content/detail/R-MMU-2408508
+R-MMU-2408522	Selenoamino acid metabolism	4	IEA	https://reactome.org/content/detail/R-MMU-2408522
+R-MMU-2408557	Selenocysteine synthesis	1	IEA	https://reactome.org/content/detail/R-MMU-2408557
+R-MMU-2424491	DAP12 signaling	29	IEA	https://reactome.org/content/detail/R-MMU-2424491
+R-MMU-2428924	IGF1R signaling cascade	45	IEA	https://reactome.org/content/detail/R-MMU-2428924
+R-MMU-2428928	IRS-related events triggered by IGF1R	44	IEA	https://reactome.org/content/detail/R-MMU-2428928
+R-MMU-2428933	SHC-related events triggered by IGF1R	6	IEA	https://reactome.org/content/detail/R-MMU-2428933
+R-MMU-2453902	The canonical retinoid cycle in rods (twilight vision)	20	IEA	https://reactome.org/content/detail/R-MMU-2453902
+R-MMU-2454202	Fc epsilon receptor (FCERI) signaling	211	IEA	https://reactome.org/content/detail/R-MMU-2454202
+R-MMU-2465910	MASTL Facilitates Mitotic Progression	2	IEA	https://reactome.org/content/detail/R-MMU-2465910
+R-MMU-2467813	Separation of Sister Chromatids	173	IEA	https://reactome.org/content/detail/R-MMU-2467813
+R-MMU-2468052	Establishment of Sister Chromatid Cohesion	11	IEA	https://reactome.org/content/detail/R-MMU-2468052
+R-MMU-2470946	Cohesin Loading onto Chromatin	10	IEA	https://reactome.org/content/detail/R-MMU-2470946
+R-MMU-2473224	Antagonism of Activin by Follistatin	4	IEA	https://reactome.org/content/detail/R-MMU-2473224
+R-MMU-2485179	Activation of the phototransduction cascade	8	IEA	https://reactome.org/content/detail/R-MMU-2485179
+R-MMU-2500257	Resolution of Sister Chromatid Cohesion	122	IEA	https://reactome.org/content/detail/R-MMU-2500257
+R-MMU-2514853	Condensation of Prometaphase Chromosomes	8	IEA	https://reactome.org/content/detail/R-MMU-2514853
+R-MMU-2514856	The phototransduction cascade	30	IEA	https://reactome.org/content/detail/R-MMU-2514856
+R-MMU-2514859	Inactivation, recovery and regulation of the phototransduction cascade	29	IEA	https://reactome.org/content/detail/R-MMU-2514859
+R-MMU-2534343	Interaction With Cumulus Cells And The Zona Pellucida	10	IEA	https://reactome.org/content/detail/R-MMU-2534343
+R-MMU-2555396	Mitotic Metaphase and Anaphase	211	IEA	https://reactome.org/content/detail/R-MMU-2555396
+R-MMU-2559580	Oxidative Stress Induced Senescence	39	IEA	https://reactome.org/content/detail/R-MMU-2559580
+R-MMU-2559582	Senescence-Associated Secretory Phenotype (SASP)	40	IEA	https://reactome.org/content/detail/R-MMU-2559582
+R-MMU-2559583	Cellular Senescence	154	IEA	https://reactome.org/content/detail/R-MMU-2559583
+R-MMU-2559584	Formation of Senescence-Associated Heterochromatin Foci (SAHF)	16	IEA	https://reactome.org/content/detail/R-MMU-2559584
+R-MMU-2559585	Oncogene Induced Senescence	17	IEA	https://reactome.org/content/detail/R-MMU-2559585
+R-MMU-2559586	DNA Damage/Telomere Stress Induced Senescence	87	IEA	https://reactome.org/content/detail/R-MMU-2559586
+R-MMU-2562578	TRIF-mediated programmed cell death	9	IEA	https://reactome.org/content/detail/R-MMU-2562578
+R-MMU-2565942	Regulation of PLK1 Activity at G2/M Transition	85	IEA	https://reactome.org/content/detail/R-MMU-2565942
+R-MMU-264642	Acetylcholine Neurotransmitter Release Cycle	17	IEA	https://reactome.org/content/detail/R-MMU-264642
+R-MMU-264870	Caspase-mediated cleavage of cytoskeletal proteins	12	IEA	https://reactome.org/content/detail/R-MMU-264870
+R-MMU-264876	Insulin processing	13	IEA	https://reactome.org/content/detail/R-MMU-264876
+R-MMU-2672351	Stimuli-sensing channels	101	IEA	https://reactome.org/content/detail/R-MMU-2672351
+R-MMU-2682334	EPH-Ephrin signaling	64	IEA	https://reactome.org/content/detail/R-MMU-2682334
+R-MMU-2730905	Role of LAT2/NTAL/LAB on calcium mobilization	118	IEA	https://reactome.org/content/detail/R-MMU-2730905
+R-MMU-2855086	Ficolins bind to repetitive carbohydrate structures on the target cell surface	4	IEA	https://reactome.org/content/detail/R-MMU-2855086
+R-MMU-2871796	FCERI mediated MAPK activation	135	IEA	https://reactome.org/content/detail/R-MMU-2871796
+R-MMU-2871809	FCERI mediated Ca+2 mobilization	131	IEA	https://reactome.org/content/detail/R-MMU-2871809
+R-MMU-2871837	FCERI mediated NF-kB activation	168	IEA	https://reactome.org/content/detail/R-MMU-2871837
+R-MMU-2980736	Peptide hormone metabolism	62	IEA	https://reactome.org/content/detail/R-MMU-2980736
+R-MMU-2980766	Nuclear Envelope Breakdown	47	IEA	https://reactome.org/content/detail/R-MMU-2980766
+R-MMU-2980767	Activation of NIMA Kinases NEK9, NEK6, NEK7	5	IEA	https://reactome.org/content/detail/R-MMU-2980767
+R-MMU-2990846	SUMOylation	166	IEA	https://reactome.org/content/detail/R-MMU-2990846
+R-MMU-2995383	Initiation of Nuclear Envelope (NE) Reformation	17	IEA	https://reactome.org/content/detail/R-MMU-2995383
+R-MMU-2995410	Nuclear Envelope (NE) Reassembly	65	IEA	https://reactome.org/content/detail/R-MMU-2995410
+R-MMU-3000157	Laminin interactions	11	IEA	https://reactome.org/content/detail/R-MMU-3000157
+R-MMU-3000170	Syndecan interactions	14	IEA	https://reactome.org/content/detail/R-MMU-3000170
+R-MMU-3000171	Non-integrin membrane-ECM interactions	54	IEA	https://reactome.org/content/detail/R-MMU-3000171
+R-MMU-3000178	ECM proteoglycans	40	IEA	https://reactome.org/content/detail/R-MMU-3000178
+R-MMU-3000471	Scavenging by Class B Receptors	8	IEA	https://reactome.org/content/detail/R-MMU-3000471
+R-MMU-3000480	Scavenging by Class A Receptors	8	IEA	https://reactome.org/content/detail/R-MMU-3000480
+R-MMU-3000497	Scavenging by Class H Receptors	4	IEA	https://reactome.org/content/detail/R-MMU-3000497
+R-MMU-3065676	SUMO is conjugated to E1 (UBA2:SAE1)	3	IEA	https://reactome.org/content/detail/R-MMU-3065676
+R-MMU-3065678	SUMO is transferred from E1 to E2 (UBE2I, UBC9)	5	IEA	https://reactome.org/content/detail/R-MMU-3065678
+R-MMU-3065679	SUMO is proteolytically processed	6	IEA	https://reactome.org/content/detail/R-MMU-3065679
+R-MMU-3108214	SUMOylation of DNA damage response and repair proteins	75	IEA	https://reactome.org/content/detail/R-MMU-3108214
+R-MMU-3108232	SUMO E3 ligases SUMOylate target proteins	160	IEA	https://reactome.org/content/detail/R-MMU-3108232
+R-MMU-3134963	DEx/H-box helicases activate type I IFN and inflammatory cytokines production 	7	IEA	https://reactome.org/content/detail/R-MMU-3134963
+R-MMU-3134973	LRR FLII-interacting protein 1 (LRRFIP1) activates type I IFN production	3	IEA	https://reactome.org/content/detail/R-MMU-3134973
+R-MMU-3134975	Regulation of innate immune responses to cytosolic DNA	14	IEA	https://reactome.org/content/detail/R-MMU-3134975
+R-MMU-3214815	HDACs deacetylate histones	22	IEA	https://reactome.org/content/detail/R-MMU-3214815
+R-MMU-3214841	PKMTs methylate histone lysines	66	IEA	https://reactome.org/content/detail/R-MMU-3214841
+R-MMU-3214842	HDMs demethylate histones	47	IEA	https://reactome.org/content/detail/R-MMU-3214842
+R-MMU-3214847	HATs acetylate histones	74	IEA	https://reactome.org/content/detail/R-MMU-3214847
+R-MMU-3214858	RMTs methylate histone arginines	69	IEA	https://reactome.org/content/detail/R-MMU-3214858
+R-MMU-3215018	Processing and activation of SUMO	10	IEA	https://reactome.org/content/detail/R-MMU-3215018
+R-MMU-3232118	SUMOylation of transcription factors	15	IEA	https://reactome.org/content/detail/R-MMU-3232118
+R-MMU-3232142	SUMOylation of ubiquitinylation proteins	39	IEA	https://reactome.org/content/detail/R-MMU-3232142
+R-MMU-3238698	WNT ligand biogenesis and trafficking	25	IEA	https://reactome.org/content/detail/R-MMU-3238698
+R-MMU-3247509	Chromatin modifying enzymes	202	IEA	https://reactome.org/content/detail/R-MMU-3247509
+R-MMU-3249367	STAT6-mediated induction of chemokines	3	IEA	https://reactome.org/content/detail/R-MMU-3249367
+R-MMU-3270619	IRF3-mediated induction of type I IFN	5	IEA	https://reactome.org/content/detail/R-MMU-3270619
+R-MMU-3295583	TRP channels	28	IEA	https://reactome.org/content/detail/R-MMU-3295583
+R-MMU-3296197	Hydroxycarboxylic acid-binding receptors	2	IEA	https://reactome.org/content/detail/R-MMU-3296197
+R-MMU-3299685	Detoxification of Reactive Oxygen Species	34	IEA	https://reactome.org/content/detail/R-MMU-3299685
+R-MMU-3301854	Nuclear Pore Complex (NPC) Disassembly	33	IEA	https://reactome.org/content/detail/R-MMU-3301854
+R-MMU-3322077	Glycogen synthesis	6	IEA	https://reactome.org/content/detail/R-MMU-3322077
+R-MMU-3371378	Regulation by c-FLIP	10	IEA	https://reactome.org/content/detail/R-MMU-3371378
+R-MMU-3371453	Regulation of HSF1-mediated heat shock response	65	IEA	https://reactome.org/content/detail/R-MMU-3371453
+R-MMU-3371497	HSP90 chaperone cycle for steroid hormone receptors (SHR) in the presence of ligand	49	IEA	https://reactome.org/content/detail/R-MMU-3371497
+R-MMU-3371511	HSF1 activation	8	IEA	https://reactome.org/content/detail/R-MMU-3371511
+R-MMU-3371556	Cellular response to heat stress	84	IEA	https://reactome.org/content/detail/R-MMU-3371556
+R-MMU-3371568	Attenuation phase	13	IEA	https://reactome.org/content/detail/R-MMU-3371568
+R-MMU-3371571	HSF1-dependent transactivation	23	IEA	https://reactome.org/content/detail/R-MMU-3371571
+R-MMU-349425	Autodegradation of the E3 ubiquitin ligase COP1	39	IEA	https://reactome.org/content/detail/R-MMU-349425
+R-MMU-350054	Notch-HLH transcription pathway	22	IEA	https://reactome.org/content/detail/R-MMU-350054
+R-MMU-350562	Regulation of ornithine decarboxylase (ODC)	37	IEA	https://reactome.org/content/detail/R-MMU-350562
+R-MMU-350864	Regulation of thyroid hormone activity	2	IEA	https://reactome.org/content/detail/R-MMU-350864
+R-MMU-351143	Agmatine biosynthesis	2	IEA	https://reactome.org/content/detail/R-MMU-351143
+R-MMU-351200	Interconversion of polyamines	3	IEA	https://reactome.org/content/detail/R-MMU-351200
+R-MMU-351202	Metabolism of polyamines	45	IEA	https://reactome.org/content/detail/R-MMU-351202
+R-MMU-351906	Apoptotic cleavage of cell adhesion  proteins	10	IEA	https://reactome.org/content/detail/R-MMU-351906
+R-MMU-352230	Amino acid transport across the plasma membrane	31	IEA	https://reactome.org/content/detail/R-MMU-352230
+R-MMU-352238	Breakdown of the nuclear lamina	3	IEA	https://reactome.org/content/detail/R-MMU-352238
+R-MMU-354192	Integrin signaling	27	IEA	https://reactome.org/content/detail/R-MMU-354192
+R-MMU-354194	GRB2:SOS provides linkage to MAPK signaling for Integrins 	15	IEA	https://reactome.org/content/detail/R-MMU-354194
+R-MMU-3700989	Transcriptional Regulation by TP53	294	IEA	https://reactome.org/content/detail/R-MMU-3700989
+R-MMU-372708	p130Cas linkage to MAPK signaling for integrins	15	IEA	https://reactome.org/content/detail/R-MMU-372708
+R-MMU-372790	Signaling by GPCR	627	IEA	https://reactome.org/content/detail/R-MMU-372790
+R-MMU-373076	Class A/1 (Rhodopsin-like receptors)	322	IEA	https://reactome.org/content/detail/R-MMU-373076
+R-MMU-373080	Class B/2 (Secretin family receptors)	58	IEA	https://reactome.org/content/detail/R-MMU-373080
+R-MMU-373752	Netrin-1 signaling	15	IEA	https://reactome.org/content/detail/R-MMU-373752
+R-MMU-373753	Nephrin family interactions	9	IEA	https://reactome.org/content/detail/R-MMU-373753
+R-MMU-373755	Semaphorin interactions	51	IEA	https://reactome.org/content/detail/R-MMU-373755
+R-MMU-373756	SDK interactions	2	IEA	https://reactome.org/content/detail/R-MMU-373756
+R-MMU-373760	L1CAM interactions	67	IEA	https://reactome.org/content/detail/R-MMU-373760
+R-MMU-375165	NCAM signaling for neurite out-growth	35	IEA	https://reactome.org/content/detail/R-MMU-375165
+R-MMU-375276	Peptide ligand-binding receptors	194	IEA	https://reactome.org/content/detail/R-MMU-375276
+R-MMU-375280	Amine ligand-binding receptors	43	IEA	https://reactome.org/content/detail/R-MMU-375280
+R-MMU-375281	Hormone ligand-binding receptors	11	IEA	https://reactome.org/content/detail/R-MMU-375281
+R-MMU-376172	DSCAM interactions	2	IEA	https://reactome.org/content/detail/R-MMU-376172
+R-MMU-376176	Signaling by ROBO receptors	21	IEA	https://reactome.org/content/detail/R-MMU-376176
+R-MMU-3769402	Deactivation of the beta-catenin transactivating complex	33	IEA	https://reactome.org/content/detail/R-MMU-3769402
+R-MMU-3772470	Negative regulation of TCF-dependent signaling by WNT ligand antagonists	8	IEA	https://reactome.org/content/detail/R-MMU-3772470
+R-MMU-379397	Enzymatic degradation of dopamine by COMT	3	IEA	https://reactome.org/content/detail/R-MMU-379397
+R-MMU-379398	Enzymatic degradation of Dopamine by monoamine oxidase	2	IEA	https://reactome.org/content/detail/R-MMU-379398
+R-MMU-379401	Dopamine clearance from the synaptic cleft	4	IEA	https://reactome.org/content/detail/R-MMU-379401
+R-MMU-379716	Cytosolic tRNA aminoacylation	1	IEA	https://reactome.org/content/detail/R-MMU-379716
+R-MMU-379724	tRNA Aminoacylation	2	IEA	https://reactome.org/content/detail/R-MMU-379724
+R-MMU-379726	Mitochondrial tRNA aminoacylation	1	IEA	https://reactome.org/content/detail/R-MMU-379726
+R-MMU-380095	Tachykinin receptors bind tachykinins	5	IEA	https://reactome.org/content/detail/R-MMU-380095
+R-MMU-380108	Chemokine receptors bind chemokines	55	IEA	https://reactome.org/content/detail/R-MMU-380108
+R-MMU-380259	Loss of Nlp from mitotic centrosomes	67	IEA	https://reactome.org/content/detail/R-MMU-380259
+R-MMU-380270	Recruitment of mitotic centrosome proteins and complexes	77	IEA	https://reactome.org/content/detail/R-MMU-380270
+R-MMU-380284	Loss of proteins required for interphase microtubule organization from the centrosome	67	IEA	https://reactome.org/content/detail/R-MMU-380284
+R-MMU-380287	Centrosome maturation	77	IEA	https://reactome.org/content/detail/R-MMU-380287
+R-MMU-380320	Recruitment of NuMA to mitotic centrosomes	88	IEA	https://reactome.org/content/detail/R-MMU-380320
+R-MMU-380612	Metabolism of serotonin	2	IEA	https://reactome.org/content/detail/R-MMU-380612
+R-MMU-380615	Serotonin clearance from the synaptic cleft	3	IEA	https://reactome.org/content/detail/R-MMU-380615
+R-MMU-380972	Energy dependent regulation of mTOR by LKB1-AMPK	29	IEA	https://reactome.org/content/detail/R-MMU-380972
+R-MMU-381033	ATF6 (ATF6-alpha) activates chaperones	3	IEA	https://reactome.org/content/detail/R-MMU-381033
+R-MMU-381042	PERK regulates gene expression	3	IEA	https://reactome.org/content/detail/R-MMU-381042
+R-MMU-381070	IRE1alpha activates chaperones	1	IEA	https://reactome.org/content/detail/R-MMU-381070
+R-MMU-381119	Unfolded Protein Response (UPR)	11	IEA	https://reactome.org/content/detail/R-MMU-381119
+R-MMU-381340	Transcriptional regulation of white adipocyte differentiation	3	IEA	https://reactome.org/content/detail/R-MMU-381340
+R-MMU-381426	Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)	120	IEA	https://reactome.org/content/detail/R-MMU-381426
+R-MMU-381676	Glucagon-like Peptide-1 (GLP1) regulates insulin secretion	32	IEA	https://reactome.org/content/detail/R-MMU-381676
+R-MMU-381753	Olfactory Signaling Pathway	90	IEA	https://reactome.org/content/detail/R-MMU-381753
+R-MMU-381771	Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)	11	IEA	https://reactome.org/content/detail/R-MMU-381771
+R-MMU-382551	Transport of small molecules	665	IEA	https://reactome.org/content/detail/R-MMU-382551
+R-MMU-382556	ABC-family protein mediated transport	87	IEA	https://reactome.org/content/detail/R-MMU-382556
+R-MMU-383280	Nuclear Receptor transcription pathway	49	IEA	https://reactome.org/content/detail/R-MMU-383280
+R-MMU-3858494	Beta-catenin independent WNT signaling	111	IEA	https://reactome.org/content/detail/R-MMU-3858494
+R-MMU-388396	GPCR downstream signalling	592	IEA	https://reactome.org/content/detail/R-MMU-388396
+R-MMU-388479	Vasopressin-like receptors	6	IEA	https://reactome.org/content/detail/R-MMU-388479
+R-MMU-388841	Regulation of T cell activation by CD28 family	223	IEA	https://reactome.org/content/detail/R-MMU-388841
+R-MMU-388844	Receptor-type tyrosine-protein phosphatases	20	IEA	https://reactome.org/content/detail/R-MMU-388844
+R-MMU-389356	Co-stimulation by CD28	48	IEA	https://reactome.org/content/detail/R-MMU-389356
+R-MMU-389357	CD28 dependent PI3K/Akt signaling	27	IEA	https://reactome.org/content/detail/R-MMU-389357
+R-MMU-389359	CD28 dependent Vav1 pathway	12	IEA	https://reactome.org/content/detail/R-MMU-389359
+R-MMU-389397	Orexin and neuropeptides FF and QRFP bind to their respective receptors	9	IEA	https://reactome.org/content/detail/R-MMU-389397
+R-MMU-389513	Co-inhibition by CTLA4	21	IEA	https://reactome.org/content/detail/R-MMU-389513
+R-MMU-389542	NADPH regeneration	2	IEA	https://reactome.org/content/detail/R-MMU-389542
+R-MMU-389599	Alpha-oxidation of phytanate	6	IEA	https://reactome.org/content/detail/R-MMU-389599
+R-MMU-389661	Glyoxylate metabolism and glycine degradation	18	IEA	https://reactome.org/content/detail/R-MMU-389661
+R-MMU-389887	Beta-oxidation of pristanoyl-CoA	9	IEA	https://reactome.org/content/detail/R-MMU-389887
+R-MMU-3899300	SUMOylation of transcription cofactors	38	IEA	https://reactome.org/content/detail/R-MMU-3899300
+R-MMU-389948	Co-inhibition by PD-1	173	IEA	https://reactome.org/content/detail/R-MMU-389948
+R-MMU-390247	Beta-oxidation of very long chain fatty acids	11	IEA	https://reactome.org/content/detail/R-MMU-390247
+R-MMU-390466	Chaperonin-mediated protein folding	38	IEA	https://reactome.org/content/detail/R-MMU-390466
+R-MMU-390471	Association of TriC/CCT with target proteins during biosynthesis	10	IEA	https://reactome.org/content/detail/R-MMU-390471
+R-MMU-390522	Striated Muscle Contraction	35	IEA	https://reactome.org/content/detail/R-MMU-390522
+R-MMU-390648	Muscarinic acetylcholine receptors	5	IEA	https://reactome.org/content/detail/R-MMU-390648
+R-MMU-390650	Histamine receptors	4	IEA	https://reactome.org/content/detail/R-MMU-390650
+R-MMU-390651	Dopamine receptors	5	IEA	https://reactome.org/content/detail/R-MMU-390651
+R-MMU-390666	Serotonin receptors	11	IEA	https://reactome.org/content/detail/R-MMU-390666
+R-MMU-390696	Adrenoceptors	9	IEA	https://reactome.org/content/detail/R-MMU-390696
+R-MMU-390918	Peroxisomal lipid metabolism	26	IEA	https://reactome.org/content/detail/R-MMU-390918
+R-MMU-391160	Signal regulatory protein family interactions	9	IEA	https://reactome.org/content/detail/R-MMU-391160
+R-MMU-391251	Protein folding	38	IEA	https://reactome.org/content/detail/R-MMU-391251
+R-MMU-391903	Eicosanoid ligand-binding receptors	14	IEA	https://reactome.org/content/detail/R-MMU-391903
+R-MMU-391906	Leukotriene receptors	5	IEA	https://reactome.org/content/detail/R-MMU-391906
+R-MMU-391908	Prostanoid ligand receptors	9	IEA	https://reactome.org/content/detail/R-MMU-391908
+R-MMU-392023	Adrenaline signalling through Alpha-2 adrenergic receptor	3	IEA	https://reactome.org/content/detail/R-MMU-392023
+R-MMU-392154	Nitric oxide stimulates guanylate cyclase	13	IEA	https://reactome.org/content/detail/R-MMU-392154
+R-MMU-392170	ADP signalling through P2Y purinoceptor 12	22	IEA	https://reactome.org/content/detail/R-MMU-392170
+R-MMU-392451	G beta:gamma signalling through PI3Kgamma	25	IEA	https://reactome.org/content/detail/R-MMU-392451
+R-MMU-392499	Metabolism of proteins	1792	IEA	https://reactome.org/content/detail/R-MMU-392499
+R-MMU-392517	Rap1 signalling	15	IEA	https://reactome.org/content/detail/R-MMU-392517
+R-MMU-392518	Signal amplification	32	IEA	https://reactome.org/content/detail/R-MMU-392518
+R-MMU-392851	Prostacyclin signalling through prostacyclin receptor	19	IEA	https://reactome.org/content/detail/R-MMU-392851
+R-MMU-3928662	EPHB-mediated forward signaling	36	IEA	https://reactome.org/content/detail/R-MMU-3928662
+R-MMU-3928663	EPHA-mediated growth cone collapse	18	IEA	https://reactome.org/content/detail/R-MMU-3928663
+R-MMU-3928664	Ephrin signaling	18	IEA	https://reactome.org/content/detail/R-MMU-3928664
+R-MMU-3928665	EPH-ephrin mediated repulsion of cells	34	IEA	https://reactome.org/content/detail/R-MMU-3928665
+R-MMU-397014	Muscle contraction	161	IEA	https://reactome.org/content/detail/R-MMU-397014
+R-MMU-397795	G-protein beta:gamma signalling	32	IEA	https://reactome.org/content/detail/R-MMU-397795
+R-MMU-399710	Activation of AMPA receptors	3	IEA	https://reactome.org/content/detail/R-MMU-399710
+R-MMU-399719	Trafficking of AMPA receptors	28	IEA	https://reactome.org/content/detail/R-MMU-399719
+R-MMU-399721	Glutamate binding, activation of AMPA receptors and synaptic plasticity	28	IEA	https://reactome.org/content/detail/R-MMU-399721
+R-MMU-399954	Sema3A PAK dependent Axon repulsion	14	IEA	https://reactome.org/content/detail/R-MMU-399954
+R-MMU-399955	SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion	9	IEA	https://reactome.org/content/detail/R-MMU-399955
+R-MMU-399956	CRMPs in Sema3A signaling	15	IEA	https://reactome.org/content/detail/R-MMU-399956
+R-MMU-399997	Acetylcholine regulates insulin secretion	7	IEA	https://reactome.org/content/detail/R-MMU-399997
+R-MMU-400042	Adrenaline,noradrenaline inhibits insulin secretion	23	IEA	https://reactome.org/content/detail/R-MMU-400042
+R-MMU-400206	Regulation of lipid metabolism by PPARalpha	17	IEA	https://reactome.org/content/detail/R-MMU-400206
+R-MMU-400451	Free fatty acids regulate insulin secretion	10	IEA	https://reactome.org/content/detail/R-MMU-400451
+R-MMU-400508	Incretin synthesis, secretion, and inactivation	12	IEA	https://reactome.org/content/detail/R-MMU-400508
+R-MMU-400511	Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)	4	IEA	https://reactome.org/content/detail/R-MMU-400511
+R-MMU-400685	Sema4D in semaphorin signaling	15	IEA	https://reactome.org/content/detail/R-MMU-400685
+R-MMU-4085001	Sialic acid metabolism	33	IEA	https://reactome.org/content/detail/R-MMU-4085001
+R-MMU-4085377	SUMOylation of SUMOylation proteins	35	IEA	https://reactome.org/content/detail/R-MMU-4085377
+R-MMU-4086398	Ca2+ pathway	44	IEA	https://reactome.org/content/detail/R-MMU-4086398
+R-MMU-4086400	PCP/CE pathway	74	IEA	https://reactome.org/content/detail/R-MMU-4086400
+R-MMU-4090294	SUMOylation of intracellular receptors	27	IEA	https://reactome.org/content/detail/R-MMU-4090294
+R-MMU-416476	G alpha (q) signalling events	206	IEA	https://reactome.org/content/detail/R-MMU-416476
+R-MMU-416482	G alpha (12/13) signalling events	77	IEA	https://reactome.org/content/detail/R-MMU-416482
+R-MMU-416550	Sema4D mediated inhibition of cell attachment and migration	8	IEA	https://reactome.org/content/detail/R-MMU-416550
+R-MMU-416572	Sema4D induced cell migration and growth-cone collapse	11	IEA	https://reactome.org/content/detail/R-MMU-416572
+R-MMU-416700	Other semaphorin interactions	14	IEA	https://reactome.org/content/detail/R-MMU-416700
+R-MMU-416993	Trafficking of GluR2-containing AMPA receptors	15	IEA	https://reactome.org/content/detail/R-MMU-416993
+R-MMU-417957	P2Y receptors	11	IEA	https://reactome.org/content/detail/R-MMU-417957
+R-MMU-417973	Adenosine P1 receptors	4	IEA	https://reactome.org/content/detail/R-MMU-417973
+R-MMU-418038	Nucleotide-like (purinergic) receptors	15	IEA	https://reactome.org/content/detail/R-MMU-418038
+R-MMU-418217	G beta:gamma signalling through PLC beta	20	IEA	https://reactome.org/content/detail/R-MMU-418217
+R-MMU-418346	Platelet homeostasis	76	IEA	https://reactome.org/content/detail/R-MMU-418346
+R-MMU-418359	Reduction of cytosolic Ca++ levels	14	IEA	https://reactome.org/content/detail/R-MMU-418359
+R-MMU-418360	Platelet calcium homeostasis	27	IEA	https://reactome.org/content/detail/R-MMU-418360
+R-MMU-418457	cGMP effects	10	IEA	https://reactome.org/content/detail/R-MMU-418457
+R-MMU-418555	G alpha (s) signalling events	138	IEA	https://reactome.org/content/detail/R-MMU-418555
+R-MMU-418592	ADP signalling through P2Y purinoceptor 1	24	IEA	https://reactome.org/content/detail/R-MMU-418592
+R-MMU-418594	G alpha (i) signalling events	281	IEA	https://reactome.org/content/detail/R-MMU-418594
+R-MMU-418597	G alpha (z) signalling events	33	IEA	https://reactome.org/content/detail/R-MMU-418597
+R-MMU-418885	DCC mediated attractive signaling	9	IEA	https://reactome.org/content/detail/R-MMU-418885
+R-MMU-418889	Caspase activation via Dependence Receptors in the absence of ligand	4	IEA	https://reactome.org/content/detail/R-MMU-418889
+R-MMU-418990	Adherens junctions interactions	223	IEA	https://reactome.org/content/detail/R-MMU-418990
+R-MMU-419037	NCAM1 interactions	17	IEA	https://reactome.org/content/detail/R-MMU-419037
+R-MMU-419408	Lysosphingolipid and LPA receptors	14	IEA	https://reactome.org/content/detail/R-MMU-419408
+R-MMU-419771	Opsins	8	IEA	https://reactome.org/content/detail/R-MMU-419771
+R-MMU-419812	Calcitonin-like ligand receptors	10	IEA	https://reactome.org/content/detail/R-MMU-419812
+R-MMU-420029	Tight junction interactions	6	IEA	https://reactome.org/content/detail/R-MMU-420029
+R-MMU-420092	Glucagon-type ligand receptors	33	IEA	https://reactome.org/content/detail/R-MMU-420092
+R-MMU-420499	Class C/3 (Metabotropic glutamate/pheromone receptors)	32	IEA	https://reactome.org/content/detail/R-MMU-420499
+R-MMU-420597	Nectin/Necl  trans heterodimerization	7	IEA	https://reactome.org/content/detail/R-MMU-420597
+R-MMU-421270	Cell-cell junction organization	231	IEA	https://reactome.org/content/detail/R-MMU-421270
+R-MMU-422085	Synthesis, secretion, and deacylation of Ghrelin	16	IEA	https://reactome.org/content/detail/R-MMU-422085
+R-MMU-422356	Regulation of insulin secretion	60	IEA	https://reactome.org/content/detail/R-MMU-422356
+R-MMU-422475	Axon guidance	256	IEA	https://reactome.org/content/detail/R-MMU-422475
+R-MMU-425381	Bicarbonate transporters	10	IEA	https://reactome.org/content/detail/R-MMU-425381
+R-MMU-425397	Transport of vitamins, nucleosides, and related molecules	29	IEA	https://reactome.org/content/detail/R-MMU-425397
+R-MMU-425407	SLC-mediated transmembrane transport	230	IEA	https://reactome.org/content/detail/R-MMU-425407
+R-MMU-425410	Metal ion SLC transporters	42	IEA	https://reactome.org/content/detail/R-MMU-425410
+R-MMU-425561	Sodium/Calcium exchangers	13	IEA	https://reactome.org/content/detail/R-MMU-425561
+R-MMU-425986	Sodium/Proton exchangers	9	IEA	https://reactome.org/content/detail/R-MMU-425986
+R-MMU-426048	Arachidonate production from DAG	5	IEA	https://reactome.org/content/detail/R-MMU-426048
+R-MMU-426117	Cation-coupled Chloride cotransporters	7	IEA	https://reactome.org/content/detail/R-MMU-426117
+R-MMU-426486	Small interfering RNA (siRNA) biogenesis	8	IEA	https://reactome.org/content/detail/R-MMU-426486
+R-MMU-426496	Post-transcriptional silencing by small RNAs	6	IEA	https://reactome.org/content/detail/R-MMU-426496
+R-MMU-427589	Type II Na+/Pi cotransporters	3	IEA	https://reactome.org/content/detail/R-MMU-427589
+R-MMU-427601	Inorganic anion exchange by SLC26 transporters	8	IEA	https://reactome.org/content/detail/R-MMU-427601
+R-MMU-427652	Sodium-coupled phosphate cotransporters	6	IEA	https://reactome.org/content/detail/R-MMU-427652
+R-MMU-427975	Proton/oligopeptide cotransporters	3	IEA	https://reactome.org/content/detail/R-MMU-427975
+R-MMU-428157	Sphingolipid metabolism	92	IEA	https://reactome.org/content/detail/R-MMU-428157
+R-MMU-428559	Proton-coupled neutral amino acid transporters	2	IEA	https://reactome.org/content/detail/R-MMU-428559
+R-MMU-428643	Organic anion transport by SLC5/17/25 transporters	6	IEA	https://reactome.org/content/detail/R-MMU-428643
+R-MMU-428890	Role of ABL in ROBO-SLIT signaling	3	IEA	https://reactome.org/content/detail/R-MMU-428890
+R-MMU-428930	Thromboxane signalling through TP receptor	23	IEA	https://reactome.org/content/detail/R-MMU-428930
+R-MMU-429593	Inositol transporters	3	IEA	https://reactome.org/content/detail/R-MMU-429593
+R-MMU-429914	Deadenylation-dependent mRNA decay	53	IEA	https://reactome.org/content/detail/R-MMU-429914
+R-MMU-429947	Deadenylation of mRNA	23	IEA	https://reactome.org/content/detail/R-MMU-429947
+R-MMU-429958	mRNA decay by 3' to 5' exoribonuclease	16	IEA	https://reactome.org/content/detail/R-MMU-429958
+R-MMU-430039	mRNA decay by 5' to 3' exoribonuclease	14	IEA	https://reactome.org/content/detail/R-MMU-430039
+R-MMU-430116	GP1b-IX-V activation signalling	11	IEA	https://reactome.org/content/detail/R-MMU-430116
+R-MMU-432030	Transport of glycerol from adipocytes to the liver by Aquaporins	2	IEA	https://reactome.org/content/detail/R-MMU-432030
+R-MMU-432040	Vasopressin regulates renal water homeostasis via Aquaporins	32	IEA	https://reactome.org/content/detail/R-MMU-432040
+R-MMU-432047	Passive transport by Aquaporins	11	IEA	https://reactome.org/content/detail/R-MMU-432047
+R-MMU-432142	Platelet sensitization by LDL	17	IEA	https://reactome.org/content/detail/R-MMU-432142
+R-MMU-432720	Lysosome Vesicle Biogenesis	34	IEA	https://reactome.org/content/detail/R-MMU-432720
+R-MMU-432722	Golgi Associated Vesicle Biogenesis	55	IEA	https://reactome.org/content/detail/R-MMU-432722
+R-MMU-433137	Sodium-coupled sulphate, di- and tri-carboxylate transporters	2	IEA	https://reactome.org/content/detail/R-MMU-433137
+R-MMU-433692	Proton-coupled monocarboxylate transport	6	IEA	https://reactome.org/content/detail/R-MMU-433692
+R-MMU-434313	Intracellular metabolism of fatty acids regulates insulin secretion	3	IEA	https://reactome.org/content/detail/R-MMU-434313
+R-MMU-434316	Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion	7	IEA	https://reactome.org/content/detail/R-MMU-434316
+R-MMU-435354	Zinc transporters	11	IEA	https://reactome.org/content/detail/R-MMU-435354
+R-MMU-435368	Zinc efflux and compartmentalization by the SLC30 family	3	IEA	https://reactome.org/content/detail/R-MMU-435368
+R-MMU-437239	Recycling pathway of L1	36	IEA	https://reactome.org/content/detail/R-MMU-437239
+R-MMU-438064	Post NMDA receptor activation events	16	IEA	https://reactome.org/content/detail/R-MMU-438064
+R-MMU-438066	Unblocking of NMDA receptors, glutamate binding and activation	21	IEA	https://reactome.org/content/detail/R-MMU-438066
+R-MMU-4419969	Depolymerization of the Nuclear Lamina	11	IEA	https://reactome.org/content/detail/R-MMU-4419969
+R-MMU-4420097	VEGFA-VEGFR2 Pathway	93	IEA	https://reactome.org/content/detail/R-MMU-4420097
+R-MMU-442380	Zinc influx into cells by the SLC39 gene family	8	IEA	https://reactome.org/content/detail/R-MMU-442380
+R-MMU-442660	SLC-mediated transport of neurotransmitters	21	IEA	https://reactome.org/content/detail/R-MMU-442660
+R-MMU-442720	CREB1 phosphorylation through the activation of Adenylate Cyclase	5	IEA	https://reactome.org/content/detail/R-MMU-442720
+R-MMU-442729	CREB1 phosphorylation through the activation of CaMKII/CaMKK/CaMKIV cascasde	5	IEA	https://reactome.org/content/detail/R-MMU-442729
+R-MMU-442742	CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling	5	IEA	https://reactome.org/content/detail/R-MMU-442742
+R-MMU-442755	Activation of NMDA receptors and postsynaptic events	35	IEA	https://reactome.org/content/detail/R-MMU-442755
+R-MMU-444209	Free fatty acid receptors	4	IEA	https://reactome.org/content/detail/R-MMU-444209
+R-MMU-444257	RSK activation	4	IEA	https://reactome.org/content/detail/R-MMU-444257
+R-MMU-444411	Rhesus glycoproteins mediate ammonium transport	3	IEA	https://reactome.org/content/detail/R-MMU-444411
+R-MMU-444473	Formyl peptide receptors bind formyl peptides and many other ligands	12	IEA	https://reactome.org/content/detail/R-MMU-444473
+R-MMU-444821	Relaxin receptors	8	IEA	https://reactome.org/content/detail/R-MMU-444821
+R-MMU-445095	Interaction between L1 and Ankyrins	10	IEA	https://reactome.org/content/detail/R-MMU-445095
+R-MMU-445144	Signal transduction by L1	19	IEA	https://reactome.org/content/detail/R-MMU-445144
+R-MMU-445355	Smooth Muscle Contraction	34	IEA	https://reactome.org/content/detail/R-MMU-445355
+R-MMU-445717	Aquaporin-mediated transport	39	IEA	https://reactome.org/content/detail/R-MMU-445717
+R-MMU-445989	TAK1-dependent IKK and NF-kappa-B activation  	38	IEA	https://reactome.org/content/detail/R-MMU-445989
+R-MMU-446107	Type I hemidesmosome assembly	9	IEA	https://reactome.org/content/detail/R-MMU-446107
+R-MMU-446193	Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein	76	IEA	https://reactome.org/content/detail/R-MMU-446193
+R-MMU-446199	Synthesis of dolichyl-phosphate	7	IEA	https://reactome.org/content/detail/R-MMU-446199
+R-MMU-446203	Asparagine N-linked glycosylation	267	IEA	https://reactome.org/content/detail/R-MMU-446203
+R-MMU-446205	Synthesis of GDP-mannose	5	IEA	https://reactome.org/content/detail/R-MMU-446205
+R-MMU-446210	Synthesis of UDP-N-acetyl-glucosamine	8	IEA	https://reactome.org/content/detail/R-MMU-446210
+R-MMU-446219	Synthesis of substrates in N-glycan biosythesis	65	IEA	https://reactome.org/content/detail/R-MMU-446219
+R-MMU-446343	Localization of the PINCH-ILK-PARVIN complex to focal adhesions	4	IEA	https://reactome.org/content/detail/R-MMU-446343
+R-MMU-446353	Cell-extracellular matrix interactions	18	IEA	https://reactome.org/content/detail/R-MMU-446353
+R-MMU-446388	Regulation of cytoskeletal remodeling and cell spreading by IPP complex components	8	IEA	https://reactome.org/content/detail/R-MMU-446388
+R-MMU-446652	Interleukin-1 family signaling	110	IEA	https://reactome.org/content/detail/R-MMU-446652
+R-MMU-446728	Cell junction organization	256	IEA	https://reactome.org/content/detail/R-MMU-446728
+R-MMU-447043	Neurofascin interactions	3	IEA	https://reactome.org/content/detail/R-MMU-447043
+R-MMU-447115	Interleukin-12 family signaling	16	IEA	https://reactome.org/content/detail/R-MMU-447115
+R-MMU-448424	Interleukin-17 signaling	60	IEA	https://reactome.org/content/detail/R-MMU-448424
+R-MMU-448706	Interleukin-1 processing	9	IEA	https://reactome.org/content/detail/R-MMU-448706
+R-MMU-449147	Signaling by Interleukins	277	IEA	https://reactome.org/content/detail/R-MMU-449147
+R-MMU-449836	Other interleukin signaling	15	IEA	https://reactome.org/content/detail/R-MMU-449836
+R-MMU-450282	MAPK targets/ Nuclear events mediated by MAP kinases	28	IEA	https://reactome.org/content/detail/R-MMU-450282
+R-MMU-450294	MAP kinase activation	60	IEA	https://reactome.org/content/detail/R-MMU-450294
+R-MMU-450302	activated TAK1 mediates p38 MAPK activation	24	IEA	https://reactome.org/content/detail/R-MMU-450302
+R-MMU-450321	JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1	24	IEA	https://reactome.org/content/detail/R-MMU-450321
+R-MMU-450341	Activation of the AP-1 family of transcription factors	10	IEA	https://reactome.org/content/detail/R-MMU-450341
+R-MMU-450385	Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA	17	IEA	https://reactome.org/content/detail/R-MMU-450385
+R-MMU-450408	AUF1 (hnRNP D0) binds and destabilizes mRNA	43	IEA	https://reactome.org/content/detail/R-MMU-450408
+R-MMU-450513	Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA	17	IEA	https://reactome.org/content/detail/R-MMU-450513
+R-MMU-450520	HuR (ELAVL1) binds and stabilizes mRNA	7	IEA	https://reactome.org/content/detail/R-MMU-450520
+R-MMU-450531	Regulation of mRNA stability by proteins that bind AU-rich elements	72	IEA	https://reactome.org/content/detail/R-MMU-450531
+R-MMU-450604	KSRP (KHSRP) binds and destabilizes mRNA	15	IEA	https://reactome.org/content/detail/R-MMU-450604
+R-MMU-451306	Ionotropic activity of kainate receptors	12	IEA	https://reactome.org/content/detail/R-MMU-451306
+R-MMU-451307	Activation of Na-permeable kainate receptors	2	IEA	https://reactome.org/content/detail/R-MMU-451307
+R-MMU-451308	Activation of Ca-permeable Kainate Receptor	12	IEA	https://reactome.org/content/detail/R-MMU-451308
+R-MMU-451326	Activation of kainate receptors upon glutamate binding	32	IEA	https://reactome.org/content/detail/R-MMU-451326
+R-MMU-451927	Interleukin-2 family signaling	35	IEA	https://reactome.org/content/detail/R-MMU-451927
+R-MMU-453274	Mitotic G2-G2/M phases	175	IEA	https://reactome.org/content/detail/R-MMU-453274
+R-MMU-453276	Regulation of mitotic cell cycle	74	IEA	https://reactome.org/content/detail/R-MMU-453276
+R-MMU-453279	Mitotic G1 phase and G1/S transition	121	IEA	https://reactome.org/content/detail/R-MMU-453279
+R-MMU-4551638	SUMOylation of chromatin organization proteins	66	IEA	https://reactome.org/content/detail/R-MMU-4551638
+R-MMU-456926	Thrombin signalling through proteinase activated receptors (PARs)	31	IEA	https://reactome.org/content/detail/R-MMU-456926
+R-MMU-4570464	SUMOylation of RNA binding proteins	47	IEA	https://reactome.org/content/detail/R-MMU-4570464
+R-MMU-4608870	Asymmetric localization of PCP proteins	49	IEA	https://reactome.org/content/detail/R-MMU-4608870
+R-MMU-4615885	SUMOylation of DNA replication proteins	43	IEA	https://reactome.org/content/detail/R-MMU-4615885
+R-MMU-4641257	Degradation of AXIN	42	IEA	https://reactome.org/content/detail/R-MMU-4641257
+R-MMU-4641258	Degradation of DVL	44	IEA	https://reactome.org/content/detail/R-MMU-4641258
+R-MMU-4641262	Disassembly of the destruction complex and recruitment of AXIN to the membrane	30	IEA	https://reactome.org/content/detail/R-MMU-4641262
+R-MMU-4641263	Regulation of FZD by ubiquitination	21	IEA	https://reactome.org/content/detail/R-MMU-4641263
+R-MMU-4641265	Repression of WNT target genes	10	IEA	https://reactome.org/content/detail/R-MMU-4641265
+R-MMU-4655427	SUMOylation of DNA methylation proteins	4	IEA	https://reactome.org/content/detail/R-MMU-4655427
+R-MMU-4755510	SUMOylation of immune response proteins	11	IEA	https://reactome.org/content/detail/R-MMU-4755510
+R-MMU-480985	Synthesis of dolichyl-phosphate-glucose	2	IEA	https://reactome.org/content/detail/R-MMU-480985
+R-MMU-4839726	Chromatin organization	252	IEA	https://reactome.org/content/detail/R-MMU-4839726
+R-MMU-499943	Interconversion of nucleotide di- and triphosphates	29	IEA	https://reactome.org/content/detail/R-MMU-499943
+R-MMU-500657	Presynaptic function of Kainate receptors	21	IEA	https://reactome.org/content/detail/R-MMU-500657
+R-MMU-500753	Pyrimidine biosynthesis	3	IEA	https://reactome.org/content/detail/R-MMU-500753
+R-MMU-500792	GPCR ligand binding	412	IEA	https://reactome.org/content/detail/R-MMU-500792
+R-MMU-5099900	WNT5A-dependent internalization of FZD4	14	IEA	https://reactome.org/content/detail/R-MMU-5099900
+R-MMU-512988	Interleukin-3, Interleukin-5 and GM-CSF signaling	42	IEA	https://reactome.org/content/detail/R-MMU-512988
+R-MMU-5140745	WNT5A-dependent internalization of FZD2, FZD5 and ROR2	12	IEA	https://reactome.org/content/detail/R-MMU-5140745
+R-MMU-5173105	O-linked glycosylation	120	IEA	https://reactome.org/content/detail/R-MMU-5173105
+R-MMU-5173214	O-glycosylation of TSR domain-containing proteins	39	IEA	https://reactome.org/content/detail/R-MMU-5173214
+R-MMU-5205647	Mitophagy	40	IEA	https://reactome.org/content/detail/R-MMU-5205647
+R-MMU-5205685	PINK1-PRKN Mediated Mitophagy	33	IEA	https://reactome.org/content/detail/R-MMU-5205685
+R-MMU-5213460	RIPK1-mediated regulated necrosis	32	IEA	https://reactome.org/content/detail/R-MMU-5213460
+R-MMU-5218859	Regulated Necrosis	54	IEA	https://reactome.org/content/detail/R-MMU-5218859
+R-MMU-5218900	CASP8 activity is inhibited	10	IEA	https://reactome.org/content/detail/R-MMU-5218900
+R-MMU-5218920	VEGFR2 mediated vascular permeability	30	IEA	https://reactome.org/content/detail/R-MMU-5218920
+R-MMU-5218921	VEGFR2 mediated cell proliferation	12	IEA	https://reactome.org/content/detail/R-MMU-5218921
+R-MMU-5221030	TET1,2,3 and TDG demethylate DNA	1	IEA	https://reactome.org/content/detail/R-MMU-5221030
+R-MMU-5223345	Miscellaneous transport and binding events	29	IEA	https://reactome.org/content/detail/R-MMU-5223345
+R-MMU-5250913	Positive epigenetic regulation of rRNA expression	30	IEA	https://reactome.org/content/detail/R-MMU-5250913
+R-MMU-5250924	B-WICH complex positively regulates rRNA expression	30	IEA	https://reactome.org/content/detail/R-MMU-5250924
+R-MMU-525793	Myogenesis	23	IEA	https://reactome.org/content/detail/R-MMU-525793
+R-MMU-5263617	Metabolism of ingested MeSeO2H into MeSeH	1	IEA	https://reactome.org/content/detail/R-MMU-5263617
+R-MMU-532668	N-glycan trimming in the ER and Calnexin/Calreticulin cycle	16	IEA	https://reactome.org/content/detail/R-MMU-532668
+R-MMU-5357769	Caspase activation via extrinsic apoptotic signalling pathway	19	IEA	https://reactome.org/content/detail/R-MMU-5357769
+R-MMU-5357786	TNFR1-induced proapoptotic signaling	23	IEA	https://reactome.org/content/detail/R-MMU-5357786
+R-MMU-5357801	Programmed Cell Death	136	IEA	https://reactome.org/content/detail/R-MMU-5357801
+R-MMU-5357905	Regulation of TNFR1 signaling	49	IEA	https://reactome.org/content/detail/R-MMU-5357905
+R-MMU-5357956	TNFR1-induced NF-kappa-B signaling pathway	34	IEA	https://reactome.org/content/detail/R-MMU-5357956
+R-MMU-5358346	Hedgehog ligand biogenesis	51	IEA	https://reactome.org/content/detail/R-MMU-5358346
+R-MMU-5358351	Signaling by Hedgehog	127	IEA	https://reactome.org/content/detail/R-MMU-5358351
+R-MMU-5358493	Synthesis of diphthamide-EEF2	7	IEA	https://reactome.org/content/detail/R-MMU-5358493
+R-MMU-5358508	Mismatch Repair	14	IEA	https://reactome.org/content/detail/R-MMU-5358508
+R-MMU-5358565	Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)	13	IEA	https://reactome.org/content/detail/R-MMU-5358565
+R-MMU-5358606	Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)	9	IEA	https://reactome.org/content/detail/R-MMU-5358606
+R-MMU-5362517	Signaling by Retinoic Acid	48	IEA	https://reactome.org/content/detail/R-MMU-5362517
+R-MMU-5362798	Release of Hh-Np from the secreting cell	7	IEA	https://reactome.org/content/detail/R-MMU-5362798
+R-MMU-5365859	RA biosynthesis pathway	29	IEA	https://reactome.org/content/detail/R-MMU-5365859
+R-MMU-5368287	Mitochondrial translation	106	IEA	https://reactome.org/content/detail/R-MMU-5368287
+R-MMU-5389840	Mitochondrial translation elongation	86	IEA	https://reactome.org/content/detail/R-MMU-5389840
+R-MMU-5419276	Mitochondrial translation termination	102	IEA	https://reactome.org/content/detail/R-MMU-5419276
+R-MMU-5423646	Aflatoxin activation and detoxification	27	IEA	https://reactome.org/content/detail/R-MMU-5423646
+R-MMU-549127	SLC-mediated transport of organic cations	12	IEA	https://reactome.org/content/detail/R-MMU-549127
+R-MMU-556833	Metabolism of lipids	629	IEA	https://reactome.org/content/detail/R-MMU-556833
+R-MMU-5576886	Phase 4 - resting membrane potential	18	IEA	https://reactome.org/content/detail/R-MMU-5576886
+R-MMU-5576890	Phase 3 - rapid repolarisation	8	IEA	https://reactome.org/content/detail/R-MMU-5576890
+R-MMU-5576891	Cardiac conduction	100	IEA	https://reactome.org/content/detail/R-MMU-5576891
+R-MMU-5576892	Phase 0 - rapid depolarisation	8	IEA	https://reactome.org/content/detail/R-MMU-5576892
+R-MMU-5576893	Phase 2 - plateau phase	14	IEA	https://reactome.org/content/detail/R-MMU-5576893
+R-MMU-5576894	Phase 1 - inactivation of fast Na+ channels	7	IEA	https://reactome.org/content/detail/R-MMU-5576894
+R-MMU-5578749	Transcriptional regulation by small RNAs	4	IEA	https://reactome.org/content/detail/R-MMU-5578749
+R-MMU-5578768	Physiological factors	7	IEA	https://reactome.org/content/detail/R-MMU-5578768
+R-MMU-5578775	Ion homeostasis	52	IEA	https://reactome.org/content/detail/R-MMU-5578775
+R-MMU-5607761	Dectin-1 mediated noncanonical NF-kB signaling	45	IEA	https://reactome.org/content/detail/R-MMU-5607761
+R-MMU-5607763	CLEC7A (Dectin-1) induces NFAT activation	8	IEA	https://reactome.org/content/detail/R-MMU-5607763
+R-MMU-5607764	CLEC7A (Dectin-1) signaling	79	IEA	https://reactome.org/content/detail/R-MMU-5607764
+R-MMU-561048	Organic anion transport by SLC22 transporters	4	IEA	https://reactome.org/content/detail/R-MMU-561048
+R-MMU-5610780	Degradation of GLI1 by the proteasome	43	IEA	https://reactome.org/content/detail/R-MMU-5610780
+R-MMU-5610785	GLI3 is processed to GLI3R by the proteasome	45	IEA	https://reactome.org/content/detail/R-MMU-5610785
+R-MMU-5610787	Hedgehog 'off' state	95	IEA	https://reactome.org/content/detail/R-MMU-5610787
+R-MMU-5617833	Cilium Assembly	205	IEA	https://reactome.org/content/detail/R-MMU-5617833
+R-MMU-5620912	Anchoring of the basal body to the plasma membrane	95	IEA	https://reactome.org/content/detail/R-MMU-5620912
+R-MMU-5620916	VxPx cargo-targeting to cilium	20	IEA	https://reactome.org/content/detail/R-MMU-5620916
+R-MMU-5620920	Cargo trafficking to the periciliary membrane	66	IEA	https://reactome.org/content/detail/R-MMU-5620920
+R-MMU-5620922	BBSome-mediated cargo-targeting to cilium	23	IEA	https://reactome.org/content/detail/R-MMU-5620922
+R-MMU-5620924	Intraflagellar transport	55	IEA	https://reactome.org/content/detail/R-MMU-5620924
+R-MMU-5620971	Pyroptosis	22	IEA	https://reactome.org/content/detail/R-MMU-5620971
+R-MMU-5621480	Dectin-2 family	8	IEA	https://reactome.org/content/detail/R-MMU-5621480
+R-MMU-5621481	C-type lectin receptors (CLRs)	98	IEA	https://reactome.org/content/detail/R-MMU-5621481
+R-MMU-5621575	CD209 (DC-SIGN) signaling	17	IEA	https://reactome.org/content/detail/R-MMU-5621575
+R-MMU-5624138	Trafficking of myristoylated proteins to the cilium	4	IEA	https://reactome.org/content/detail/R-MMU-5624138
+R-MMU-5624958	ARL13B-mediated ciliary trafficking of INPP5E	3	IEA	https://reactome.org/content/detail/R-MMU-5624958
+R-MMU-5625740	RHO GTPases activate PKNs	22	IEA	https://reactome.org/content/detail/R-MMU-5625740
+R-MMU-5625886	Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3	3	IEA	https://reactome.org/content/detail/R-MMU-5625886
+R-MMU-5625900	RHO GTPases activate CIT	7	IEA	https://reactome.org/content/detail/R-MMU-5625900
+R-MMU-5625970	RHO GTPases activate KTN1	11	IEA	https://reactome.org/content/detail/R-MMU-5625970
+R-MMU-5626467	RHO GTPases activate IQGAPs	29	IEA	https://reactome.org/content/detail/R-MMU-5626467
+R-MMU-5626978	TNFR1-mediated ceramide production	6	IEA	https://reactome.org/content/detail/R-MMU-5626978
+R-MMU-5627083	RHO GTPases regulate CFTR trafficking	3	IEA	https://reactome.org/content/detail/R-MMU-5627083
+R-MMU-5627117	RHO GTPases Activate ROCKs	5	IEA	https://reactome.org/content/detail/R-MMU-5627117
+R-MMU-5627123	RHO GTPases activate PAKs	23	IEA	https://reactome.org/content/detail/R-MMU-5627123
+R-MMU-5628897	TP53 Regulates Metabolic Genes	72	IEA	https://reactome.org/content/detail/R-MMU-5628897
+R-MMU-5632681	Ligand-receptor interactions	7	IEA	https://reactome.org/content/detail/R-MMU-5632681
+R-MMU-5632684	Hedgehog 'on' state	69	IEA	https://reactome.org/content/detail/R-MMU-5632684
+R-MMU-5633007	Regulation of TP53 Activity	153	IEA	https://reactome.org/content/detail/R-MMU-5633007
+R-MMU-5633008	TP53 Regulates Transcription of Cell Death Genes	15	IEA	https://reactome.org/content/detail/R-MMU-5633008
+R-MMU-5635838	Activation of SMO	13	IEA	https://reactome.org/content/detail/R-MMU-5635838
+R-MMU-5649702	APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway	7	IEA	https://reactome.org/content/detail/R-MMU-5649702
+R-MMU-5651801	PCNA-Dependent Long Patch Base Excision Repair	20	IEA	https://reactome.org/content/detail/R-MMU-5651801
+R-MMU-5652084	Fructose metabolism	7	IEA	https://reactome.org/content/detail/R-MMU-5652084
+R-MMU-5652227	Fructose biosynthesis	2	IEA	https://reactome.org/content/detail/R-MMU-5652227
+R-MMU-5653656	Vesicle-mediated transport	700	IEA	https://reactome.org/content/detail/R-MMU-5653656
+R-MMU-5653890	Lactose synthesis	3	IEA	https://reactome.org/content/detail/R-MMU-5653890
+R-MMU-5654219	Phospholipase C-mediated cascade: FGFR1	16	IEA	https://reactome.org/content/detail/R-MMU-5654219
+R-MMU-5654221	Phospholipase C-mediated cascade; FGFR2	17	IEA	https://reactome.org/content/detail/R-MMU-5654221
+R-MMU-5654227	Phospholipase C-mediated cascade; FGFR3	13	IEA	https://reactome.org/content/detail/R-MMU-5654227
+R-MMU-5654228	Phospholipase C-mediated cascade; FGFR4	15	IEA	https://reactome.org/content/detail/R-MMU-5654228
+R-MMU-5654687	Downstream signaling of activated FGFR1	30	IEA	https://reactome.org/content/detail/R-MMU-5654687
+R-MMU-5654688	SHC-mediated cascade:FGFR1	20	IEA	https://reactome.org/content/detail/R-MMU-5654688
+R-MMU-5654689	PI-3K cascade:FGFR1	21	IEA	https://reactome.org/content/detail/R-MMU-5654689
+R-MMU-5654693	FRS-mediated FGFR1 signaling	22	IEA	https://reactome.org/content/detail/R-MMU-5654693
+R-MMU-5654695	PI-3K cascade:FGFR2	22	IEA	https://reactome.org/content/detail/R-MMU-5654695
+R-MMU-5654696	Downstream signaling of activated FGFR2	28	IEA	https://reactome.org/content/detail/R-MMU-5654696
+R-MMU-5654699	SHC-mediated cascade:FGFR2	21	IEA	https://reactome.org/content/detail/R-MMU-5654699
+R-MMU-5654700	FRS-mediated FGFR2 signaling	23	IEA	https://reactome.org/content/detail/R-MMU-5654700
+R-MMU-5654704	SHC-mediated cascade:FGFR3	17	IEA	https://reactome.org/content/detail/R-MMU-5654704
+R-MMU-5654706	FRS-mediated FGFR3 signaling	19	IEA	https://reactome.org/content/detail/R-MMU-5654706
+R-MMU-5654708	Downstream signaling of activated FGFR3	24	IEA	https://reactome.org/content/detail/R-MMU-5654708
+R-MMU-5654710	PI-3K cascade:FGFR3	18	IEA	https://reactome.org/content/detail/R-MMU-5654710
+R-MMU-5654712	FRS-mediated FGFR4 signaling	21	IEA	https://reactome.org/content/detail/R-MMU-5654712
+R-MMU-5654716	Downstream signaling of activated FGFR4	26	IEA	https://reactome.org/content/detail/R-MMU-5654716
+R-MMU-5654719	SHC-mediated cascade:FGFR4	19	IEA	https://reactome.org/content/detail/R-MMU-5654719
+R-MMU-5654720	PI-3K cascade:FGFR4	20	IEA	https://reactome.org/content/detail/R-MMU-5654720
+R-MMU-5654726	Negative regulation of FGFR1 signaling	33	IEA	https://reactome.org/content/detail/R-MMU-5654726
+R-MMU-5654727	Negative regulation of FGFR2 signaling	34	IEA	https://reactome.org/content/detail/R-MMU-5654727
+R-MMU-5654732	Negative regulation of FGFR3 signaling	30	IEA	https://reactome.org/content/detail/R-MMU-5654732
+R-MMU-5654733	Negative regulation of FGFR4 signaling	32	IEA	https://reactome.org/content/detail/R-MMU-5654733
+R-MMU-5654736	Signaling by FGFR1	51	IEA	https://reactome.org/content/detail/R-MMU-5654736
+R-MMU-5654738	Signaling by FGFR2	62	IEA	https://reactome.org/content/detail/R-MMU-5654738
+R-MMU-5654741	Signaling by FGFR3	40	IEA	https://reactome.org/content/detail/R-MMU-5654741
+R-MMU-5654743	Signaling by FGFR4	41	IEA	https://reactome.org/content/detail/R-MMU-5654743
+R-MMU-5655862	Translesion synthesis by POLK	18	IEA	https://reactome.org/content/detail/R-MMU-5655862
+R-MMU-5656121	Translesion synthesis by POLI	17	IEA	https://reactome.org/content/detail/R-MMU-5656121
+R-MMU-5656169	Termination of translesion DNA synthesis	31	IEA	https://reactome.org/content/detail/R-MMU-5656169
+R-MMU-5658442	Regulation of RAS by GAPs	54	IEA	https://reactome.org/content/detail/R-MMU-5658442
+R-MMU-5658623	FGFRL1 modulation of FGFR1 signaling	13	IEA	https://reactome.org/content/detail/R-MMU-5658623
+R-MMU-5660526	Response to metal ions	2	IEA	https://reactome.org/content/detail/R-MMU-5660526
+R-MMU-5660668	CLEC7A/inflammasome pathway	4	IEA	https://reactome.org/content/detail/R-MMU-5660668
+R-MMU-5661231	Metallothioneins bind metals	2	IEA	https://reactome.org/content/detail/R-MMU-5661231
+R-MMU-5661270	Formation of xylulose-5-phosphate	5	IEA	https://reactome.org/content/detail/R-MMU-5661270
+R-MMU-5662702	Melanin biosynthesis	5	IEA	https://reactome.org/content/detail/R-MMU-5662702
+R-MMU-5663213	RHO GTPases Activate WASPs and WAVEs	33	IEA	https://reactome.org/content/detail/R-MMU-5663213
+R-MMU-5663220	RHO GTPases Activate Formins	132	IEA	https://reactome.org/content/detail/R-MMU-5663220
+R-MMU-5666185	RHO GTPases Activate Rhotekin and Rhophilins	5	IEA	https://reactome.org/content/detail/R-MMU-5666185
+R-MMU-5668541	TNFR2 non-canonical NF-kB pathway	85	IEA	https://reactome.org/content/detail/R-MMU-5668541
+R-MMU-5668599	RHO GTPases Activate NADPH Oxidases	23	IEA	https://reactome.org/content/detail/R-MMU-5668599
+R-MMU-5669034	TNFs bind their physiological receptors	26	IEA	https://reactome.org/content/detail/R-MMU-5669034
+R-MMU-5673000	RAF activation	35	IEA	https://reactome.org/content/detail/R-MMU-5673000
+R-MMU-5673001	RAF/MAP kinase cascade	253	IEA	https://reactome.org/content/detail/R-MMU-5673001
+R-MMU-5674135	MAP2K and MAPK activation	39	IEA	https://reactome.org/content/detail/R-MMU-5674135
+R-MMU-5674499	Negative feedback regulation of MAPK pathway	6	IEA	https://reactome.org/content/detail/R-MMU-5674499
+R-MMU-5675221	Negative regulation of MAPK pathway	43	IEA	https://reactome.org/content/detail/R-MMU-5675221
+R-MMU-5675482	Regulation of necroptotic cell death	32	IEA	https://reactome.org/content/detail/R-MMU-5675482
+R-MMU-5676590	NIK-->noncanonical NF-kB signaling	45	IEA	https://reactome.org/content/detail/R-MMU-5676590
+R-MMU-5676594	TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway	17	IEA	https://reactome.org/content/detail/R-MMU-5676594
+R-MMU-5676934	Protein repair	6	IEA	https://reactome.org/content/detail/R-MMU-5676934
+R-MMU-5682910	LGI-ADAM interactions	14	IEA	https://reactome.org/content/detail/R-MMU-5682910
+R-MMU-5683057	MAPK family signaling cascades	283	IEA	https://reactome.org/content/detail/R-MMU-5683057
+R-MMU-5683826	Surfactant metabolism	22	IEA	https://reactome.org/content/detail/R-MMU-5683826
+R-MMU-5684264	MAP3K8 (TPL2)-dependent MAPK1/3 activation	14	IEA	https://reactome.org/content/detail/R-MMU-5684264
+R-MMU-5684996	MAPK1/MAPK3 signaling	259	IEA	https://reactome.org/content/detail/R-MMU-5684996
+R-MMU-5685938	HDR through Single Strand Annealing (SSA)	37	IEA	https://reactome.org/content/detail/R-MMU-5685938
+R-MMU-5685939	HDR through MMEJ (alt-NHEJ)	12	IEA	https://reactome.org/content/detail/R-MMU-5685939
+R-MMU-5685942	HDR through Homologous Recombination (HRR)	58	IEA	https://reactome.org/content/detail/R-MMU-5685942
+R-MMU-5686938	Regulation of TLR by endogenous ligand	21	IEA	https://reactome.org/content/detail/R-MMU-5686938
+R-MMU-5687128	MAPK6/MAPK4 signaling	61	IEA	https://reactome.org/content/detail/R-MMU-5687128
+R-MMU-5688426	Deubiquitination	240	IEA	https://reactome.org/content/detail/R-MMU-5688426
+R-MMU-5689603	UCH proteinases	84	IEA	https://reactome.org/content/detail/R-MMU-5689603
+R-MMU-5689877	Josephin domain DUBs	12	IEA	https://reactome.org/content/detail/R-MMU-5689877
+R-MMU-5689880	Ub-specific processing proteases	170	IEA	https://reactome.org/content/detail/R-MMU-5689880
+R-MMU-5689896	Ovarian tumor domain proteases	33	IEA	https://reactome.org/content/detail/R-MMU-5689896
+R-MMU-5689901	Metalloprotease DUBs	39	IEA	https://reactome.org/content/detail/R-MMU-5689901
+R-MMU-5690714	CD22 mediated BCR regulation	108	IEA	https://reactome.org/content/detail/R-MMU-5690714
+R-MMU-5693532	DNA Double-Strand Break Repair	203	IEA	https://reactome.org/content/detail/R-MMU-5693532
+R-MMU-5693537	Resolution of D-Loop Structures	34	IEA	https://reactome.org/content/detail/R-MMU-5693537
+R-MMU-5693538	Homology Directed Repair	136	IEA	https://reactome.org/content/detail/R-MMU-5693538
+R-MMU-5693548	Sensing of DNA Double Strand Breaks	7	IEA	https://reactome.org/content/detail/R-MMU-5693548
+R-MMU-5693565	Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks	78	IEA	https://reactome.org/content/detail/R-MMU-5693565
+R-MMU-5693567	HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)	130	IEA	https://reactome.org/content/detail/R-MMU-5693567
+R-MMU-5693568	Resolution of D-loop Structures through Holliday Junction Intermediates	34	IEA	https://reactome.org/content/detail/R-MMU-5693568
+R-MMU-5693571	Nonhomologous End-Joining (NHEJ)	67	IEA	https://reactome.org/content/detail/R-MMU-5693571
+R-MMU-5693579	Homologous DNA Pairing and Strand Exchange	26	IEA	https://reactome.org/content/detail/R-MMU-5693579
+R-MMU-5693606	DNA Double Strand Break Response	115	IEA	https://reactome.org/content/detail/R-MMU-5693606
+R-MMU-5693607	Processing of DNA double-strand break ends	96	IEA	https://reactome.org/content/detail/R-MMU-5693607
+R-MMU-5693616	Presynaptic phase of homologous DNA pairing and strand exchange	23	IEA	https://reactome.org/content/detail/R-MMU-5693616
+R-MMU-5694530	Cargo concentration in the ER	32	IEA	https://reactome.org/content/detail/R-MMU-5694530
+R-MMU-5696394	DNA Damage Recognition in GG-NER	39	IEA	https://reactome.org/content/detail/R-MMU-5696394
+R-MMU-5696395	Formation of Incision Complex in GG-NER	44	IEA	https://reactome.org/content/detail/R-MMU-5696395
+R-MMU-5696397	Gap-filling DNA repair synthesis and ligation in GG-NER	22	IEA	https://reactome.org/content/detail/R-MMU-5696397
+R-MMU-5696398	Nucleotide Excision Repair	106	IEA	https://reactome.org/content/detail/R-MMU-5696398
+R-MMU-5696399	Global Genome Nucleotide Excision Repair (GG-NER)	81	IEA	https://reactome.org/content/detail/R-MMU-5696399
+R-MMU-5696400	Dual Incision in GG-NER	41	IEA	https://reactome.org/content/detail/R-MMU-5696400
+R-MMU-597592	Post-translational protein modification	1349	IEA	https://reactome.org/content/detail/R-MMU-597592
+R-MMU-606279	Deposition of new CENPA-containing nucleosomes at the centromere	80	IEA	https://reactome.org/content/detail/R-MMU-606279
+R-MMU-611105	Respiratory electron transport	137	IEA	https://reactome.org/content/detail/R-MMU-611105
+R-MMU-622312	Inflammasomes	14	IEA	https://reactome.org/content/detail/R-MMU-622312
+R-MMU-622323	Presynaptic nicotinic acetylcholine receptors	12	IEA	https://reactome.org/content/detail/R-MMU-622323
+R-MMU-622327	Postsynaptic nicotinic acetylcholine receptors	14	IEA	https://reactome.org/content/detail/R-MMU-622327
+R-MMU-629587	Highly sodium permeable postsynaptic acetylcholine nicotinic receptors	7	IEA	https://reactome.org/content/detail/R-MMU-629587
+R-MMU-629594	Highly calcium permeable postsynaptic nicotinic acetylcholine receptors	11	IEA	https://reactome.org/content/detail/R-MMU-629594
+R-MMU-629597	Highly calcium permeable nicotinic acetylcholine receptors	9	IEA	https://reactome.org/content/detail/R-MMU-629597
+R-MMU-674695	RNA Polymerase II Pre-transcription Events	74	IEA	https://reactome.org/content/detail/R-MMU-674695
+R-MMU-6781823	Formation of TC-NER Pre-Incision Complex	51	IEA	https://reactome.org/content/detail/R-MMU-6781823
+R-MMU-6781827	Transcription-Coupled Nucleotide Excision Repair (TC-NER)	74	IEA	https://reactome.org/content/detail/R-MMU-6781827
+R-MMU-6782135	Dual incision in TC-NER	62	IEA	https://reactome.org/content/detail/R-MMU-6782135
+R-MMU-6782210	Gap-filling DNA repair synthesis and ligation in TC-NER	61	IEA	https://reactome.org/content/detail/R-MMU-6782210
+R-MMU-6782315	tRNA modification in the nucleus and cytosol	1	IEA	https://reactome.org/content/detail/R-MMU-6782315
+R-MMU-6783310	Fanconi Anemia Pathway	38	IEA	https://reactome.org/content/detail/R-MMU-6783310
+R-MMU-6783589	Interleukin-6 family signaling	22	IEA	https://reactome.org/content/detail/R-MMU-6783589
+R-MMU-6783783	Interleukin-10 signaling	5	IEA	https://reactome.org/content/detail/R-MMU-6783783
+R-MMU-6783984	Glycine degradation	7	IEA	https://reactome.org/content/detail/R-MMU-6783984
+R-MMU-6785631	ERBB2 Regulates Cell Motility	13	IEA	https://reactome.org/content/detail/R-MMU-6785631
+R-MMU-6785807	Interleukin-4 and Interleukin-13 signaling	13	IEA	https://reactome.org/content/detail/R-MMU-6785807
+R-MMU-6787450	tRNA modification in the mitochondrion	1	IEA	https://reactome.org/content/detail/R-MMU-6787450
+R-MMU-6787639	GDP-fucose biosynthesis	6	IEA	https://reactome.org/content/detail/R-MMU-6787639
+R-MMU-6788467	IL-6-type cytokine receptor ligand interactions	16	IEA	https://reactome.org/content/detail/R-MMU-6788467
+R-MMU-6791226	Major pathway of rRNA processing in the nucleolus and cytosol	180	IEA	https://reactome.org/content/detail/R-MMU-6791226
+R-MMU-6791312	TP53 Regulates Transcription of Cell Cycle Genes	34	IEA	https://reactome.org/content/detail/R-MMU-6791312
+R-MMU-6794361	Neurexins and neuroligins	31	IEA	https://reactome.org/content/detail/R-MMU-6794361
+R-MMU-6794362	Protein-protein interactions at synapses	65	IEA	https://reactome.org/content/detail/R-MMU-6794362
+R-MMU-6796648	TP53 Regulates Transcription of DNA Repair Genes	41	IEA	https://reactome.org/content/detail/R-MMU-6796648
+R-MMU-6798163	Choline catabolism	9	IEA	https://reactome.org/content/detail/R-MMU-6798163
+R-MMU-6798695	Neutrophil degranulation	526	IEA	https://reactome.org/content/detail/R-MMU-6798695
+R-MMU-6799198	Complex I biogenesis	63	IEA	https://reactome.org/content/detail/R-MMU-6799198
+R-MMU-6799990	Metal sequestration by antimicrobial proteins	4	IEA	https://reactome.org/content/detail/R-MMU-6799990
+R-MMU-6803157	Antimicrobial peptides	93	IEA	https://reactome.org/content/detail/R-MMU-6803157
+R-MMU-6803204	TP53 Regulates Transcription of Genes Involved in Cytochrome C Release	7	IEA	https://reactome.org/content/detail/R-MMU-6803204
+R-MMU-6803205	TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain	3	IEA	https://reactome.org/content/detail/R-MMU-6803205
+R-MMU-6803207	TP53 Regulates Transcription of Caspase Activators and Caspases	4	IEA	https://reactome.org/content/detail/R-MMU-6803207
+R-MMU-6803211	TP53 Regulates Transcription of Death Receptors and Ligands	2	IEA	https://reactome.org/content/detail/R-MMU-6803211
+R-MMU-6803529	FGFR2 alternative splicing	17	IEA	https://reactome.org/content/detail/R-MMU-6803529
+R-MMU-6803544	Ion influx/efflux at host-pathogen interface	4	IEA	https://reactome.org/content/detail/R-MMU-6803544
+R-MMU-6804114	TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest	7	IEA	https://reactome.org/content/detail/R-MMU-6804114
+R-MMU-6804115	TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain	18	IEA	https://reactome.org/content/detail/R-MMU-6804115
+R-MMU-6804116	TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest	9	IEA	https://reactome.org/content/detail/R-MMU-6804116
+R-MMU-6804754	Regulation of TP53 Expression	1	IEA	https://reactome.org/content/detail/R-MMU-6804754
+R-MMU-6804756	Regulation of TP53 Activity through Phosphorylation	89	IEA	https://reactome.org/content/detail/R-MMU-6804756
+R-MMU-6804757	Regulation of TP53 Degradation	36	IEA	https://reactome.org/content/detail/R-MMU-6804757
+R-MMU-6804758	Regulation of TP53 Activity through Acetylation	29	IEA	https://reactome.org/content/detail/R-MMU-6804758
+R-MMU-6804759	Regulation of TP53 Activity through Association with Co-factors	14	IEA	https://reactome.org/content/detail/R-MMU-6804759
+R-MMU-6804760	Regulation of TP53 Activity through Methylation	19	IEA	https://reactome.org/content/detail/R-MMU-6804760
+R-MMU-6805567	Keratinization	187	IEA	https://reactome.org/content/detail/R-MMU-6805567
+R-MMU-6806003	Regulation of TP53 Expression and Degradation	36	IEA	https://reactome.org/content/detail/R-MMU-6806003
+R-MMU-6806664	Metabolism of vitamin K	3	IEA	https://reactome.org/content/detail/R-MMU-6806664
+R-MMU-6806667	Metabolism of fat-soluble vitamins	51	IEA	https://reactome.org/content/detail/R-MMU-6806667
+R-MMU-6806834	Signaling by MET	68	IEA	https://reactome.org/content/detail/R-MMU-6806834
+R-MMU-6806942	MET Receptor Activation	6	IEA	https://reactome.org/content/detail/R-MMU-6806942
+R-MMU-6807004	Negative regulation of MET activity	22	IEA	https://reactome.org/content/detail/R-MMU-6807004
+R-MMU-6807047	Cholesterol biosynthesis via desmosterol (Bloch pathway)	10	IEA	https://reactome.org/content/detail/R-MMU-6807047
+R-MMU-6807062	Zymostenol biosynthesis via lathosterol (Kandutsch-Russell pathway)	6	IEA	https://reactome.org/content/detail/R-MMU-6807062
+R-MMU-6807070	PTEN Regulation	100	IEA	https://reactome.org/content/detail/R-MMU-6807070
+R-MMU-6807505	RNA polymerase II transcribes snRNA genes	71	IEA	https://reactome.org/content/detail/R-MMU-6807505
+R-MMU-6807878	COPI-mediated anterograde transport	93	IEA	https://reactome.org/content/detail/R-MMU-6807878
+R-MMU-6809371	Formation of the cornified envelope	89	IEA	https://reactome.org/content/detail/R-MMU-6809371
+R-MMU-6811434	COPI-dependent Golgi-to-ER retrograde traffic	95	IEA	https://reactome.org/content/detail/R-MMU-6811434
+R-MMU-6811436	COPI-independent Golgi-to-ER retrograde traffic	45	IEA	https://reactome.org/content/detail/R-MMU-6811436
+R-MMU-6811438	Intra-Golgi traffic	36	IEA	https://reactome.org/content/detail/R-MMU-6811438
+R-MMU-6811440	Retrograde transport at the Trans-Golgi-Network	45	IEA	https://reactome.org/content/detail/R-MMU-6811440
+R-MMU-6811442	Intra-Golgi and retrograde Golgi-to-ER traffic	182	IEA	https://reactome.org/content/detail/R-MMU-6811442
+R-MMU-6811555	PI5P Regulates TP53 Acetylation	9	IEA	https://reactome.org/content/detail/R-MMU-6811555
+R-MMU-6811558	PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling	109	IEA	https://reactome.org/content/detail/R-MMU-6811558
+R-MMU-6814122	Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding	37	IEA	https://reactome.org/content/detail/R-MMU-6814122
+R-MMU-6814848	Glycerophospholipid catabolism	3	IEA	https://reactome.org/content/detail/R-MMU-6814848
+R-MMU-68616	Assembly of the ORC complex at the origin of replication	9	IEA	https://reactome.org/content/detail/R-MMU-68616
+R-MMU-68689	CDC6 association with the ORC:origin complex	8	IEA	https://reactome.org/content/detail/R-MMU-68689
+R-MMU-68867	Assembly of the pre-replicative complex	73	IEA	https://reactome.org/content/detail/R-MMU-68867
+R-MMU-68875	Mitotic Prophase	135	IEA	https://reactome.org/content/detail/R-MMU-68875
+R-MMU-68877	Mitotic Prometaphase	193	IEA	https://reactome.org/content/detail/R-MMU-68877
+R-MMU-68881	Mitotic Metaphase/Anaphase Transition	2	IEA	https://reactome.org/content/detail/R-MMU-68881
+R-MMU-68882	Mitotic Anaphase	210	IEA	https://reactome.org/content/detail/R-MMU-68882
+R-MMU-68884	Mitotic Telophase/Cytokinesis	13	IEA	https://reactome.org/content/detail/R-MMU-68884
+R-MMU-68886	M Phase	391	IEA	https://reactome.org/content/detail/R-MMU-68886
+R-MMU-68911	G2 Phase	5	IEA	https://reactome.org/content/detail/R-MMU-68911
+R-MMU-68949	Orc1 removal from chromatin	58	IEA	https://reactome.org/content/detail/R-MMU-68949
+R-MMU-68952	DNA replication initiation	8	IEA	https://reactome.org/content/detail/R-MMU-68952
+R-MMU-68962	Activation of the pre-replicative complex	32	IEA	https://reactome.org/content/detail/R-MMU-68962
+R-MMU-69002	DNA Replication Pre-Initiation	89	IEA	https://reactome.org/content/detail/R-MMU-69002
+R-MMU-69017	CDK-mediated phosphorylation and removal of Cdc6	60	IEA	https://reactome.org/content/detail/R-MMU-69017
+R-MMU-69052	Switching of origins to a post-replicative state	79	IEA	https://reactome.org/content/detail/R-MMU-69052
+R-MMU-69091	Polymerase switching	13	IEA	https://reactome.org/content/detail/R-MMU-69091
+R-MMU-69109	Leading Strand Synthesis	13	IEA	https://reactome.org/content/detail/R-MMU-69109
+R-MMU-69166	Removal of the Flap Intermediate	13	IEA	https://reactome.org/content/detail/R-MMU-69166
+R-MMU-69183	Processive synthesis on the lagging strand	14	IEA	https://reactome.org/content/detail/R-MMU-69183
+R-MMU-69186	Lagging Strand Synthesis	19	IEA	https://reactome.org/content/detail/R-MMU-69186
+R-MMU-69190	DNA strand elongation	23	IEA	https://reactome.org/content/detail/R-MMU-69190
+R-MMU-69200	Phosphorylation of proteins involved in G1/S transition by active Cyclin E:Cdk2 complexes	4	IEA	https://reactome.org/content/detail/R-MMU-69200
+R-MMU-69202	Cyclin E associated events during G1/S transition 	60	IEA	https://reactome.org/content/detail/R-MMU-69202
+R-MMU-69206	G1/S Transition	96	IEA	https://reactome.org/content/detail/R-MMU-69206
+R-MMU-69231	Cyclin D associated events in G1	44	IEA	https://reactome.org/content/detail/R-MMU-69231
+R-MMU-69236	G1 Phase	44	IEA	https://reactome.org/content/detail/R-MMU-69236
+R-MMU-69239	Synthesis of DNA	106	IEA	https://reactome.org/content/detail/R-MMU-69239
+R-MMU-69242	S Phase	134	IEA	https://reactome.org/content/detail/R-MMU-69242
+R-MMU-69273	Cyclin A/B1/B2 associated events during G2/M transition	32	IEA	https://reactome.org/content/detail/R-MMU-69273
+R-MMU-69275	G2/M Transition	173	IEA	https://reactome.org/content/detail/R-MMU-69275
+R-MMU-69278	Cell Cycle, Mitotic	519	IEA	https://reactome.org/content/detail/R-MMU-69278
+R-MMU-69306	DNA Replication	118	IEA	https://reactome.org/content/detail/R-MMU-69306
+R-MMU-69416	Dimerization of procaspase-8	10	IEA	https://reactome.org/content/detail/R-MMU-69416
+R-MMU-69473	G2/M DNA damage checkpoint	94	IEA	https://reactome.org/content/detail/R-MMU-69473
+R-MMU-69478	G2/M DNA replication checkpoint	7	IEA	https://reactome.org/content/detail/R-MMU-69478
+R-MMU-69481	G2/M Checkpoints	154	IEA	https://reactome.org/content/detail/R-MMU-69481
+R-MMU-69541	Stabilization of p53	43	IEA	https://reactome.org/content/detail/R-MMU-69541
+R-MMU-69560	Transcriptional activation of p53 responsive genes  	2	IEA	https://reactome.org/content/detail/R-MMU-69560
+R-MMU-69563	p53-Dependent G1 DNA Damage Response	51	IEA	https://reactome.org/content/detail/R-MMU-69563
+R-MMU-69580	p53-Dependent G1/S DNA damage checkpoint	51	IEA	https://reactome.org/content/detail/R-MMU-69580
+R-MMU-69601	Ubiquitin-Mediated Degradation of Phosphorylated Cdc25A	50	IEA	https://reactome.org/content/detail/R-MMU-69601
+R-MMU-69613	p53-Independent G1/S DNA Damage Checkpoint	50	IEA	https://reactome.org/content/detail/R-MMU-69613
+R-MMU-69615	G1/S DNA Damage Checkpoints	64	IEA	https://reactome.org/content/detail/R-MMU-69615
+R-MMU-69618	Mitotic Spindle Checkpoint	110	IEA	https://reactome.org/content/detail/R-MMU-69618
+R-MMU-69620	Cell Cycle Checkpoints	284	IEA	https://reactome.org/content/detail/R-MMU-69620
+R-MMU-69656	Cyclin A:Cdk2-associated events at S phase entry	62	IEA	https://reactome.org/content/detail/R-MMU-69656
+R-MMU-69895	Transcriptional  activation of  cell cycle inhibitor p21 	2	IEA	https://reactome.org/content/detail/R-MMU-69895
+R-MMU-70171	Glycolysis	62	IEA	https://reactome.org/content/detail/R-MMU-70171
+R-MMU-70221	Glycogen breakdown (glycogenolysis)	15	IEA	https://reactome.org/content/detail/R-MMU-70221
+R-MMU-70263	Gluconeogenesis	25	IEA	https://reactome.org/content/detail/R-MMU-70263
+R-MMU-70268	Pyruvate metabolism	45	IEA	https://reactome.org/content/detail/R-MMU-70268
+R-MMU-70326	Glucose metabolism	73	IEA	https://reactome.org/content/detail/R-MMU-70326
+R-MMU-70350	Fructose catabolism	5	IEA	https://reactome.org/content/detail/R-MMU-70350
+R-MMU-70370	Galactose catabolism	5	IEA	https://reactome.org/content/detail/R-MMU-70370
+R-MMU-70635	Urea cycle	11	IEA	https://reactome.org/content/detail/R-MMU-70635
+R-MMU-70688	Proline catabolism	3	IEA	https://reactome.org/content/detail/R-MMU-70688
+R-MMU-70895	Branched-chain amino acid catabolism	22	IEA	https://reactome.org/content/detail/R-MMU-70895
+R-MMU-70921	Histidine catabolism	8	IEA	https://reactome.org/content/detail/R-MMU-70921
+R-MMU-71032	Propionyl-CoA catabolism	5	IEA	https://reactome.org/content/detail/R-MMU-71032
+R-MMU-71064	Lysine catabolism	12	IEA	https://reactome.org/content/detail/R-MMU-71064
+R-MMU-71240	Tryptophan catabolism	11	IEA	https://reactome.org/content/detail/R-MMU-71240
+R-MMU-71262	Carnitine synthesis	3	IEA	https://reactome.org/content/detail/R-MMU-71262
+R-MMU-71288	Creatine metabolism	10	IEA	https://reactome.org/content/detail/R-MMU-71288
+R-MMU-71291	Metabolism of amino acids and derivatives	242	IEA	https://reactome.org/content/detail/R-MMU-71291
+R-MMU-71336	Pentose phosphate pathway	13	IEA	https://reactome.org/content/detail/R-MMU-71336
+R-MMU-71384	Ethanol oxidation	9	IEA	https://reactome.org/content/detail/R-MMU-71384
+R-MMU-71387	Metabolism of carbohydrates and carbohydrate derivatives	270	IEA	https://reactome.org/content/detail/R-MMU-71387
+R-MMU-71403	Citric acid cycle (TCA cycle)	34	IEA	https://reactome.org/content/detail/R-MMU-71403
+R-MMU-71737	Pyrophosphate hydrolysis	3	IEA	https://reactome.org/content/detail/R-MMU-71737
+R-MMU-72086	mRNA Capping	30	IEA	https://reactome.org/content/detail/R-MMU-72086
+R-MMU-72163	mRNA Splicing - Major Pathway	196	IEA	https://reactome.org/content/detail/R-MMU-72163
+R-MMU-72165	mRNA Splicing - Minor Pathway	47	IEA	https://reactome.org/content/detail/R-MMU-72165
+R-MMU-72172	mRNA Splicing	204	IEA	https://reactome.org/content/detail/R-MMU-72172
+R-MMU-72187	mRNA 3'-end processing	143	IEA	https://reactome.org/content/detail/R-MMU-72187
+R-MMU-72200	mRNA Editing: C to U Conversion	5	IEA	https://reactome.org/content/detail/R-MMU-72200
+R-MMU-72202	Transport of Mature Transcript to Cytoplasm	81	IEA	https://reactome.org/content/detail/R-MMU-72202
+R-MMU-72203	Processing of Capped Intron-Containing Pre-mRNA	286	IEA	https://reactome.org/content/detail/R-MMU-72203
+R-MMU-72306	tRNA processing	2	IEA	https://reactome.org/content/detail/R-MMU-72306
+R-MMU-72312	rRNA processing	180	IEA	https://reactome.org/content/detail/R-MMU-72312
+R-MMU-72613	Eukaryotic Translation Initiation	121	IEA	https://reactome.org/content/detail/R-MMU-72613
+R-MMU-72649	Translation initiation complex formation	60	IEA	https://reactome.org/content/detail/R-MMU-72649
+R-MMU-72662	Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S	61	IEA	https://reactome.org/content/detail/R-MMU-72662
+R-MMU-72689	Formation of a pool of free 40S subunits	103	IEA	https://reactome.org/content/detail/R-MMU-72689
+R-MMU-72695	Formation of the ternary complex, and subsequently, the 43S complex	53	IEA	https://reactome.org/content/detail/R-MMU-72695
+R-MMU-72702	Ribosomal scanning and start codon recognition	60	IEA	https://reactome.org/content/detail/R-MMU-72702
+R-MMU-72706	GTP hydrolysis and joining of the 60S ribosomal subunit	114	IEA	https://reactome.org/content/detail/R-MMU-72706
+R-MMU-72731	Recycling of eIF2:GDP	8	IEA	https://reactome.org/content/detail/R-MMU-72731
+R-MMU-72737	Cap-dependent Translation Initiation	121	IEA	https://reactome.org/content/detail/R-MMU-72737
+R-MMU-72764	Eukaryotic Translation Termination	6	IEA	https://reactome.org/content/detail/R-MMU-72764
+R-MMU-72766	Translation	299	IEA	https://reactome.org/content/detail/R-MMU-72766
+R-MMU-727802	Transport of nucleotide sugars	9	IEA	https://reactome.org/content/detail/R-MMU-727802
+R-MMU-73614	Pyrimidine salvage	11	IEA	https://reactome.org/content/detail/R-MMU-73614
+R-MMU-73621	Pyrimidine catabolism	11	IEA	https://reactome.org/content/detail/R-MMU-73621
+R-MMU-73728	RNA Polymerase I Promoter Opening	3	IEA	https://reactome.org/content/detail/R-MMU-73728
+R-MMU-73762	RNA Polymerase I Transcription Initiation	43	IEA	https://reactome.org/content/detail/R-MMU-73762
+R-MMU-73772	RNA Polymerase I Promoter Escape	30	IEA	https://reactome.org/content/detail/R-MMU-73772
+R-MMU-73776	RNA Polymerase II Promoter Escape	44	IEA	https://reactome.org/content/detail/R-MMU-73776
+R-MMU-73779	RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	44	IEA	https://reactome.org/content/detail/R-MMU-73779
+R-MMU-73817	Purine ribonucleoside monophosphate biosynthesis	11	IEA	https://reactome.org/content/detail/R-MMU-73817
+R-MMU-73843	5-Phosphoribose 1-diphosphate biosynthesis	2	IEA	https://reactome.org/content/detail/R-MMU-73843
+R-MMU-73856	RNA Polymerase II Transcription Termination	29	IEA	https://reactome.org/content/detail/R-MMU-73856
+R-MMU-73857	RNA Polymerase II Transcription	919	IEA	https://reactome.org/content/detail/R-MMU-73857
+R-MMU-73863	RNA Polymerase I Transcription Termination	30	IEA	https://reactome.org/content/detail/R-MMU-73863
+R-MMU-73864	RNA Polymerase I Transcription	46	IEA	https://reactome.org/content/detail/R-MMU-73864
+R-MMU-73884	Base Excision Repair	97	IEA	https://reactome.org/content/detail/R-MMU-73884
+R-MMU-73886	Chromosome Maintenance	132	IEA	https://reactome.org/content/detail/R-MMU-73886
+R-MMU-73887	Death Receptor Signaling	141	IEA	https://reactome.org/content/detail/R-MMU-73887
+R-MMU-73893	DNA Damage Bypass	47	IEA	https://reactome.org/content/detail/R-MMU-73893
+R-MMU-73894	DNA Repair	360	IEA	https://reactome.org/content/detail/R-MMU-73894
+R-MMU-73927	Depurination	63	IEA	https://reactome.org/content/detail/R-MMU-73927
+R-MMU-73928	Depyrimidination	8	IEA	https://reactome.org/content/detail/R-MMU-73928
+R-MMU-73929	Base-Excision Repair, AP Site Formation	70	IEA	https://reactome.org/content/detail/R-MMU-73929
+R-MMU-73930	Abasic sugar-phosphate removal via the single-nucleotide replacement pathway	2	IEA	https://reactome.org/content/detail/R-MMU-73930
+R-MMU-73933	Resolution of Abasic Sites (AP sites)	37	IEA	https://reactome.org/content/detail/R-MMU-73933
+R-MMU-73942	DNA Damage Reversal	2	IEA	https://reactome.org/content/detail/R-MMU-73942
+R-MMU-73943	Reversal of alkylation damage by DNA dioxygenases	2	IEA	https://reactome.org/content/detail/R-MMU-73943
+R-MMU-74158	RNA Polymerase III Transcription	33	IEA	https://reactome.org/content/detail/R-MMU-74158
+R-MMU-74160	Gene expression (Transcription)	1023	IEA	https://reactome.org/content/detail/R-MMU-74160
+R-MMU-74182	Ketone body metabolism	11	IEA	https://reactome.org/content/detail/R-MMU-74182
+R-MMU-74217	Purine salvage	14	IEA	https://reactome.org/content/detail/R-MMU-74217
+R-MMU-74259	Purine catabolism	18	IEA	https://reactome.org/content/detail/R-MMU-74259
+R-MMU-74713	IRS activation	5	IEA	https://reactome.org/content/detail/R-MMU-74713
+R-MMU-74749	Signal attenuation	10	IEA	https://reactome.org/content/detail/R-MMU-74749
+R-MMU-74751	Insulin receptor signalling cascade	47	IEA	https://reactome.org/content/detail/R-MMU-74751
+R-MMU-74752	Signaling by Insulin receptor	75	IEA	https://reactome.org/content/detail/R-MMU-74752
+R-MMU-75035	Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex	14	IEA	https://reactome.org/content/detail/R-MMU-75035
+R-MMU-75064	mRNA Editing: A to I Conversion	2	IEA	https://reactome.org/content/detail/R-MMU-75064
+R-MMU-75067	Processing of Capped Intronless Pre-mRNA	29	IEA	https://reactome.org/content/detail/R-MMU-75067
+R-MMU-75072	mRNA Editing	7	IEA	https://reactome.org/content/detail/R-MMU-75072
+R-MMU-75094	Formation of the Editosome	5	IEA	https://reactome.org/content/detail/R-MMU-75094
+R-MMU-75102	C6 deamination of adenosine	2	IEA	https://reactome.org/content/detail/R-MMU-75102
+R-MMU-75105	Fatty acyl-CoA biosynthesis	32	IEA	https://reactome.org/content/detail/R-MMU-75105
+R-MMU-75108	Activation, myristolyation of BID and translocation to mitochondria	4	IEA	https://reactome.org/content/detail/R-MMU-75108
+R-MMU-75109	Triglyceride biosynthesis	12	IEA	https://reactome.org/content/detail/R-MMU-75109
+R-MMU-75153	Apoptotic execution phase	49	IEA	https://reactome.org/content/detail/R-MMU-75153
+R-MMU-75157	FasL/ CD95L signaling	4	IEA	https://reactome.org/content/detail/R-MMU-75157
+R-MMU-75158	TRAIL  signaling	5	IEA	https://reactome.org/content/detail/R-MMU-75158
+R-MMU-75205	Dissolution of Fibrin Clot	13	IEA	https://reactome.org/content/detail/R-MMU-75205
+R-MMU-75815	Ubiquitin-dependent degradation of Cyclin D	38	IEA	https://reactome.org/content/detail/R-MMU-75815
+R-MMU-75876	Synthesis of very long-chain fatty acyl-CoAs	22	IEA	https://reactome.org/content/detail/R-MMU-75876
+R-MMU-75892	Platelet Adhesion to exposed collagen	4	IEA	https://reactome.org/content/detail/R-MMU-75892
+R-MMU-75893	TNF signaling	58	IEA	https://reactome.org/content/detail/R-MMU-75893
+R-MMU-75896	Plasmalogen biosynthesis	2	IEA	https://reactome.org/content/detail/R-MMU-75896
+R-MMU-75944	Transcription from mitochondrial promoters	3	IEA	https://reactome.org/content/detail/R-MMU-75944
+R-MMU-75953	RNA Polymerase II Transcription Initiation	44	IEA	https://reactome.org/content/detail/R-MMU-75953
+R-MMU-75955	RNA Polymerase II Transcription Elongation	53	IEA	https://reactome.org/content/detail/R-MMU-75955
+R-MMU-76002	Platelet activation, signaling and aggregation	250	IEA	https://reactome.org/content/detail/R-MMU-76002
+R-MMU-76005	Response to elevated platelet cytosolic Ca2+	126	IEA	https://reactome.org/content/detail/R-MMU-76005
+R-MMU-76009	Platelet Aggregation (Plug Formation)	36	IEA	https://reactome.org/content/detail/R-MMU-76009
+R-MMU-76042	RNA Polymerase II Transcription Initiation And Promoter Clearance	44	IEA	https://reactome.org/content/detail/R-MMU-76042
+R-MMU-76046	RNA Polymerase III Transcription Initiation	33	IEA	https://reactome.org/content/detail/R-MMU-76046
+R-MMU-76061	RNA Polymerase III Transcription Initiation From Type 1 Promoter	26	IEA	https://reactome.org/content/detail/R-MMU-76061
+R-MMU-76066	RNA Polymerase III Transcription Initiation From Type 2 Promoter	25	IEA	https://reactome.org/content/detail/R-MMU-76066
+R-MMU-76071	RNA Polymerase III Transcription Initiation From Type 3 Promoter	25	IEA	https://reactome.org/content/detail/R-MMU-76071
+R-MMU-77042	Formation of editosomes by ADAR proteins	2	IEA	https://reactome.org/content/detail/R-MMU-77042
+R-MMU-77075	RNA Pol II CTD phosphorylation and interaction with CE	28	IEA	https://reactome.org/content/detail/R-MMU-77075
+R-MMU-77108	Utilization of Ketone Bodies	5	IEA	https://reactome.org/content/detail/R-MMU-77108
+R-MMU-77111	Synthesis of Ketone Bodies	8	IEA	https://reactome.org/content/detail/R-MMU-77111
+R-MMU-77285	Beta oxidation of myristoyl-CoA to lauroyl-CoA	3	IEA	https://reactome.org/content/detail/R-MMU-77285
+R-MMU-77286	mitochondrial fatty acid beta-oxidation of saturated fatty acids	9	IEA	https://reactome.org/content/detail/R-MMU-77286
+R-MMU-77288	mitochondrial fatty acid beta-oxidation of unsaturated fatty acids	3	IEA	https://reactome.org/content/detail/R-MMU-77288
+R-MMU-77289	Mitochondrial Fatty Acid Beta-Oxidation	37	IEA	https://reactome.org/content/detail/R-MMU-77289
+R-MMU-77305	Beta oxidation of palmitoyl-CoA to myristoyl-CoA	3	IEA	https://reactome.org/content/detail/R-MMU-77305
+R-MMU-77310	Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA	5	IEA	https://reactome.org/content/detail/R-MMU-77310
+R-MMU-77346	Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA	6	IEA	https://reactome.org/content/detail/R-MMU-77346
+R-MMU-77348	Beta oxidation of octanoyl-CoA to hexanoyl-CoA	5	IEA	https://reactome.org/content/detail/R-MMU-77348
+R-MMU-77350	Beta oxidation of hexanoyl-CoA to butanoyl-CoA	5	IEA	https://reactome.org/content/detail/R-MMU-77350
+R-MMU-77352	Beta oxidation of butanoyl-CoA to acetyl-CoA	3	IEA	https://reactome.org/content/detail/R-MMU-77352
+R-MMU-77387	Insulin receptor recycling	31	IEA	https://reactome.org/content/detail/R-MMU-77387
+R-MMU-774815	Nucleosome assembly	80	IEA	https://reactome.org/content/detail/R-MMU-774815
+R-MMU-77588	SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs	11	IEA	https://reactome.org/content/detail/R-MMU-77588
+R-MMU-77595	Processing of Intronless Pre-mRNAs	20	IEA	https://reactome.org/content/detail/R-MMU-77595
+R-MMU-804914	Transport of fatty acids	6	IEA	https://reactome.org/content/detail/R-MMU-804914
+R-MMU-83936	Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane	11	IEA	https://reactome.org/content/detail/R-MMU-83936
+R-MMU-844455	The NLRP1 inflammasome	3	IEA	https://reactome.org/content/detail/R-MMU-844455
+R-MMU-844456	The NLRP3 inflammasome	10	IEA	https://reactome.org/content/detail/R-MMU-844456
+R-MMU-844615	The AIM2 inflammasome	1	IEA	https://reactome.org/content/detail/R-MMU-844615
+R-MMU-877300	Interferon gamma signaling	19	IEA	https://reactome.org/content/detail/R-MMU-877300
+R-MMU-877312	Regulation of IFNG signaling	9	IEA	https://reactome.org/content/detail/R-MMU-877312
+R-MMU-879415	Advanced glycosylation endproduct receptor signaling	5	IEA	https://reactome.org/content/detail/R-MMU-879415
+R-MMU-879518	Organic anion transport by SLCO transporters	10	IEA	https://reactome.org/content/detail/R-MMU-879518
+R-MMU-880009	Interconversion of 2-oxoglutarate and 2-hydroxyglutarate	3	IEA	https://reactome.org/content/detail/R-MMU-880009
+R-MMU-881907	Gastrin-CREB signalling pathway via PKC and MAPK	16	IEA	https://reactome.org/content/detail/R-MMU-881907
+R-MMU-8847453	Synthesis of PIPs in the nucleus	4	IEA	https://reactome.org/content/detail/R-MMU-8847453
+R-MMU-8847993	ERBB2 Activates PTK6 Signaling	11	IEA	https://reactome.org/content/detail/R-MMU-8847993
+R-MMU-8848021	Signaling by PTK6	49	IEA	https://reactome.org/content/detail/R-MMU-8848021
+R-MMU-8848584	Wax and plasmalogen biosynthesis	6	IEA	https://reactome.org/content/detail/R-MMU-8848584
+R-MMU-8849175	Threonine catabolism	3	IEA	https://reactome.org/content/detail/R-MMU-8849175
+R-MMU-8849468	PTK6 Regulates Proteins Involved in RNA Processing	5	IEA	https://reactome.org/content/detail/R-MMU-8849468
+R-MMU-8849469	PTK6 Regulates RTKs and Their Effectors AKT1 and DOK1	10	IEA	https://reactome.org/content/detail/R-MMU-8849469
+R-MMU-8849470	PTK6 Regulates Cell Cycle	6	IEA	https://reactome.org/content/detail/R-MMU-8849470
+R-MMU-8849471	PTK6 Regulates RHO GTPases, RAS GTPase and MAP kinases	13	IEA	https://reactome.org/content/detail/R-MMU-8849471
+R-MMU-8849472	PTK6 Down-Regulation	3	IEA	https://reactome.org/content/detail/R-MMU-8849472
+R-MMU-8849474	PTK6 Activates STAT3	4	IEA	https://reactome.org/content/detail/R-MMU-8849474
+R-MMU-8849932	Synaptic adhesion-like molecules	19	IEA	https://reactome.org/content/detail/R-MMU-8849932
+R-MMU-8850843	Phosphate bond hydrolysis by NTPDase proteins	9	IEA	https://reactome.org/content/detail/R-MMU-8850843
+R-MMU-8851680	Butyrophilin (BTN) family interactions	7	IEA	https://reactome.org/content/detail/R-MMU-8851680
+R-MMU-8851805	MET activates RAS signaling	10	IEA	https://reactome.org/content/detail/R-MMU-8851805
+R-MMU-8851907	MET activates PI3K/AKT signaling	6	IEA	https://reactome.org/content/detail/R-MMU-8851907
+R-MMU-8852135	Protein ubiquitination	74	IEA	https://reactome.org/content/detail/R-MMU-8852135
+R-MMU-8852276	The role of GTSE1 in G2/M progression after G2 checkpoint	62	IEA	https://reactome.org/content/detail/R-MMU-8852276
+R-MMU-8852405	Signaling by MST1	5	IEA	https://reactome.org/content/detail/R-MMU-8852405
+R-MMU-8853383	Lysosomal oligosaccharide catabolism	4	IEA	https://reactome.org/content/detail/R-MMU-8853383
+R-MMU-8853659	RET signaling	38	IEA	https://reactome.org/content/detail/R-MMU-8853659
+R-MMU-8854050	FBXL7 down-regulates AURKA during mitotic entry and in early mitosis	41	IEA	https://reactome.org/content/detail/R-MMU-8854050
+R-MMU-8854214	TBC/RABGAPs	34	IEA	https://reactome.org/content/detail/R-MMU-8854214
+R-MMU-8854518	AURKA Activation by TPX2	70	IEA	https://reactome.org/content/detail/R-MMU-8854518
+R-MMU-8854521	Interaction between PHLDA1 and AURKA	2	IEA	https://reactome.org/content/detail/R-MMU-8854521
+R-MMU-8854691	Interleukin-20 family signaling	19	IEA	https://reactome.org/content/detail/R-MMU-8854691
+R-MMU-8856688	Golgi-to-ER retrograde transport	125	IEA	https://reactome.org/content/detail/R-MMU-8856688
+R-MMU-8856825	Cargo recognition for clathrin-mediated endocytosis	102	IEA	https://reactome.org/content/detail/R-MMU-8856825
+R-MMU-8856828	Clathrin-mediated endocytosis	141	IEA	https://reactome.org/content/detail/R-MMU-8856828
+R-MMU-8857538	PTK6 promotes HIF1A stabilization	6	IEA	https://reactome.org/content/detail/R-MMU-8857538
+R-MMU-8863795	Downregulation of ERBB2 signaling	27	IEA	https://reactome.org/content/detail/R-MMU-8863795
+R-MMU-8864260	Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors	22	IEA	https://reactome.org/content/detail/R-MMU-8864260
+R-MMU-8865999	MET activates PTPN11	5	IEA	https://reactome.org/content/detail/R-MMU-8865999
+R-MMU-8866376	Reelin signalling pathway	5	IEA	https://reactome.org/content/detail/R-MMU-8866376
+R-MMU-8866423	VLDL assembly	5	IEA	https://reactome.org/content/detail/R-MMU-8866423
+R-MMU-8866427	VLDLR internalisation and degradation	17	IEA	https://reactome.org/content/detail/R-MMU-8866427
+R-MMU-8866652	Synthesis of active ubiquitin: roles of E1 and E2 enzymes	31	IEA	https://reactome.org/content/detail/R-MMU-8866652
+R-MMU-8866654	E3 ubiquitin ligases ubiquitinate target proteins	54	IEA	https://reactome.org/content/detail/R-MMU-8866654
+R-MMU-8866904	Negative regulation of activity of TFAP2 (AP-2) family transcription factors	9	IEA	https://reactome.org/content/detail/R-MMU-8866904
+R-MMU-8866907	Activation of the TFAP2 (AP-2) family of transcription factors	11	IEA	https://reactome.org/content/detail/R-MMU-8866907
+R-MMU-8866910	TFAP2 (AP-2) family regulates transcription of growth factors and their receptors	4	IEA	https://reactome.org/content/detail/R-MMU-8866910
+R-MMU-8866911	TFAP2 (AP-2) family regulates transcription of cell cycle factors	3	IEA	https://reactome.org/content/detail/R-MMU-8866911
+R-MMU-8868773	rRNA processing in the nucleus and cytosol	180	IEA	https://reactome.org/content/detail/R-MMU-8868773
+R-MMU-8869496	TFAP2A acts as a transcriptional repressor during retinoic acid induced cell differentiation	2	IEA	https://reactome.org/content/detail/R-MMU-8869496
+R-MMU-8873719	RAB geranylgeranylation	62	IEA	https://reactome.org/content/detail/R-MMU-8873719
+R-MMU-8874081	MET activates PTK2 signaling	19	IEA	https://reactome.org/content/detail/R-MMU-8874081
+R-MMU-8874177	ATF6B (ATF6-beta) activates chaperones	3	IEA	https://reactome.org/content/detail/R-MMU-8874177
+R-MMU-8874211	CREB3 factors activate genes	5	IEA	https://reactome.org/content/detail/R-MMU-8874211
+R-MMU-8875513	MET interacts with TNS proteins	5	IEA	https://reactome.org/content/detail/R-MMU-8875513
+R-MMU-8875555	MET activates RAP1 and RAC1	11	IEA	https://reactome.org/content/detail/R-MMU-8875555
+R-MMU-8875656	MET receptor recycling	10	IEA	https://reactome.org/content/detail/R-MMU-8875656
+R-MMU-8875791	MET activates STAT3	3	IEA	https://reactome.org/content/detail/R-MMU-8875791
+R-MMU-8875878	MET promotes cell motility	30	IEA	https://reactome.org/content/detail/R-MMU-8875878
+R-MMU-8876198	RAB GEFs exchange GTP for GDP on RABs	89	IEA	https://reactome.org/content/detail/R-MMU-8876198
+R-MMU-8876725	Protein methylation	19	IEA	https://reactome.org/content/detail/R-MMU-8876725
+R-MMU-8877330	RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)	2	IEA	https://reactome.org/content/detail/R-MMU-8877330
+R-MMU-8877627	Vitamin E transport	1	IEA	https://reactome.org/content/detail/R-MMU-8877627
+R-MMU-8878159	Transcriptional regulation by RUNX3	68	IEA	https://reactome.org/content/detail/R-MMU-8878159
+R-MMU-8878166	Transcriptional regulation by RUNX2	53	IEA	https://reactome.org/content/detail/R-MMU-8878166
+R-MMU-8878171	Transcriptional regulation by RUNX1	181	IEA	https://reactome.org/content/detail/R-MMU-8878171
+R-MMU-888568	GABA synthesis	2	IEA	https://reactome.org/content/detail/R-MMU-888568
+R-MMU-888590	GABA synthesis, release, reuptake and degradation	19	IEA	https://reactome.org/content/detail/R-MMU-888590
+R-MMU-888593	Reuptake of GABA	4	IEA	https://reactome.org/content/detail/R-MMU-888593
+R-MMU-8931838	DAG1 glycosylations	19	IEA	https://reactome.org/content/detail/R-MMU-8931838
+R-MMU-8931987	RUNX1 regulates estrogen receptor mediated transcription	2	IEA	https://reactome.org/content/detail/R-MMU-8931987
+R-MMU-8932504	DAG1 core M2 glycosylations	5	IEA	https://reactome.org/content/detail/R-MMU-8932504
+R-MMU-8932505	DAG1 core M3 glycosylations	6	IEA	https://reactome.org/content/detail/R-MMU-8932505
+R-MMU-8932506	DAG1 core M1 glycosylations	4	IEA	https://reactome.org/content/detail/R-MMU-8932506
+R-MMU-8934593	Regulation of RUNX1 Expression and Activity	7	IEA	https://reactome.org/content/detail/R-MMU-8934593
+R-MMU-8934903	Receptor Mediated Mitophagy	11	IEA	https://reactome.org/content/detail/R-MMU-8934903
+R-MMU-8935690	Digestion	21	IEA	https://reactome.org/content/detail/R-MMU-8935690
+R-MMU-8936459	RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function	85	IEA	https://reactome.org/content/detail/R-MMU-8936459
+R-MMU-8937144	Aryl hydrocarbon receptor signalling	6	IEA	https://reactome.org/content/detail/R-MMU-8937144
+R-MMU-8939211	ESR-mediated signaling	162	IEA	https://reactome.org/content/detail/R-MMU-8939211
+R-MMU-8939236	RUNX1 regulates transcription of genes involved in differentiation of HSCs	54	IEA	https://reactome.org/content/detail/R-MMU-8939236
+R-MMU-8939242	RUNX1 regulates transcription of genes involved in differentiation of keratinocytes	3	IEA	https://reactome.org/content/detail/R-MMU-8939242
+R-MMU-8939243	RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known	33	IEA	https://reactome.org/content/detail/R-MMU-8939243
+R-MMU-8939245	RUNX1 regulates transcription of genes involved in BCR signaling	3	IEA	https://reactome.org/content/detail/R-MMU-8939245
+R-MMU-8939246	RUNX1 regulates transcription of genes involved in differentiation of myeloid cells	1	IEA	https://reactome.org/content/detail/R-MMU-8939246
+R-MMU-8939247	RUNX1 regulates transcription of genes involved in interleukin signaling	2	IEA	https://reactome.org/content/detail/R-MMU-8939247
+R-MMU-8939902	Regulation of RUNX2 expression and activity	42	IEA	https://reactome.org/content/detail/R-MMU-8939902
+R-MMU-8940973	RUNX2 regulates osteoblast differentiation	2	IEA	https://reactome.org/content/detail/R-MMU-8940973
+R-MMU-8941237	Invadopodia formation	4	IEA	https://reactome.org/content/detail/R-MMU-8941237
+R-MMU-8941326	RUNX2 regulates bone development	6	IEA	https://reactome.org/content/detail/R-MMU-8941326
+R-MMU-8941413	Events associated with phagocytolytic activity of PMN cells	2	IEA	https://reactome.org/content/detail/R-MMU-8941413
+R-MMU-8941855	RUNX3 regulates CDKN1A transcription	6	IEA	https://reactome.org/content/detail/R-MMU-8941855
+R-MMU-8941856	RUNX3 regulates NOTCH signaling	10	IEA	https://reactome.org/content/detail/R-MMU-8941856
+R-MMU-8941858	Regulation of RUNX3 expression and activity	44	IEA	https://reactome.org/content/detail/R-MMU-8941858
+R-MMU-8943724	Regulation of PTEN gene transcription	42	IEA	https://reactome.org/content/detail/R-MMU-8943724
+R-MMU-8948216	Collagen chain trimerization	35	IEA	https://reactome.org/content/detail/R-MMU-8948216
+R-MMU-8948747	Regulation of PTEN localization	10	IEA	https://reactome.org/content/detail/R-MMU-8948747
+R-MMU-8948751	Regulation of PTEN stability and activity	56	IEA	https://reactome.org/content/detail/R-MMU-8948751
+R-MMU-8949215	Mitochondrial calcium ion transport	17	IEA	https://reactome.org/content/detail/R-MMU-8949215
+R-MMU-8949613	Cristae formation	20	IEA	https://reactome.org/content/detail/R-MMU-8949613
+R-MMU-8949664	Processing of SMDT1	16	IEA	https://reactome.org/content/detail/R-MMU-8949664
+R-MMU-8951430	RUNX3 regulates WNT signaling	6	IEA	https://reactome.org/content/detail/R-MMU-8951430
+R-MMU-8951664	Neddylation	209	IEA	https://reactome.org/content/detail/R-MMU-8951664
+R-MMU-8951671	RUNX3 regulates YAP1-mediated transcription	6	IEA	https://reactome.org/content/detail/R-MMU-8951671
+R-MMU-8951936	RUNX3 regulates p14-ARF	6	IEA	https://reactome.org/content/detail/R-MMU-8951936
+R-MMU-8953750	Transcriptional Regulation by E2F6	23	IEA	https://reactome.org/content/detail/R-MMU-8953750
+R-MMU-8953854	Metabolism of RNA	611	IEA	https://reactome.org/content/detail/R-MMU-8953854
+R-MMU-8953897	Cellular responses to stimuli	572	IEA	https://reactome.org/content/detail/R-MMU-8953897
+R-MMU-8955332	Carboxyterminal post-translational modifications of tubulin	27	IEA	https://reactome.org/content/detail/R-MMU-8955332
+R-MMU-8956319	Nucleotide catabolism	36	IEA	https://reactome.org/content/detail/R-MMU-8956319
+R-MMU-8956320	Nucleotide biosynthesis	14	IEA	https://reactome.org/content/detail/R-MMU-8956320
+R-MMU-8956321	Nucleotide salvage	24	IEA	https://reactome.org/content/detail/R-MMU-8956321
+R-MMU-8957275	Post-translational protein phosphorylation	114	IEA	https://reactome.org/content/detail/R-MMU-8957275
+R-MMU-8957322	Metabolism of steroids	134	IEA	https://reactome.org/content/detail/R-MMU-8957322
+R-MMU-8963676	Intestinal absorption	4	IEA	https://reactome.org/content/detail/R-MMU-8963676
+R-MMU-8963678	Intestinal lipid absorption	1	IEA	https://reactome.org/content/detail/R-MMU-8963678
+R-MMU-8963684	Tyrosine catabolism	5	IEA	https://reactome.org/content/detail/R-MMU-8963684
+R-MMU-8963691	Phenylalanine and tyrosine metabolism	11	IEA	https://reactome.org/content/detail/R-MMU-8963691
+R-MMU-8963693	Aspartate and asparagine metabolism	11	IEA	https://reactome.org/content/detail/R-MMU-8963693
+R-MMU-8963743	Digestion and absorption	25	IEA	https://reactome.org/content/detail/R-MMU-8963743
+R-MMU-8963888	Chylomicron assembly	10	IEA	https://reactome.org/content/detail/R-MMU-8963888
+R-MMU-8963889	Assembly of active LPL and LIPC lipase complexes	11	IEA	https://reactome.org/content/detail/R-MMU-8963889
+R-MMU-8963896	HDL assembly	7	IEA	https://reactome.org/content/detail/R-MMU-8963896
+R-MMU-8963898	Plasma lipoprotein assembly	18	IEA	https://reactome.org/content/detail/R-MMU-8963898
+R-MMU-8963899	Plasma lipoprotein remodeling	26	IEA	https://reactome.org/content/detail/R-MMU-8963899
+R-MMU-8963901	Chylomicron remodeling	10	IEA	https://reactome.org/content/detail/R-MMU-8963901
+R-MMU-8964011	HDL clearance	3	IEA	https://reactome.org/content/detail/R-MMU-8964011
+R-MMU-8964026	Chylomicron clearance	5	IEA	https://reactome.org/content/detail/R-MMU-8964026
+R-MMU-8964038	LDL clearance	19	IEA	https://reactome.org/content/detail/R-MMU-8964038
+R-MMU-8964041	LDL remodeling	2	IEA	https://reactome.org/content/detail/R-MMU-8964041
+R-MMU-8964043	Plasma lipoprotein clearance	36	IEA	https://reactome.org/content/detail/R-MMU-8964043
+R-MMU-8964046	VLDL clearance	5	IEA	https://reactome.org/content/detail/R-MMU-8964046
+R-MMU-8964058	HDL remodeling	9	IEA	https://reactome.org/content/detail/R-MMU-8964058
+R-MMU-8964208	Phenylalanine metabolism	6	IEA	https://reactome.org/content/detail/R-MMU-8964208
+R-MMU-8964315	G beta:gamma signalling through BTK	18	IEA	https://reactome.org/content/detail/R-MMU-8964315
+R-MMU-8964539	Glutamate and glutamine metabolism	13	IEA	https://reactome.org/content/detail/R-MMU-8964539
+R-MMU-8964540	Alanine metabolism	2	IEA	https://reactome.org/content/detail/R-MMU-8964540
+R-MMU-8964572	Lipid particle organization	6	IEA	https://reactome.org/content/detail/R-MMU-8964572
+R-MMU-8964616	G beta:gamma signalling through CDC42	20	IEA	https://reactome.org/content/detail/R-MMU-8964616
+R-MMU-8978868	Fatty acid metabolism	176	IEA	https://reactome.org/content/detail/R-MMU-8978868
+R-MMU-8978934	Metabolism of cofactors	25	IEA	https://reactome.org/content/detail/R-MMU-8978934
+R-MMU-8979227	Triglyceride metabolism	23	IEA	https://reactome.org/content/detail/R-MMU-8979227
+R-MMU-8980692	RHOA GTPase cycle	142	IEA	https://reactome.org/content/detail/R-MMU-8980692
+R-MMU-8981373	Intestinal hexose absorption	3	IEA	https://reactome.org/content/detail/R-MMU-8981373
+R-MMU-8981607	Intracellular oxygen transport	3	IEA	https://reactome.org/content/detail/R-MMU-8981607
+R-MMU-8982491	Glycogen metabolism	19	IEA	https://reactome.org/content/detail/R-MMU-8982491
+R-MMU-8983432	Interleukin-15 signaling	11	IEA	https://reactome.org/content/detail/R-MMU-8983432
+R-MMU-8983711	OAS antiviral response	5	IEA	https://reactome.org/content/detail/R-MMU-8983711
+R-MMU-8984722	Interleukin-35 Signalling	9	IEA	https://reactome.org/content/detail/R-MMU-8984722
+R-MMU-8985586	SLIT2:ROBO1 increases RHOA activity	3	IEA	https://reactome.org/content/detail/R-MMU-8985586
+R-MMU-8985947	Interleukin-9 signaling	6	IEA	https://reactome.org/content/detail/R-MMU-8985947
+R-MMU-8986944	Transcriptional Regulation by MECP2	5	IEA	https://reactome.org/content/detail/R-MMU-8986944
+R-MMU-9006115	Signaling by NTRK2 (TRKB)	9	IEA	https://reactome.org/content/detail/R-MMU-9006115
+R-MMU-9006335	Signaling by Erythropoietin	17	IEA	https://reactome.org/content/detail/R-MMU-9006335
+R-MMU-9006925	Intracellular signaling by second messengers	257	IEA	https://reactome.org/content/detail/R-MMU-9006925
+R-MMU-9006927	Signaling by Non-Receptor Tyrosine Kinases	49	IEA	https://reactome.org/content/detail/R-MMU-9006927
+R-MMU-9006931	Signaling by Nuclear Receptors	218	IEA	https://reactome.org/content/detail/R-MMU-9006931
+R-MMU-9006934	Signaling by Receptor Tyrosine Kinases	410	IEA	https://reactome.org/content/detail/R-MMU-9006934
+R-MMU-9006936	Signaling by TGFB family members	115	IEA	https://reactome.org/content/detail/R-MMU-9006936
+R-MMU-9007101	Rab regulation of trafficking	115	IEA	https://reactome.org/content/detail/R-MMU-9007101
+R-MMU-9007892	Interleukin-38 signaling	4	IEA	https://reactome.org/content/detail/R-MMU-9007892
+R-MMU-9008059	Interleukin-37 signaling	2	IEA	https://reactome.org/content/detail/R-MMU-9008059
+R-MMU-9009391	Extra-nuclear estrogen signaling	70	IEA	https://reactome.org/content/detail/R-MMU-9009391
+R-MMU-901032	ER Quality Control Compartment (ERQC)	5	IEA	https://reactome.org/content/detail/R-MMU-901032
+R-MMU-901042	Calnexin/calreticulin cycle	8	IEA	https://reactome.org/content/detail/R-MMU-901042
+R-MMU-9010553	Regulation of expression of SLITs and ROBOs	8	IEA	https://reactome.org/content/detail/R-MMU-9010553
+R-MMU-9012546	Interleukin-18 signaling	4	IEA	https://reactome.org/content/detail/R-MMU-9012546
+R-MMU-9012852	Signaling by NOTCH3	20	IEA	https://reactome.org/content/detail/R-MMU-9012852
+R-MMU-9012999	RHO GTPase cycle	413	IEA	https://reactome.org/content/detail/R-MMU-9012999
+R-MMU-9013026	RHOB GTPase cycle	70	IEA	https://reactome.org/content/detail/R-MMU-9013026
+R-MMU-9013106	RHOC GTPase cycle	72	IEA	https://reactome.org/content/detail/R-MMU-9013106
+R-MMU-9013148	CDC42 GTPase cycle	95	IEA	https://reactome.org/content/detail/R-MMU-9013148
+R-MMU-9013149	RAC1 GTPase cycle	173	IEA	https://reactome.org/content/detail/R-MMU-9013149
+R-MMU-9013404	RAC2 GTPase cycle	86	IEA	https://reactome.org/content/detail/R-MMU-9013404
+R-MMU-9013406	RHOQ GTPase cycle	59	IEA	https://reactome.org/content/detail/R-MMU-9013406
+R-MMU-9013407	RHOH GTPase cycle	35	IEA	https://reactome.org/content/detail/R-MMU-9013407
+R-MMU-9013408	RHOG GTPase cycle	72	IEA	https://reactome.org/content/detail/R-MMU-9013408
+R-MMU-9013409	RHOJ GTPase cycle	17	IEA	https://reactome.org/content/detail/R-MMU-9013409
+R-MMU-9013418	RHOBTB2 GTPase cycle	22	IEA	https://reactome.org/content/detail/R-MMU-9013418
+R-MMU-9013419	RHOT2 GTPase cycle	6	IEA	https://reactome.org/content/detail/R-MMU-9013419
+R-MMU-9013420	RHOU GTPase cycle	39	IEA	https://reactome.org/content/detail/R-MMU-9013420
+R-MMU-9013422	RHOBTB1 GTPase cycle	22	IEA	https://reactome.org/content/detail/R-MMU-9013422
+R-MMU-9013423	RAC3 GTPase cycle	92	IEA	https://reactome.org/content/detail/R-MMU-9013423
+R-MMU-9013424	RHOV GTPase cycle	36	IEA	https://reactome.org/content/detail/R-MMU-9013424
+R-MMU-9013425	RHOT1 GTPase cycle	4	IEA	https://reactome.org/content/detail/R-MMU-9013425
+R-MMU-9013507	NOTCH3 Activation and Transmission of Signal to the Nucleus	20	IEA	https://reactome.org/content/detail/R-MMU-9013507
+R-MMU-9013694	Signaling by NOTCH4	3	IEA	https://reactome.org/content/detail/R-MMU-9013694
+R-MMU-9013700	NOTCH4 Activation and Transmission of Signal to the Nucleus	2	IEA	https://reactome.org/content/detail/R-MMU-9013700
+R-MMU-9013973	TICAM1-dependent activation of IRF3/IRF7	2	IEA	https://reactome.org/content/detail/R-MMU-9013973
+R-MMU-9014826	Interleukin-36 pathway	7	IEA	https://reactome.org/content/detail/R-MMU-9014826
+R-MMU-9014843	Interleukin-33 signaling	3	IEA	https://reactome.org/content/detail/R-MMU-9014843
+R-MMU-9017802	Noncanonical activation of NOTCH3	7	IEA	https://reactome.org/content/detail/R-MMU-9017802
+R-MMU-9018519	Estrogen-dependent gene expression	91	IEA	https://reactome.org/content/detail/R-MMU-9018519
+R-MMU-9018676	Biosynthesis of D-series resolvins	4	IEA	https://reactome.org/content/detail/R-MMU-9018676
+R-MMU-9018677	Biosynthesis of DHA-derived SPMs	25	IEA	https://reactome.org/content/detail/R-MMU-9018677
+R-MMU-9018678	Biosynthesis of specialized proresolving mediators (SPMs)	26	IEA	https://reactome.org/content/detail/R-MMU-9018678
+R-MMU-9018679	Biosynthesis of EPA-derived SPMs	6	IEA	https://reactome.org/content/detail/R-MMU-9018679
+R-MMU-9018681	Biosynthesis of protectins	4	IEA	https://reactome.org/content/detail/R-MMU-9018681
+R-MMU-9018682	Biosynthesis of maresins	16	IEA	https://reactome.org/content/detail/R-MMU-9018682
+R-MMU-9018683	Biosynthesis of DPA-derived SPMs	4	IEA	https://reactome.org/content/detail/R-MMU-9018683
+R-MMU-9018896	Biosynthesis of E-series 18(S)-resolvins	5	IEA	https://reactome.org/content/detail/R-MMU-9018896
+R-MMU-9020265	Biosynthesis of aspirin-triggered D-series resolvins	3	IEA	https://reactome.org/content/detail/R-MMU-9020265
+R-MMU-9020558	Interleukin-2 signaling	10	IEA	https://reactome.org/content/detail/R-MMU-9020558
+R-MMU-9020591	Interleukin-12 signaling	7	IEA	https://reactome.org/content/detail/R-MMU-9020591
+R-MMU-9020702	Interleukin-1 signaling	91	IEA	https://reactome.org/content/detail/R-MMU-9020702
+R-MMU-9020933	Interleukin-23 signaling	8	IEA	https://reactome.org/content/detail/R-MMU-9020933
+R-MMU-9020956	Interleukin-27 signaling	9	IEA	https://reactome.org/content/detail/R-MMU-9020956
+R-MMU-9020958	Interleukin-21 signaling	6	IEA	https://reactome.org/content/detail/R-MMU-9020958
+R-MMU-9022692	Regulation of MECP2 expression and activity	5	IEA	https://reactome.org/content/detail/R-MMU-9022692
+R-MMU-9023661	Biosynthesis of E-series 18(R)-resolvins	4	IEA	https://reactome.org/content/detail/R-MMU-9023661
+R-MMU-9024446	NR1H2 and NR1H3-mediated signaling	12	IEA	https://reactome.org/content/detail/R-MMU-9024446
+R-MMU-9025094	Biosynthesis of DPAn-3 SPMs	4	IEA	https://reactome.org/content/detail/R-MMU-9025094
+R-MMU-9025106	Biosynthesis of DPAn-6 SPMs	2	IEA	https://reactome.org/content/detail/R-MMU-9025106
+R-MMU-9026286	Biosynthesis of DPAn-3-derived protectins and resolvins	2	IEA	https://reactome.org/content/detail/R-MMU-9026286
+R-MMU-9026290	Biosynthesis of DPAn-3-derived maresins	2	IEA	https://reactome.org/content/detail/R-MMU-9026290
+R-MMU-9026395	Biosynthesis of DHA-derived sulfido conjugates	2	IEA	https://reactome.org/content/detail/R-MMU-9026395
+R-MMU-9026403	Biosynthesis of DPAn-3-derived 13-series resolvins	1	IEA	https://reactome.org/content/detail/R-MMU-9026403
+R-MMU-9026527	Activated NTRK2 signals through PLCG1	4	IEA	https://reactome.org/content/detail/R-MMU-9026527
+R-MMU-9026762	Biosynthesis of maresin conjugates in tissue regeneration (MCTR)	2	IEA	https://reactome.org/content/detail/R-MMU-9026762
+R-MMU-9026766	Biosynthesis of protectin and resolvin conjugates in tissue regeneration (PCTR and RCTR)	1	IEA	https://reactome.org/content/detail/R-MMU-9026766
+R-MMU-9027276	Erythropoietin activates Phosphoinositide-3-kinase (PI3K)	12	IEA	https://reactome.org/content/detail/R-MMU-9027276
+R-MMU-9027284	Erythropoietin activates RAS	10	IEA	https://reactome.org/content/detail/R-MMU-9027284
+R-MMU-9027307	Biosynthesis of maresin-like SPMs	14	IEA	https://reactome.org/content/detail/R-MMU-9027307
+R-MMU-9027604	Biosynthesis of electrophilic ω-3 PUFA oxo-derivatives	2	IEA	https://reactome.org/content/detail/R-MMU-9027604
+R-MMU-9028731	Activated NTRK2 signals through FRS2 and FRS3	6	IEA	https://reactome.org/content/detail/R-MMU-9028731
+R-MMU-9029569	NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux	12	IEA	https://reactome.org/content/detail/R-MMU-9029569
+R-MMU-9031628	NGF-stimulated transcription	6	IEA	https://reactome.org/content/detail/R-MMU-9031628
+R-MMU-9032500	Activated NTRK2 signals through FYN	4	IEA	https://reactome.org/content/detail/R-MMU-9032500
+R-MMU-9032759	NTRK2 activates RAC1	4	IEA	https://reactome.org/content/detail/R-MMU-9032759
+R-MMU-9033241	Peroxisomal protein import	66	IEA	https://reactome.org/content/detail/R-MMU-9033241
+R-MMU-9033500	TYSND1 cleaves peroxisomal proteins	1	IEA	https://reactome.org/content/detail/R-MMU-9033500
+R-MMU-9033658	Blood group systems biosynthesis	15	IEA	https://reactome.org/content/detail/R-MMU-9033658
+R-MMU-9033807	ABO blood group biosynthesis	3	IEA	https://reactome.org/content/detail/R-MMU-9033807
+R-MMU-9034013	NTF3 activates NTRK3 signaling	2	IEA	https://reactome.org/content/detail/R-MMU-9034013
+R-MMU-9034015	Signaling by NTRK3 (TRKC)	4	IEA	https://reactome.org/content/detail/R-MMU-9034015
+R-MMU-9034793	Activated NTRK3 signals through PLCG1	3	IEA	https://reactome.org/content/detail/R-MMU-9034793
+R-MMU-9035034	RHOF GTPase cycle	39	IEA	https://reactome.org/content/detail/R-MMU-9035034
+R-MMU-9036866	Expression and Processing of Neurotrophins	4	IEA	https://reactome.org/content/detail/R-MMU-9036866
+R-MMU-9037629	Lewis blood group biosynthesis	13	IEA	https://reactome.org/content/detail/R-MMU-9037629
+R-MMU-909733	Interferon alpha/beta signaling	35	IEA	https://reactome.org/content/detail/R-MMU-909733
+R-MMU-912446	Meiotic recombination	4	IEA	https://reactome.org/content/detail/R-MMU-912446
+R-MMU-912526	Interleukin receptor SHC signaling	22	IEA	https://reactome.org/content/detail/R-MMU-912526
+R-MMU-912631	Regulation of signaling by CBL	22	IEA	https://reactome.org/content/detail/R-MMU-912631
+R-MMU-912694	Regulation of IFNA/IFNB signaling	23	IEA	https://reactome.org/content/detail/R-MMU-912694
+R-MMU-913531	Interferon Signaling	145	IEA	https://reactome.org/content/detail/R-MMU-913531
+R-MMU-913709	O-linked glycosylation of mucins	57	IEA	https://reactome.org/content/detail/R-MMU-913709
+R-MMU-916853	Degradation of GABA	2	IEA	https://reactome.org/content/detail/R-MMU-916853
+R-MMU-917729	Endosomal Sorting Complex Required For Transport (ESCRT)	31	IEA	https://reactome.org/content/detail/R-MMU-917729
+R-MMU-917937	Iron uptake and transport	57	IEA	https://reactome.org/content/detail/R-MMU-917937
+R-MMU-917977	Transferrin endocytosis and recycling	31	IEA	https://reactome.org/content/detail/R-MMU-917977
+R-MMU-918233	TRAF3-dependent IRF activation pathway	2	IEA	https://reactome.org/content/detail/R-MMU-918233
+R-MMU-927802	Nonsense-Mediated Decay (NMD)	116	IEA	https://reactome.org/content/detail/R-MMU-927802
+R-MMU-933541	TRAF6 mediated IRF7 activation	3	IEA	https://reactome.org/content/detail/R-MMU-933541
+R-MMU-933542	TRAF6 mediated NF-kB activation	14	IEA	https://reactome.org/content/detail/R-MMU-933542
+R-MMU-936440	Negative regulators of DDX58/IFIH1 signaling	15	IEA	https://reactome.org/content/detail/R-MMU-936440
+R-MMU-936837	Ion transport by P-type ATPases	55	IEA	https://reactome.org/content/detail/R-MMU-936837
+R-MMU-936964	Activation of IRF3, IRF7 mediated by TBK1, IKKε (IKBKE)	19	IEA	https://reactome.org/content/detail/R-MMU-936964
+R-MMU-937039	IRAK1 recruits IKK complex	15	IEA	https://reactome.org/content/detail/R-MMU-937039
+R-MMU-937041	IKK complex recruitment mediated by RIP1	24	IEA	https://reactome.org/content/detail/R-MMU-937041
+R-MMU-937042	IRAK2 mediated activation of TAK1 complex	11	IEA	https://reactome.org/content/detail/R-MMU-937042
+R-MMU-937061	TRIF (TICAM1)-mediated TLR4 signaling 	102	IEA	https://reactome.org/content/detail/R-MMU-937061
+R-MMU-937072	TRAF6-mediated induction of TAK1 complex within TLR4 complex	17	IEA	https://reactome.org/content/detail/R-MMU-937072
+R-MMU-947581	Molybdenum cofactor biosynthesis	5	IEA	https://reactome.org/content/detail/R-MMU-947581
+R-MMU-948021	Transport to the Golgi and subsequent modification	176	IEA	https://reactome.org/content/detail/R-MMU-948021
+R-MMU-9603381	Activated NTRK3 signals through PI3K	3	IEA	https://reactome.org/content/detail/R-MMU-9603381
+R-MMU-9603798	Class I peroxisomal membrane protein import	19	IEA	https://reactome.org/content/detail/R-MMU-9603798
+R-MMU-9604323	Negative regulation of NOTCH4 signaling	2	IEA	https://reactome.org/content/detail/R-MMU-9604323
+R-MMU-9607240	FLT3 Signaling	30	IEA	https://reactome.org/content/detail/R-MMU-9607240
+R-MMU-9609507	Protein localization	104	IEA	https://reactome.org/content/detail/R-MMU-9609507
+R-MMU-9609523	Insertion of tail-anchored proteins into the endoplasmic reticulum membrane	15	IEA	https://reactome.org/content/detail/R-MMU-9609523
+R-MMU-9609736	Assembly and cell surface presentation of NMDA receptors	5	IEA	https://reactome.org/content/detail/R-MMU-9609736
+R-MMU-9612973	Autophagy	129	IEA	https://reactome.org/content/detail/R-MMU-9612973
+R-MMU-9614085	FOXO-mediated transcription	21	IEA	https://reactome.org/content/detail/R-MMU-9614085
+R-MMU-9614399	Regulation of localization of FOXO transcription factors	12	IEA	https://reactome.org/content/detail/R-MMU-9614399
+R-MMU-9615017	FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes	2	IEA	https://reactome.org/content/detail/R-MMU-9615017
+R-MMU-9615933	Postmitotic nuclear pore complex (NPC) reformation	22	IEA	https://reactome.org/content/detail/R-MMU-9615933
+R-MMU-9616222	Transcriptional regulation of granulopoiesis	6	IEA	https://reactome.org/content/detail/R-MMU-9616222
+R-MMU-9617629	Regulation of FOXO transcriptional activity by acetylation	6	IEA	https://reactome.org/content/detail/R-MMU-9617629
+R-MMU-9617828	FOXO-mediated transcription of cell cycle genes	7	IEA	https://reactome.org/content/detail/R-MMU-9617828
+R-MMU-9619229	Activation of RAC1 downstream of NMDARs	6	IEA	https://reactome.org/content/detail/R-MMU-9619229
+R-MMU-9619665	EGR2 and SOX10-mediated initiation of Schwann cell myelination	1	IEA	https://reactome.org/content/detail/R-MMU-9619665
+R-MMU-9623433	NR1H2 & NR1H3 regulate gene expression to control bile acid homeostasis	6	IEA	https://reactome.org/content/detail/R-MMU-9623433
+R-MMU-9627069	Regulation of the apoptosome activity	10	IEA	https://reactome.org/content/detail/R-MMU-9627069
+R-MMU-9629569	Protein hydroxylation	18	IEA	https://reactome.org/content/detail/R-MMU-9629569
+R-MMU-9634597	GPER1 signaling	28	IEA	https://reactome.org/content/detail/R-MMU-9634597
+R-MMU-9634600	Regulation of glycolysis by fructose 2,6-bisphosphate metabolism	4	IEA	https://reactome.org/content/detail/R-MMU-9634600
+R-MMU-9634635	Estrogen-stimulated signaling through PRKCZ	5	IEA	https://reactome.org/content/detail/R-MMU-9634635
+R-MMU-9634638	Estrogen-dependent nuclear events downstream of ESR-membrane signaling	9	IEA	https://reactome.org/content/detail/R-MMU-9634638
+R-MMU-9634815	Transcriptional Regulation by NPAS4	5	IEA	https://reactome.org/content/detail/R-MMU-9634815
+R-MMU-9639288	Amino acids regulate mTORC1	55	IEA	https://reactome.org/content/detail/R-MMU-9639288
+R-MMU-9640463	Wax biosynthesis	4	IEA	https://reactome.org/content/detail/R-MMU-9640463
+R-MMU-9645460	Alpha-protein kinase 1 signaling pathway	12	IEA	https://reactome.org/content/detail/R-MMU-9645460
+R-MMU-9646399	Aggrephagy	36	IEA	https://reactome.org/content/detail/R-MMU-9646399
+R-MMU-964739	N-glycan trimming and elongation in the cis-Golgi	5	IEA	https://reactome.org/content/detail/R-MMU-964739
+R-MMU-9648002	RAS processing	25	IEA	https://reactome.org/content/detail/R-MMU-9648002
+R-MMU-9648025	EML4 and NUDC in mitotic spindle formation	109	IEA	https://reactome.org/content/detail/R-MMU-9648025
+R-MMU-964827	Progressive trimming of alpha-1,2-linked mannose residues from Man9/8/7GlcNAc2 to produce Man5GlcNAc2	3	IEA	https://reactome.org/content/detail/R-MMU-964827
+R-MMU-964975	Vitamin B6 activation to pyridoxal phosphate	3	IEA	https://reactome.org/content/detail/R-MMU-964975
+R-MMU-9652282	Drug-mediated inhibition of ERBB2 signaling	4	IEA	https://reactome.org/content/detail/R-MMU-9652282
+R-MMU-9663891	Selective autophagy	72	IEA	https://reactome.org/content/detail/R-MMU-9663891
+R-MMU-9664873	Pexophagy	11	IEA	https://reactome.org/content/detail/R-MMU-9664873
+R-MMU-9668328	Sealing of the nuclear envelope (NE) by ESCRT-III	26	IEA	https://reactome.org/content/detail/R-MMU-9668328
+R-MMU-9670095	Inhibition of DNA recombination at telomere	63	IEA	https://reactome.org/content/detail/R-MMU-9670095
+R-MMU-9673163	Oleoyl-phe metabolism	1	IEA	https://reactome.org/content/detail/R-MMU-9673163
+R-MMU-9674555	Signaling by CSF3 (G-CSF)	23	IEA	https://reactome.org/content/detail/R-MMU-9674555
+R-MMU-9675108	Nervous system development	257	IEA	https://reactome.org/content/detail/R-MMU-9675108
+R-MMU-9686114	Non-canonical inflammasome activation	6	IEA	https://reactome.org/content/detail/R-MMU-9686114
+R-MMU-9696264	RND3 GTPase cycle	42	IEA	https://reactome.org/content/detail/R-MMU-9696264
+R-MMU-9696270	RND2 GTPase cycle	43	IEA	https://reactome.org/content/detail/R-MMU-9696270
+R-MMU-9696273	RND1 GTPase cycle	42	IEA	https://reactome.org/content/detail/R-MMU-9696273
+R-MMU-9701898	STAT3 nuclear events downstream of ALK signaling	4	IEA	https://reactome.org/content/detail/R-MMU-9701898
+R-MMU-9705462	Inactivation of CSF3 (G-CSF) signaling	19	IEA	https://reactome.org/content/detail/R-MMU-9705462
+R-MMU-9706019	RHOBTB3 ATPase cycle	10	IEA	https://reactome.org/content/detail/R-MMU-9706019
+R-MMU-9706369	Negative regulation of FLT3	15	IEA	https://reactome.org/content/detail/R-MMU-9706369
+R-MMU-9706374	FLT3 signaling through SRC family kinases	3	IEA	https://reactome.org/content/detail/R-MMU-9706374
+R-MMU-9706574	RHOBTB GTPase Cycle	34	IEA	https://reactome.org/content/detail/R-MMU-9706574
+R-MMU-9707564	Cytoprotection by HMOX1	50	IEA	https://reactome.org/content/detail/R-MMU-9707564
+R-MMU-9707587	Regulation of HMOX1 expression and activity	2	IEA	https://reactome.org/content/detail/R-MMU-9707587
+R-MMU-9707616	Heme signaling	13	IEA	https://reactome.org/content/detail/R-MMU-9707616
+R-MMU-9708530	Regulation of BACH1 activity	12	IEA	https://reactome.org/content/detail/R-MMU-9708530
+R-MMU-9709957	Sensory Perception	208	IEA	https://reactome.org/content/detail/R-MMU-9709957
+R-MMU-9711097	Cellular response to starvation	55	IEA	https://reactome.org/content/detail/R-MMU-9711097
+R-MMU-9711123	Cellular response to chemical stress	146	IEA	https://reactome.org/content/detail/R-MMU-9711123
+R-MMU-9715370	Miro GTPase Cycle	7	IEA	https://reactome.org/content/detail/R-MMU-9715370
+R-MMU-9716542	Signaling by Rho GTPases, Miro GTPases and RHOBTB3	611	IEA	https://reactome.org/content/detail/R-MMU-9716542
+R-MMU-9717189	Sensory perception of taste	26	IEA	https://reactome.org/content/detail/R-MMU-9717189
+R-MMU-9717207	Sensory perception of sweet, bitter, and umami (glutamate) taste	23	IEA	https://reactome.org/content/detail/R-MMU-9717207
+R-MMU-9730414	MITF-M-regulated melanocyte development	45	IEA	https://reactome.org/content/detail/R-MMU-9730414
+R-MMU-9730628	Sensory perception of salty taste	3	IEA	https://reactome.org/content/detail/R-MMU-9730628
+R-MMU-9732724	IFNG signaling activates MAPKs	7	IEA	https://reactome.org/content/detail/R-MMU-9732724
+R-MMU-9734091	Drug-mediated inhibition of MET activation	2	IEA	https://reactome.org/content/detail/R-MMU-9734091
+R-MMU-9748784	Drug ADME	117	IEA	https://reactome.org/content/detail/R-MMU-9748784
+R-MMU-9748787	Azathioprine ADME	26	IEA	https://reactome.org/content/detail/R-MMU-9748787
+R-MMU-9749641	Aspirin ADME	47	IEA	https://reactome.org/content/detail/R-MMU-9749641
+R-MMU-975110	TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling	1	IEA	https://reactome.org/content/detail/R-MMU-975110
+R-MMU-975138	TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation	89	IEA	https://reactome.org/content/detail/R-MMU-975138
+R-MMU-975144	IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation	15	IEA	https://reactome.org/content/detail/R-MMU-975144
+R-MMU-975155	MyD88 dependent cascade initiated on endosome	90	IEA	https://reactome.org/content/detail/R-MMU-975155
+R-MMU-975163	IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation	16	IEA	https://reactome.org/content/detail/R-MMU-975163
+R-MMU-9753281	Paracetamol ADME	27	IEA	https://reactome.org/content/detail/R-MMU-9753281
+R-MMU-9754119	Drug-mediated inhibition of CDK4/CDK6 activity	5	IEA	https://reactome.org/content/detail/R-MMU-9754119
+R-MMU-9754706	Atorvastatin ADME	17	IEA	https://reactome.org/content/detail/R-MMU-9754706
+R-MMU-9755088	Ribavirin ADME	12	IEA	https://reactome.org/content/detail/R-MMU-9755088
+R-MMU-9755511	KEAP1-NFE2L2 pathway	65	IEA	https://reactome.org/content/detail/R-MMU-9755511
+R-MMU-975574	Reactions specific to the hybrid N-glycan synthesis pathway	1	IEA	https://reactome.org/content/detail/R-MMU-975574
+R-MMU-975576	N-glycan antennae elongation in the medial/trans-Golgi	25	IEA	https://reactome.org/content/detail/R-MMU-975576
+R-MMU-975577	N-Glycan antennae elongation	15	IEA	https://reactome.org/content/detail/R-MMU-975577
+R-MMU-975578	Reactions specific to the complex N-glycan synthesis pathway	9	IEA	https://reactome.org/content/detail/R-MMU-975578
+R-MMU-975634	Retinoid metabolism and transport	47	IEA	https://reactome.org/content/detail/R-MMU-975634
+R-MMU-9757110	Prednisone ADME	32	IEA	https://reactome.org/content/detail/R-MMU-9757110
+R-MMU-9758274	Regulation of NF-kappa B signaling	17	IEA	https://reactome.org/content/detail/R-MMU-9758274
+R-MMU-975871	MyD88 cascade initiated on plasma membrane	84	IEA	https://reactome.org/content/detail/R-MMU-975871
+R-MMU-9758881	Uptake of dietary cobalamins into enterocytes	3	IEA	https://reactome.org/content/detail/R-MMU-9758881
+R-MMU-9758890	Transport of RCbl within the body	7	IEA	https://reactome.org/content/detail/R-MMU-9758890
+R-MMU-9758941	Gastrulation	3	IEA	https://reactome.org/content/detail/R-MMU-9758941
+R-MMU-9759194	Nuclear events mediated by NFE2L2	45	IEA	https://reactome.org/content/detail/R-MMU-9759194
+R-MMU-9759218	Cobalamin (Cbl) metabolism	7	IEA	https://reactome.org/content/detail/R-MMU-9759218
+R-MMU-9759475	Regulation of CDH11 Expression and Function	13	IEA	https://reactome.org/content/detail/R-MMU-9759475
+R-MMU-9759476	Regulation of Homotypic Cell-Cell Adhesion	179	IEA	https://reactome.org/content/detail/R-MMU-9759476
+R-MMU-975956	Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)	96	IEA	https://reactome.org/content/detail/R-MMU-975956
+R-MMU-975957	Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)	116	IEA	https://reactome.org/content/detail/R-MMU-975957
+R-MMU-9762114	GSK3B and BTRC:CUL1-mediated-degradation of NFE2L2	41	IEA	https://reactome.org/content/detail/R-MMU-9762114
+R-MMU-9762292	Regulation of CDH11 function	9	IEA	https://reactome.org/content/detail/R-MMU-9762292
+R-MMU-9762293	Regulation of CDH11 gene transcription	4	IEA	https://reactome.org/content/detail/R-MMU-9762293
+R-MMU-9764260	Regulation of Expression and Function of Type II Classical Cadherins	13	IEA	https://reactome.org/content/detail/R-MMU-9764260
+R-MMU-9764265	Regulation of CDH1 Expression and Function	170	IEA	https://reactome.org/content/detail/R-MMU-9764265
+R-MMU-9764274	Regulation of Expression and Function of Type I Classical Cadherins	170	IEA	https://reactome.org/content/detail/R-MMU-9764274
+R-MMU-9764560	Regulation of CDH1 Gene Transcription	83	IEA	https://reactome.org/content/detail/R-MMU-9764560
+R-MMU-9764561	Regulation of CDH1 Function	60	IEA	https://reactome.org/content/detail/R-MMU-9764561
+R-MMU-9764725	Negative Regulation of CDH1 Gene Transcription	83	IEA	https://reactome.org/content/detail/R-MMU-9764725
+R-MMU-9766229	Degradation of CDH1	53	IEA	https://reactome.org/content/detail/R-MMU-9766229
+R-MMU-9768727	Regulation of CDH1 posttranslational processing and trafficking to plasma membrane	29	IEA	https://reactome.org/content/detail/R-MMU-9768727
+R-MMU-9768919	NPAS4 regulates expression of target genes	5	IEA	https://reactome.org/content/detail/R-MMU-9768919
+R-MMU-9769733	Fibrin formation	13	IEA	https://reactome.org/content/detail/R-MMU-9769733
+R-MMU-9769735	Initiation of coagulation cascade	22	IEA	https://reactome.org/content/detail/R-MMU-9769735
+R-MMU-9769739	Regulation of clotting cascade	49	IEA	https://reactome.org/content/detail/R-MMU-9769739
+R-MMU-9769740	Coagulation pathway	56	IEA	https://reactome.org/content/detail/R-MMU-9769740
+R-MMU-9769743	Amplification and propagation of coagulation cascade	18	IEA	https://reactome.org/content/detail/R-MMU-9769743
+R-MMU-9770562	mRNA Polyadenylation	120	IEA	https://reactome.org/content/detail/R-MMU-9770562
+R-MMU-977068	Termination of O-glycan biosynthesis	19	IEA	https://reactome.org/content/detail/R-MMU-977068
+R-MMU-9772755	Formation of WDR5-containing histone-modifying complexes	39	IEA	https://reactome.org/content/detail/R-MMU-9772755
+R-MMU-977347	Serine metabolism	11	IEA	https://reactome.org/content/detail/R-MMU-977347
+R-MMU-977443	GABA receptor activation	59	IEA	https://reactome.org/content/detail/R-MMU-977443
+R-MMU-977444	GABA B receptor activation	43	IEA	https://reactome.org/content/detail/R-MMU-977444
+R-MMU-977606	Regulation of Complement cascade	143	IEA	https://reactome.org/content/detail/R-MMU-977606
+R-MMU-9793242	SUMOylation of nuclear envelope proteins	3	IEA	https://reactome.org/content/detail/R-MMU-9793242
+R-MMU-9793528	Ciprofloxacin ADME	3	IEA	https://reactome.org/content/detail/R-MMU-9793528
+R-MMU-9818027	NFE2L2 regulating anti-oxidant/detoxification enzymes	2	IEA	https://reactome.org/content/detail/R-MMU-9818027
+R-MMU-9818564	Epigenetic regulation of gene expression by MLL3 and MLL4 complexes	82	IEA	https://reactome.org/content/detail/R-MMU-9818564
+R-MMU-9824585	Regulation of MITF-M-dependent genes involved in pigmentation	7	IEA	https://reactome.org/content/detail/R-MMU-9824585
+R-MMU-9824594	Regulation of MITF-M-dependent genes involved in apoptosis	4	IEA	https://reactome.org/content/detail/R-MMU-9824594
+R-MMU-9824878	Regulation of TBK1, IKKε (IKBKE)-mediated activation of IRF3, IRF7 	15	IEA	https://reactome.org/content/detail/R-MMU-9824878
+R-MMU-9825892	Regulation of MITF-M-dependent genes involved in cell cycle and proliferation	8	IEA	https://reactome.org/content/detail/R-MMU-9825892
+R-MMU-982772	Growth hormone receptor signaling	12	IEA	https://reactome.org/content/detail/R-MMU-982772
+R-MMU-983168	Antigen processing: Ubiquitination & Proteasome degradation	281	IEA	https://reactome.org/content/detail/R-MMU-983168
+R-MMU-983169	Class I MHC mediated antigen processing & presentation	333	IEA	https://reactome.org/content/detail/R-MMU-983169
+R-MMU-983170	Antigen Presentation: Folding, assembly and peptide loading of class I MHC	33	IEA	https://reactome.org/content/detail/R-MMU-983170
+R-MMU-983189	Kinesins	57	IEA	https://reactome.org/content/detail/R-MMU-983189
+R-MMU-983231	Factors involved in megakaryocyte development and platelet production	124	IEA	https://reactome.org/content/detail/R-MMU-983231
+R-MMU-9833482	PKR-mediated signaling	65	IEA	https://reactome.org/content/detail/R-MMU-9833482
+R-MMU-9834899	Specification of the neural plate border	3	IEA	https://reactome.org/content/detail/R-MMU-9834899
+R-MMU-983695	Antigen activates B Cell Receptor (BCR) leading to generation of second messengers	126	IEA	https://reactome.org/content/detail/R-MMU-983695
+R-MMU-983705	Signaling by the B Cell Receptor (BCR)	192	IEA	https://reactome.org/content/detail/R-MMU-983705
+R-MMU-983712	Ion channel transport	176	IEA	https://reactome.org/content/detail/R-MMU-983712
+R-MMU-9837999	Mitochondrial protein degradation	81	IEA	https://reactome.org/content/detail/R-MMU-9837999
+R-MMU-9839373	Signaling by TGFBR3	21	IEA	https://reactome.org/content/detail/R-MMU-9839373
+R-MMU-9839383	TGFBR3 PTM regulation	10	IEA	https://reactome.org/content/detail/R-MMU-9839383
+R-MMU-9839389	TGFBR3 regulates TGF-beta signaling	8	IEA	https://reactome.org/content/detail/R-MMU-9839389
+R-MMU-9839397	TGFBR3 regulates FGF2 signaling	3	IEA	https://reactome.org/content/detail/R-MMU-9839397
+R-MMU-9839406	TGFBR3 regulates activin signaling	4	IEA	https://reactome.org/content/detail/R-MMU-9839406
+R-MMU-9840309	Glycosphingolipid biosynthesis	19	IEA	https://reactome.org/content/detail/R-MMU-9840309
+R-MMU-9840310	Glycosphingolipid catabolism	34	IEA	https://reactome.org/content/detail/R-MMU-9840310
+R-MMU-9840373	Cellular response to mitochondrial stress	9	IEA	https://reactome.org/content/detail/R-MMU-9840373
+R-MMU-9841251	Mitochondrial unfolded protein response (UPRmt)	8	IEA	https://reactome.org/content/detail/R-MMU-9841251
+R-MMU-9841922	MLL4 and MLL3 complexes regulate expression of PPARG target genes in adipogenesis and hepatic steatosis	74	IEA	https://reactome.org/content/detail/R-MMU-9841922
+R-MMU-9842663	Signaling by LTK	11	IEA	https://reactome.org/content/detail/R-MMU-9842663
+R-MMU-9842860	Regulation of endogenous retroelements	125	IEA	https://reactome.org/content/detail/R-MMU-9842860
+R-MMU-9843745	Adipogenesis	3	IEA	https://reactome.org/content/detail/R-MMU-9843745
+R-MMU-9843940	Regulation of endogenous retroelements by KRAB-ZFP proteins	125	IEA	https://reactome.org/content/detail/R-MMU-9843940
+R-MMU-9845576	Glycosphingolipid transport	8	IEA	https://reactome.org/content/detail/R-MMU-9845576
+R-MMU-9845614	Sphingolipid catabolism	12	IEA	https://reactome.org/content/detail/R-MMU-9845614
+R-MMU-9851151	MDK and PTN in ALK signaling	4	IEA	https://reactome.org/content/detail/R-MMU-9851151
+R-MMU-9851695	Epigenetic regulation of adipogenesis genes by MLL3 and MLL4 complexes	74	IEA	https://reactome.org/content/detail/R-MMU-9851695
+R-MMU-9853506	OGDH complex synthesizes succinyl-CoA from 2-OG	4	IEA	https://reactome.org/content/detail/R-MMU-9853506
+R-MMU-9854311	Maturation of TCA enzymes and regulation of TCA cycle	19	IEA	https://reactome.org/content/detail/R-MMU-9854311
+R-MMU-9855142	Cellular responses to mechanical stimuli	68	IEA	https://reactome.org/content/detail/R-MMU-9855142
+R-MMU-9855719	Regulation of FXIIa and plasma kallikrein activity	9	IEA	https://reactome.org/content/detail/R-MMU-9855719
+R-MMU-9856530	High laminar flow shear stress activates signaling by PIEZO1 and PECAM1:CDH5:KDR in endothelial cells	46	IEA	https://reactome.org/content/detail/R-MMU-9856530
+R-MMU-9856649	Transcriptional and post-translational regulation of MITF-M expression and activity	31	IEA	https://reactome.org/content/detail/R-MMU-9856649
+R-MMU-9856651	MITF-M-dependent gene expression	16	IEA	https://reactome.org/content/detail/R-MMU-9856651
+R-MMU-9856872	Malate-aspartate shuttle	9	IEA	https://reactome.org/content/detail/R-MMU-9856872
+R-MMU-9857492	Protein lipoylation	10	IEA	https://reactome.org/content/detail/R-MMU-9857492
+R-MMU-9858328	OADH complex synthesizes glutaryl-CoA from 2-OA	3	IEA	https://reactome.org/content/detail/R-MMU-9858328
+R-MMU-9859138	BCKDH synthesizes BCAA-CoA from KIC, KMVA, KIV	4	IEA	https://reactome.org/content/detail/R-MMU-9859138
+R-MMU-9860276	SLC15A4:TASL-dependent IRF5 activation	6	IEA	https://reactome.org/content/detail/R-MMU-9860276
+R-MMU-9860927	Turbulent (oscillatory, disturbed) flow shear stress activates signaling by PIEZO1 and integrins in endothelial cells	28	IEA	https://reactome.org/content/detail/R-MMU-9860927
+R-MMU-9860931	Response of endothelial cells to shear stress	68	IEA	https://reactome.org/content/detail/R-MMU-9860931
+R-MMU-9861559	PDH complex synthesizes acetyl-CoA from PYR	6	IEA	https://reactome.org/content/detail/R-MMU-9861559
+R-MMU-9861718	Regulation of pyruvate metabolism	34	IEA	https://reactome.org/content/detail/R-MMU-9861718
+R-MMU-9864848	Complex IV assembly	42	IEA	https://reactome.org/content/detail/R-MMU-9864848
+R-MMU-9865881	Complex III assembly	18	IEA	https://reactome.org/content/detail/R-MMU-9865881
+R-MMU-9907900	Proteasome assembly	47	IEA	https://reactome.org/content/detail/R-MMU-9907900
+R-MMU-9909396	Circadian clock	38	IEA	https://reactome.org/content/detail/R-MMU-9909396
+R-MMU-9909505	Modulation of host responses by IFN-stimulated genes	12	IEA	https://reactome.org/content/detail/R-MMU-9909505
+R-MMU-9909615	Regulation of PD-L1(CD274) Post-translational modification	84	IEA	https://reactome.org/content/detail/R-MMU-9909615
+R-MMU-9909648	Regulation of PD-L1(CD274) expression	156	IEA	https://reactome.org/content/detail/R-MMU-9909648
+R-MMU-9909649	Regulation of PD-L1(CD274) transcription	72	IEA	https://reactome.org/content/detail/R-MMU-9909649
+R-MMU-9912633	Antigen processing: Ub, ATP-independent proteasomal degradation	19	IEA	https://reactome.org/content/detail/R-MMU-9912633
+R-MMU-9913351	Formation of the dystrophin-glycoprotein complex (DGC)	26	IEA	https://reactome.org/content/detail/R-MMU-9913351
+R-MMU-9913635	Strand-asynchronous mitochondrial DNA replication	5	IEA	https://reactome.org/content/detail/R-MMU-9913635
+R-MMU-991365	Activation of GABAB receptors	43	IEA	https://reactome.org/content/detail/R-MMU-991365
+R-MMU-9917777	Epigenetic regulation by WDR5-containing histone modifying complexes	113	IEA	https://reactome.org/content/detail/R-MMU-9917777
+R-MMU-9927353	Co-inhibition by BTLA	4	IEA	https://reactome.org/content/detail/R-MMU-9927353
+R-MMU-9927354	Co-stimulation by ICOS	11	IEA	https://reactome.org/content/detail/R-MMU-9927354
+R-MMU-9929356	GSK3B-mediated proteasomal degradation of PD-L1(CD274)	43	IEA	https://reactome.org/content/detail/R-MMU-9929356
+R-MMU-9929491	SPOP-mediated proteasomal degradation of PD-L1(CD274)	46	IEA	https://reactome.org/content/detail/R-MMU-9929491
+R-MMU-9930044	Nuclear RNA decay	30	IEA	https://reactome.org/content/detail/R-MMU-9930044
+R-MMU-9931269	AMPK-induced ERAD and lysosome mediated degradation of PD-L1(CD274)	55	IEA	https://reactome.org/content/detail/R-MMU-9931269
+R-MMU-9931295	PD-L1(CD274) glycosylation and translocation to plasma membrane	21	IEA	https://reactome.org/content/detail/R-MMU-9931295
+R-MMU-9932298	Degradation of CRY and PER proteins	38	IEA	https://reactome.org/content/detail/R-MMU-9932298
+R-MMU-9932444	ATP-dependent chromatin remodelers	132	IEA	https://reactome.org/content/detail/R-MMU-9932444
+R-MMU-9932451	SWI/SNF chromatin remodelers	27	IEA	https://reactome.org/content/detail/R-MMU-9932451
+R-MMU-9933937	Formation of the canonical BAF (cBAF) complex	16	IEA	https://reactome.org/content/detail/R-MMU-9933937
+R-MMU-9933939	Formation of the polybromo-BAF (pBAF) complex	15	IEA	https://reactome.org/content/detail/R-MMU-9933939
+R-MMU-9933946	Formation of the embryonic stem cell BAF (esBAF) complex	18	IEA	https://reactome.org/content/detail/R-MMU-9933946
+R-MMU-9933947	Formation of the non-canonical BAF (ncBAF) complex	16	IEA	https://reactome.org/content/detail/R-MMU-9933947
+R-MMU-9934037	Formation of neuronal progenitor and neuronal BAF (npBAF and nBAF)	18	IEA	https://reactome.org/content/detail/R-MMU-9934037
+R-MMU-9935598	FXIIa, PKa-dependent activation of coagulation pathway	9	IEA	https://reactome.org/content/detail/R-MMU-9935598
+R-MMU-9937383	Mitochondrial ribosome-associated quality control	88	IEA	https://reactome.org/content/detail/R-MMU-9937383
+R-MMU-9937848	CHD chromatin remodelers	106	IEA	https://reactome.org/content/detail/R-MMU-9937848
+R-MMU-9937850	NuRD complex assembly	99	IEA	https://reactome.org/content/detail/R-MMU-9937850
+R-MMU-9938024	Somatic hypermutation of immunoglobulin genes	25	IEA	https://reactome.org/content/detail/R-MMU-9938024
+R-MMU-9938026	Immunoglobulin maturation	102	IEA	https://reactome.org/content/detail/R-MMU-9938026
+R-MMU-9938027	Affinity selection of immunoglobulins	102	IEA	https://reactome.org/content/detail/R-MMU-9938027
+R-MMU-9939291	Matriglycan biosynthesis on DAG1	13	IEA	https://reactome.org/content/detail/R-MMU-9939291
+R-MMU-9940465	ChAHP complex assembly	3	IEA	https://reactome.org/content/detail/R-MMU-9940465
+R-MMU-9940951	Interaction of NuRD complexes with transcription factors	93	IEA	https://reactome.org/content/detail/R-MMU-9940951
+R-MMU-9943962	CHD6, CHD7, CHD8, CHD9 subfamily	5	IEA	https://reactome.org/content/detail/R-MMU-9943962
+R-MMU-9943965	CHD3, CHD4, CHD5 subfamily	101	IEA	https://reactome.org/content/detail/R-MMU-9943965
+R-MMU-9945556	Transcriptional regulation of multiciliogenesis	10	IEA	https://reactome.org/content/detail/R-MMU-9945556
+R-MMU-9948001	CASP4 inflammasome assembly	2	IEA	https://reactome.org/content/detail/R-MMU-9948001
+R-MMU-9948011	CASP5 inflammasome assembly	1	IEA	https://reactome.org/content/detail/R-MMU-9948011
+R-MMU-9948299	Ribosome-associated quality control	140	IEA	https://reactome.org/content/detail/R-MMU-9948299
+R-MMU-9953170	GBP-mediated host defense	5	IEA	https://reactome.org/content/detail/R-MMU-9953170
+R-MMU-9954709	Ribosome Quality Control (RQC) complex extracts and degrades nascent peptide	99	IEA	https://reactome.org/content/detail/R-MMU-9954709
+R-MMU-9954714	PELO:HBS1L and ABCE1 dissociate a ribosome on a non-stop mRNA	91	IEA	https://reactome.org/content/detail/R-MMU-9954714
+R-MMU-9954716	ZNF598 and the Ribosome-associated Quality Trigger (RQT) complex dissociate a ribosome stalled on a no-go mRNA	97	IEA	https://reactome.org/content/detail/R-MMU-9954716
+R-MMU-9955298	SLC-mediated transport of organic anions	36	IEA	https://reactome.org/content/detail/R-MMU-9955298
+R-MMU-9958517	SLC-mediated bile acid transport	7	IEA	https://reactome.org/content/detail/R-MMU-9958517
+R-MMU-9958790	SLC-mediated transport of inorganic anions	35	IEA	https://reactome.org/content/detail/R-MMU-9958790
+R-MMU-9958810	SRC activates STAT3 in a quantitative manner, through Cadherin-11 (CDH11), RAC1 and gp130 (IL6ST)	21	IEA	https://reactome.org/content/detail/R-MMU-9958810
+R-MMU-9958825	Activation of STAT3 by cadherin engagement	42	IEA	https://reactome.org/content/detail/R-MMU-9958825
+R-MMU-9958863	SLC-mediated transport of amino acids	36	IEA	https://reactome.org/content/detail/R-MMU-9958863
+R-MMU-9959399	SLC-mediated transport of oligopeptides	4	IEA	https://reactome.org/content/detail/R-MMU-9959399
+R-MMU-9960519	CASP4-mediated substrate cleavage	5	IEA	https://reactome.org/content/detail/R-MMU-9960519
+R-MMU-9960525	CASP5-mediated substrate cleavage	5	IEA	https://reactome.org/content/detail/R-MMU-9960525
+R-MMU-9968295	Somatic hypermutation of immunoglobulin genes by error-prone mismatch repair (MMR)	21	IEA	https://reactome.org/content/detail/R-MMU-9968295
+R-MMU-9968297	Somatic hypermutation of immunoglobulin genes by error-prone base excision repair (BER)	12	IEA	https://reactome.org/content/detail/R-MMU-9968297
+R-MMU-9969896	Lanosterol biosynthesis	15	IEA	https://reactome.org/content/detail/R-MMU-9969896
+R-MMU-9969901	Cholesterol biosynthesis from zymosterol (modified Kandutsch-Russell pathway)	3	IEA	https://reactome.org/content/detail/R-MMU-9969901
+R-MMU-9970672	FXIIa activates plasma kallikrein-kinin system	10	IEA	https://reactome.org/content/detail/R-MMU-9970672
+R-MMU-997272	Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits	29	IEA	https://reactome.org/content/detail/R-MMU-997272
+R-MMU-9974237	Negative Regulation of DNA Double Strand Break Response	42	IEA	https://reactome.org/content/detail/R-MMU-9974237
+R-MMU-9975921	Assembly of the 9+0 primary cilium	195	IEA	https://reactome.org/content/detail/R-MMU-9975921
+R-MMU-9975924	Assembly of the 9+2 motile cilia	10	IEA	https://reactome.org/content/detail/R-MMU-9975924
+R-MMU-9979719	Processing of antigen in germinal center B cells	77	IEA	https://reactome.org/content/detail/R-MMU-9979719

@@ -1,0 +1,46 @@
+{
+  "atlas_gene_identifiers.tsv": {
+    "sha256": "883783110bda105a393b29c190ba17efa802149f997d2b951bb27013acea0e9e",
+    "bytes": 1515929
+  },
+  "mouse_gene_identifiers.tsv": {
+    "sha256": "c60bff7892182bda00ed7d73f74e0182701ef31ef01d2254be507cfaed2938f2",
+    "bytes": 7085328
+  },
+  "reactome_mouse_ensembl.gmt": {
+    "sha256": "978ba9964277d3e46195669e28af0e56463cdbbe8dc8f4db4457c44ebebe2136",
+    "bytes": 1884337
+  },
+  "reactome_mouse_pathway_relations.tsv": {
+    "sha256": "9893d5ca31f12911dbb404adbd6b3390c933a722b56bc87698460dc884924e6d",
+    "bytes": 49730
+  },
+  "reactome_mouse_pathways.tsv": {
+    "sha256": "3ed414504f92dd0226d09df3eacd0f55f774ee8ebe2346f0ac9e5705b68388ed",
+    "bytes": 197155
+  },
+  "senmayo_mouse_ensembl.gmt": {
+    "sha256": "da3734c6b14ddb0eb3f7a382654424a1bdbd256ad401f4838595d9ecf2994841",
+    "bytes": 2287
+  },
+  "senmayo_mouse_identifier_mapping.tsv": {
+    "sha256": "e5fe0e056a6d049cdca683aa618c7261812a5cbe2562d96196eba0cfed6af8ff",
+    "bytes": 13604
+  },
+  "senmayo_mouse_source_rows.tsv": {
+    "sha256": "a410d4ab0d250e68664a0bc9bdf4b66f5ffb219b4025e4d62cb48e0be00b1a97",
+    "bytes": 5741
+  },
+  "senmayo_mouse_symbols.gmt": {
+    "sha256": "6489717c71a2433230c03e1a2f67319ba251c6530fafff9e3fdb4e468ef10a2a",
+    "bytes": 721
+  },
+  "senmayo_mouse_symbols.tsv": {
+    "sha256": "a547d8c46ccbce5fc74acbc95d38838e167922900fca967c9e91d9ffbfcbe67c",
+    "bytes": 693
+  },
+  "validation_summary.json": {
+    "sha256": "3dff7e851fd18a079d170b00d99d4b2c52b899897ea146c2b58faa8c9321a383",
+    "bytes": 1188
+  }
+}

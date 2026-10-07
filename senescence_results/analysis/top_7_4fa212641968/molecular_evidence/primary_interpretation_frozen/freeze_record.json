@@ -1,0 +1,22 @@
+{
+  "frozen_at_utc": "2026-09-25T20:38:51.220454+00:00",
+  "program_ids": [
+    179,
+    163,
+    122,
+    196,
+    188,
+    60,
+    124
+  ],
+  "assessment": "Primary raw Reactome interpretation and separately assessed Reactome specificity appendix; no SenMayo file has been opened before this record.",
+  "files": {
+    "functional_interpretation_top_7.csv": "436dea2962f56969ff14994d1b5f1c7aaab6953a482113e2bec9e4127118600b",
+    "independent_biology.md": "166738adf2c5a6bfe9259b031b48d75ae3ebd4ebcd103f4006bea1f13ca89451"
+  },
+  "source_evidence_sha256": {
+    "reactome_raw_enrichment.csv": "1cb020192de1262f6e637c44b4509751e56560028c0da7184279854c19dce5df",
+    "reactome_specificity_enrichment.csv": "d060f7dfa7e26d6dac666a5ada98e6e800ae04c0a4d087da67ee4d5e86673146",
+    "gene_weights_specificity_and_ranks.csv.gz": "9b52dd2f2243f367730ef75c9417e4cbec8a352ca447711647558730dab14674"
+  }
+}
